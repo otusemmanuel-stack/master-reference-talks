@@ -1,0 +1,728 @@
+{
+ "schema": 2,
+ "language": "en",
+ "indexVersion": 1,
+ "count": 90,
+ "talks": [
+  {
+   "id": "becoming-like-jesus-christ",
+   "title": "Becoming like Jesus Christ",
+   "phase": 3,
+   "order": 1,
+   "file": "en/becoming-like-jesus-christ.json",
+   "bytes": 60357
+  },
+  {
+   "id": "the-love-of-jesus-christ",
+   "title": "The Love of Jesus Christ",
+   "phase": 3,
+   "order": 2,
+   "file": "en/the-love-of-jesus-christ.json",
+   "bytes": 60512
+  },
+  {
+   "id": "the-plan-of-happiness",
+   "title": "The Plan of Happiness",
+   "phase": 3,
+   "order": 3,
+   "file": "en/the-plan-of-happiness.json",
+   "bytes": 60591
+  },
+  {
+   "id": "prayer",
+   "title": "Prayer",
+   "phase": 3,
+   "order": 4,
+   "file": "en/prayer.json",
+   "bytes": 57846
+  },
+  {
+   "id": "gratitude",
+   "title": "Gratitude",
+   "phase": 3,
+   "order": 5,
+   "file": "en/gratitude.json",
+   "bytes": 55010
+  },
+  {
+   "id": "trust-in-god",
+   "title": "Trust in God",
+   "phase": 3,
+   "order": 6,
+   "file": "en/trust-in-god.json",
+   "bytes": 57696
+  },
+  {
+   "id": "agency",
+   "title": "Agency",
+   "phase": 3,
+   "order": 7,
+   "file": "en/agency.json",
+   "bytes": 65912
+  },
+  {
+   "id": "revelation",
+   "title": "Revelation",
+   "phase": 3,
+   "order": 8,
+   "file": "en/revelation.json",
+   "bytes": 55801
+  },
+  {
+   "id": "we-are-children-of-god",
+   "title": "We Are Children of God",
+   "phase": 3,
+   "order": 9,
+   "file": "en/we-are-children-of-god.json",
+   "bytes": 59015
+  },
+  {
+   "id": "purpose-in-life",
+   "title": "Purpose in Life",
+   "phase": 4,
+   "order": 1,
+   "file": "en/purpose-in-life.json",
+   "bytes": 42574
+  },
+  {
+   "id": "the-love-of-god",
+   "title": "The Love of God",
+   "phase": 4,
+   "order": 2,
+   "file": "en/the-love-of-god.json",
+   "bytes": 41400
+  },
+  {
+   "id": "life-after-death",
+   "title": "Life after Death",
+   "phase": 4,
+   "order": 3,
+   "file": "en/life-after-death.json",
+   "bytes": 47147
+  },
+  {
+   "id": "studying-the-scriptures",
+   "title": "Studying the Scriptures",
+   "phase": 4,
+   "order": 4,
+   "file": "en/studying-the-scriptures.json",
+   "bytes": 48360
+  },
+  {
+   "id": "the-book-of-mormon",
+   "title": "The Book of Mormon",
+   "phase": 4,
+   "order": 5,
+   "file": "en/the-book-of-mormon.json",
+   "bytes": 53159
+  },
+  {
+   "id": "the-bible",
+   "title": "The Bible",
+   "phase": 4,
+   "order": 6,
+   "file": "en/the-bible.json",
+   "bytes": 37106
+  },
+  {
+   "id": "the-doctrine-and-covenants",
+   "title": "The Doctrine and Covenants",
+   "phase": 4,
+   "order": 7,
+   "file": "en/the-doctrine-and-covenants.json",
+   "bytes": 40322
+  },
+  {
+   "id": "living-prophets",
+   "title": "Living prophets",
+   "phase": 4,
+   "order": 8,
+   "file": "en/living-prophets.json",
+   "bytes": 42422
+  },
+  {
+   "id": "sustaining-church-leaders",
+   "title": "Sustaining Church leaders",
+   "phase": 4,
+   "order": 9,
+   "file": "en/sustaining-church-leaders.json",
+   "bytes": 39463
+  },
+  {
+   "id": "pondering",
+   "title": "Pondering",
+   "phase": 5,
+   "order": 1,
+   "file": "en/pondering.json",
+   "bytes": 39977
+  },
+  {
+   "id": "the-restoration",
+   "title": "The Restoration",
+   "phase": 5,
+   "order": 2,
+   "file": "en/the-restoration.json",
+   "bytes": 46335
+  },
+  {
+   "id": "the-first-vision",
+   "title": "The First Vision",
+   "phase": 5,
+   "order": 3,
+   "file": "en/the-first-vision.json",
+   "bytes": 47589
+  },
+  {
+   "id": "joseph-smith",
+   "title": "Joseph Smith",
+   "phase": 5,
+   "order": 4,
+   "file": "en/joseph-smith.json",
+   "bytes": 47633
+  },
+  {
+   "id": "the-priesthood",
+   "title": "The Priesthood",
+   "phase": 5,
+   "order": 5,
+   "file": "en/the-priesthood.json",
+   "bytes": 40735
+  },
+  {
+   "id": "priesthood-blessings",
+   "title": "Priesthood blessings",
+   "phase": 5,
+   "order": 6,
+   "file": "en/priesthood-blessings.json",
+   "bytes": 36038
+  },
+  {
+   "id": "the-church-of-jesus-christ",
+   "title": "The Church of Jesus Christ",
+   "phase": 5,
+   "order": 7,
+   "file": "en/the-church-of-jesus-christ.json",
+   "bytes": 35421
+  },
+  {
+   "id": "the-pioneers",
+   "title": "The pioneers",
+   "phase": 5,
+   "order": 8,
+   "file": "en/the-pioneers.json",
+   "bytes": 37674
+  },
+  {
+   "id": "missionary-work",
+   "title": "Missionary work",
+   "phase": 5,
+   "order": 9,
+   "file": "en/missionary-work.json",
+   "bytes": 35532
+  },
+  {
+   "id": "conversion",
+   "title": "Conversion",
+   "phase": 6,
+   "order": 1,
+   "file": "en/conversion.json",
+   "bytes": 36321
+  },
+  {
+   "id": "making-and-keeping-covenants",
+   "title": "Making and keeping covenants",
+   "phase": 6,
+   "order": 2,
+   "file": "en/making-and-keeping-covenants.json",
+   "bytes": 33276
+  },
+  {
+   "id": "the-temple",
+   "title": "The temple",
+   "phase": 6,
+   "order": 3,
+   "file": "en/the-temple.json",
+   "bytes": 35716
+  },
+  {
+   "id": "family-history",
+   "title": "Family history",
+   "phase": 6,
+   "order": 4,
+   "file": "en/family-history.json",
+   "bytes": 36713
+  },
+  {
+   "id": "eternal-marriage",
+   "title": "Eternal marriage",
+   "phase": 6,
+   "order": 5,
+   "file": "en/eternal-marriage.json",
+   "bytes": 32923
+  },
+  {
+   "id": "eternal-families",
+   "title": "Eternal families",
+   "phase": 6,
+   "order": 6,
+   "file": "en/eternal-families.json",
+   "bytes": 34651
+  },
+  {
+   "id": "preparing-for-the-temple",
+   "title": "Preparing for the temple",
+   "phase": 6,
+   "order": 7,
+   "file": "en/preparing-for-the-temple.json",
+   "bytes": 33751
+  },
+  {
+   "id": "the-gathering-of-israel",
+   "title": "The gathering of Israel",
+   "phase": 6,
+   "order": 8,
+   "file": "en/the-gathering-of-israel.json",
+   "bytes": 31111
+  },
+  {
+   "id": "ordinances",
+   "title": "Ordinances",
+   "phase": 6,
+   "order": 9,
+   "file": "en/ordinances.json",
+   "bytes": 34385
+  },
+  {
+   "id": "tithing",
+   "title": "Tithing",
+   "phase": 7,
+   "order": 1,
+   "file": "en/tithing.json",
+   "bytes": 33435
+  },
+  {
+   "id": "fasting-and-fast-offerings",
+   "title": "Fasting and fast offerings",
+   "phase": 7,
+   "order": 2,
+   "file": "en/fasting-and-fast-offerings.json",
+   "bytes": 38164
+  },
+  {
+   "id": "the-sabbath-day",
+   "title": "The Sabbath day",
+   "phase": 7,
+   "order": 3,
+   "file": "en/the-sabbath-day.json",
+   "bytes": 35309
+  },
+  {
+   "id": "the-word-of-wisdom",
+   "title": "The Word of Wisdom",
+   "phase": 7,
+   "order": 4,
+   "file": "en/the-word-of-wisdom.json",
+   "bytes": 34839
+  },
+  {
+   "id": "the-law-of-chastity",
+   "title": "The law of chastity",
+   "phase": 7,
+   "order": 5,
+   "file": "en/the-law-of-chastity.json",
+   "bytes": 29907
+  },
+  {
+   "id": "honesty",
+   "title": "Honesty",
+   "phase": 7,
+   "order": 6,
+   "file": "en/honesty.json",
+   "bytes": 28195
+  },
+  {
+   "id": "keeping-the-commandments",
+   "title": "Keeping the commandments",
+   "phase": 7,
+   "order": 7,
+   "file": "en/keeping-the-commandments.json",
+   "bytes": 32507
+  },
+  {
+   "id": "using-media-and-technology-wisely",
+   "title": "Using media and technology wisely",
+   "phase": 7,
+   "order": 8,
+   "file": "en/using-media-and-technology-wisely.json",
+   "bytes": 30631
+  },
+  {
+   "id": "standing-for-truth",
+   "title": "Standing for truth",
+   "phase": 7,
+   "order": 9,
+   "file": "en/standing-for-truth.json",
+   "bytes": 32424
+  },
+  {
+   "id": "service",
+   "title": "Service",
+   "phase": 8,
+   "order": 1,
+   "file": "en/service.json",
+   "bytes": 28299
+  },
+  {
+   "id": "ministering",
+   "title": "Ministering",
+   "phase": 8,
+   "order": 2,
+   "file": "en/ministering.json",
+   "bytes": 31321
+  },
+  {
+   "id": "self-reliance",
+   "title": "Self-reliance",
+   "phase": 8,
+   "order": 3,
+   "file": "en/self-reliance.json",
+   "bytes": 29825
+  },
+  {
+   "id": "caring-for-the-poor-and-needy",
+   "title": "Caring for the poor and needy",
+   "phase": 8,
+   "order": 4,
+   "file": "en/caring-for-the-poor-and-needy.json",
+   "bytes": 34564
+  },
+  {
+   "id": "kindness",
+   "title": "Kindness",
+   "phase": 8,
+   "order": 5,
+   "file": "en/kindness.json",
+   "bytes": 29018
+  },
+  {
+   "id": "unity",
+   "title": "Unity",
+   "phase": 8,
+   "order": 6,
+   "file": "en/unity.json",
+   "bytes": 30387
+  },
+  {
+   "id": "peace",
+   "title": "Peace",
+   "phase": 8,
+   "order": 7,
+   "file": "en/peace.json",
+   "bytes": 28822
+  },
+  {
+   "id": "joy",
+   "title": "Joy",
+   "phase": 8,
+   "order": 8,
+   "file": "en/joy.json",
+   "bytes": 28567
+  },
+  {
+   "id": "courage",
+   "title": "Courage",
+   "phase": 8,
+   "order": 9,
+   "file": "en/courage.json",
+   "bytes": 30934
+  },
+  {
+   "id": "trials-and-adversity",
+   "title": "Trials and adversity",
+   "phase": 9,
+   "order": 1,
+   "file": "en/trials-and-adversity.json",
+   "bytes": 31299
+  },
+  {
+   "id": "overcoming-doubt",
+   "title": "Overcoming doubt",
+   "phase": 9,
+   "order": 2,
+   "file": "en/overcoming-doubt.json",
+   "bytes": 34388
+  },
+  {
+   "id": "facing-fear",
+   "title": "Facing fear",
+   "phase": 9,
+   "order": 3,
+   "file": "en/facing-fear.json",
+   "bytes": 32039
+  },
+  {
+   "id": "comfort-in-times-of-loss",
+   "title": "Comfort in times of loss",
+   "phase": 9,
+   "order": 4,
+   "file": "en/comfort-in-times-of-loss.json",
+   "bytes": 30095
+  },
+  {
+   "id": "starting-again-after-mistakes",
+   "title": "Starting again after mistakes",
+   "phase": 9,
+   "order": 5,
+   "file": "en/starting-again-after-mistakes.json",
+   "bytes": 33246
+  },
+  {
+   "id": "loneliness-and-belonging",
+   "title": "Loneliness and belonging",
+   "phase": 9,
+   "order": 6,
+   "file": "en/loneliness-and-belonging.json",
+   "bytes": 30525
+  },
+  {
+   "id": "strength-in-weakness",
+   "title": "Strength in weakness",
+   "phase": 9,
+   "order": 7,
+   "file": "en/strength-in-weakness.json",
+   "bytes": 40193
+  },
+  {
+   "id": "waiting-on-the-lord",
+   "title": "Waiting on the Lord",
+   "phase": 9,
+   "order": 8,
+   "file": "en/waiting-on-the-lord.json",
+   "bytes": 37766
+  },
+  {
+   "id": "patience",
+   "title": "Patience",
+   "phase": 9,
+   "order": 9,
+   "file": "en/patience.json",
+   "bytes": 35921
+  },
+  {
+   "id": "family",
+   "title": "Family",
+   "phase": 10,
+   "order": 1,
+   "file": "en/family.json",
+   "bytes": 40112
+  },
+  {
+   "id": "the-home-as-a-place-of-faith",
+   "title": "The home as a place of faith",
+   "phase": 10,
+   "order": 2,
+   "file": "en/the-home-as-a-place-of-faith.json",
+   "bytes": 38449
+  },
+  {
+   "id": "teaching-children",
+   "title": "Teaching children",
+   "phase": 10,
+   "order": 3,
+   "file": "en/teaching-children.json",
+   "bytes": 40156
+  },
+  {
+   "id": "marriage",
+   "title": "Marriage",
+   "phase": 10,
+   "order": 4,
+   "file": "en/marriage.json",
+   "bytes": 34305
+  },
+  {
+   "id": "mothers",
+   "title": "Mothers",
+   "phase": 10,
+   "order": 5,
+   "file": "en/mothers.json",
+   "bytes": 34244
+  },
+  {
+   "id": "fathers",
+   "title": "Fathers",
+   "phase": 10,
+   "order": 6,
+   "file": "en/fathers.json",
+   "bytes": 36461
+  },
+  {
+   "id": "youth-and-their-choices",
+   "title": "Youth and their choices",
+   "phase": 10,
+   "order": 7,
+   "file": "en/youth-and-their-choices.json",
+   "bytes": 35523
+  },
+  {
+   "id": "learning-and-education",
+   "title": "Learning and education",
+   "phase": 10,
+   "order": 8,
+   "file": "en/learning-and-education.json",
+   "bytes": 34707
+  },
+  {
+   "id": "using-time-well",
+   "title": "Using time well",
+   "phase": 10,
+   "order": 9,
+   "file": "en/using-time-well.json",
+   "bytes": 32901
+  },
+  {
+   "id": "baptism",
+   "title": "Baptism",
+   "phase": null,
+   "order": null,
+   "file": "en/baptism.json",
+   "bytes": 82954
+  },
+  {
+   "id": "charity",
+   "title": "Charity",
+   "phase": null,
+   "order": null,
+   "file": "en/charity.json",
+   "bytes": 79741
+  },
+  {
+   "id": "enduring-to-the-end",
+   "title": "Enduring to the end",
+   "phase": null,
+   "order": null,
+   "file": "en/enduring-to-the-end.json",
+   "bytes": 84638
+  },
+  {
+   "id": "faith-in-jesus-christ",
+   "title": "Faith in Jesus Christ",
+   "phase": null,
+   "order": null,
+   "file": "en/faith-in-jesus-christ.json",
+   "bytes": 85908
+  },
+  {
+   "id": "following-jesus-christ",
+   "title": "Following Jesus Christ",
+   "phase": null,
+   "order": null,
+   "file": "en/following-jesus-christ.json",
+   "bytes": 55197
+  },
+  {
+   "id": "forgiveness",
+   "title": "Forgiveness",
+   "phase": null,
+   "order": null,
+   "file": "en/forgiveness.json",
+   "bytes": 83916
+  },
+  {
+   "id": "grace",
+   "title": "Grace",
+   "phase": null,
+   "order": null,
+   "file": "en/grace.json",
+   "bytes": 63091
+  },
+  {
+   "id": "hope",
+   "title": "Hope",
+   "phase": null,
+   "order": null,
+   "file": "en/hope.json",
+   "bytes": 80389
+  },
+  {
+   "id": "humility",
+   "title": "Humility",
+   "phase": null,
+   "order": null,
+   "file": "en/humility.json",
+   "bytes": 78471
+  },
+  {
+   "id": "obedience",
+   "title": "Obedience",
+   "phase": null,
+   "order": null,
+   "file": "en/obedience.json",
+   "bytes": 68015
+  },
+  {
+   "id": "repentance",
+   "title": "Repentance",
+   "phase": null,
+   "order": null,
+   "file": "en/repentance.json",
+   "bytes": 78216
+  },
+  {
+   "id": "the-atonement-of-jesus-christ",
+   "title": "The Atonement of Jesus Christ",
+   "phase": null,
+   "order": null,
+   "file": "en/the-atonement-of-jesus-christ.json",
+   "bytes": 67204
+  },
+  {
+   "id": "the-birth-of-the-savior",
+   "title": "The Birth of the Savior",
+   "phase": null,
+   "order": null,
+   "file": "en/the-birth-of-the-savior.json",
+   "bytes": 69075
+  },
+  {
+   "id": "the-resurrection",
+   "title": "The Resurrection",
+   "phase": null,
+   "order": null,
+   "file": "en/the-resurrection.json",
+   "bytes": 72970
+  },
+  {
+   "id": "the-sacrament",
+   "title": "The Sacrament",
+   "phase": null,
+   "order": null,
+   "file": "en/the-sacrament.json",
+   "bytes": 64610
+  },
+  {
+   "id": "the-savior-as-healer",
+   "title": "The Savior as Healer",
+   "phase": null,
+   "order": null,
+   "file": "en/the-savior-as-healer.json",
+   "bytes": 62811
+  },
+  {
+   "id": "the-second-coming",
+   "title": "The Second Coming",
+   "phase": null,
+   "order": null,
+   "file": "en/the-second-coming.json",
+   "bytes": 59924
+  },
+  {
+   "id": "the-gift-of-the-holy-ghost",
+   "title": "The gift of the Holy Ghost",
+   "phase": null,
+   "order": null,
+   "file": "en/the-gift-of-the-holy-ghost.json",
+   "bytes": 79456
+  }
+ ]
+}
