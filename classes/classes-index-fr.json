@@ -2,7 +2,7 @@
  "schema": 2,
  "language": "fr",
  "indexVersion": 2,
- "count": 3,
+ "count": 7,
  "classes": [
   {
    "id": "lesson-01",
@@ -19,6 +19,38 @@
    "order": 2,
    "file": "en/lesson-02.json",
    "bytes": 12452
+  },
+  {
+   "id": "lesson-03",
+   "title": "3. Apprendre par l’Esprit",
+   "kind": "missionary-preparation",
+   "order": 3,
+   "file": "en/lesson-03.json",
+   "bytes": 10656
+  },
+  {
+   "id": "lesson-04",
+   "title": "4. Enseigner par l’Esprit",
+   "kind": "missionary-preparation",
+   "order": 4,
+   "file": "en/lesson-04.json",
+   "bytes": 11197
+  },
+  {
+   "id": "lesson-05",
+   "title": "5. Quel est le rôle du Livre de Mormon ?",
+   "kind": "missionary-preparation",
+   "order": 5,
+   "file": "en/lesson-05.json",
+   "bytes": 9757
+  },
+  {
+   "id": "lesson-06",
+   "title": "6. Se préparer à la vie de missionnaire",
+   "kind": "missionary-preparation",
+   "order": 6,
+   "file": "en/lesson-06.json",
+   "bytes": 10941
   },
   {
    "id": "lesson-07",

@@ -2,7 +2,7 @@
  "schema": 2,
  "language": "en",
  "indexVersion": 2,
- "count": 3,
+ "count": 7,
  "classes": [
   {
    "id": "lesson-01",
@@ -19,6 +19,38 @@
    "order": 2,
    "file": "en/lesson-02.json",
    "bytes": 10823
+  },
+  {
+   "id": "lesson-03",
+   "title": "3. Learning by the Spirit",
+   "kind": "missionary-preparation",
+   "order": 3,
+   "file": "en/lesson-03.json",
+   "bytes": 9300
+  },
+  {
+   "id": "lesson-04",
+   "title": "4. Teaching by the Spirit",
+   "kind": "missionary-preparation",
+   "order": 4,
+   "file": "en/lesson-04.json",
+   "bytes": 9919
+  },
+  {
+   "id": "lesson-05",
+   "title": "5. What Is the Role of the Book of Mormon?",
+   "kind": "missionary-preparation",
+   "order": 5,
+   "file": "en/lesson-05.json",
+   "bytes": 8722
+  },
+  {
+   "id": "lesson-06",
+   "title": "6. Preparing for Life as a Missionary",
+   "kind": "missionary-preparation",
+   "order": 6,
+   "file": "en/lesson-06.json",
+   "bytes": 9222
   },
   {
    "id": "lesson-07",

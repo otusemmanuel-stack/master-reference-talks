@@ -1,0 +1,222 @@
+{
+ "schema": 2,
+ "language": "en",
+ "id": "lesson-03",
+ "number": 3,
+ "title": "Learning by the Spirit",
+ "kind": "missionary-preparation",
+ "order": 3,
+ "focus": "Practice topic: inviting someone to church",
+ "intro": "A missionary grows by learning from the Holy Ghost every day. In this lesson learners see why gospel study matters, how to study so the Spirit can teach them, and how living what they learn deepens their faith.",
+ "preparation": "Study Doctrine and Covenants 8:2–3, 9:7–8, 11:12–17, 11:21–22, 11:26 and 138:1–2, 11. Bring paper for learners who have no study journal. Prepare a picture of Joseph and Hyrum Smith. Pray for each learner by name.",
+ "sections": [
+  {
+   "title": "Why gospel study matters",
+   "paras": [
+    "Show the picture of Joseph and Hyrum Smith. While Joseph was translating the Book of Mormon, Hyrum wanted to share the message and asked Joseph to seek the Lord’s will for him. The answer is Doctrine and Covenants 11. Hyrum stood where your learners stand today.",
+    "Read Doctrine and Covenants 11:15–17 and ask why the Lord told Hyrum to wait a little longer. Then read Doctrine and Covenants 11:21–22 and Doctrine and Covenants 11:26. Ask: What did the Lord tell Hyrum to do first? What does it mean to treasure up His word? Help learners say it: gospel study prepares missionaries to teach with the Spirit and with power."
+   ]
+  },
+  {
+   "title": "A study journal and real intent",
+   "paras": [
+    "A study journal can be a bound book, a notebook, pages in a binder or a notes app. Ask: Why write down the ideas and feelings that come while you study? Invite learners who keep a journal to share how it has helped.",
+    "Ask what it means to study with real intent. It means we plan to live what we learn. Ask how real intent and a hunger for righteousness would change the way someone studies and prays."
+   ]
+  },
+  {
+   "title": "How the Holy Ghost teaches",
+   "paras": [
+    "Read this from Elder D. Todd Christofferson, “When Thou Art Converted,” Ensign, May 2004: study is more than reading. He pictures a person reading a few verses, stopping to ponder, praying for understanding and writing down impressions, so that “you will be giving place in your heart for the word of God, and He will be speaking to you.” Ask what actions help the Spirit teach us.",
+    "In pairs, study Doctrine and Covenants 8:2–3, Doctrine and Covenants 9:7–8, Doctrine and Covenants 11:12–14 and Doctrine and Covenants 138:1–2, 11. Ask learners to mark the words that show how the Holy Ghost speaks, and to share a time He taught them. Then let groups of three or four share study habits that make their study stronger, such as pondering, asking questions, writing and marking."
+   ]
+  },
+  {
+   "title": "Live what you learn",
+   "paras": [
+    "Read John 7:17. Ask what the difference is between knowing about the scriptures and living them. Read James 1:22 and this from Elder David A. Bednar, “Watching with All Perseverance,” Ensign, May 2010: we invite the Spirit’s teaching and testifying power as we act in accordance with correct principles.",
+    "Ask how living a principle has deepened your understanding and testimony of it. Help learners see that missionaries who live the gospel feel their desire and ability to share it grow."
+   ]
+  },
+  {
+   "title": "Inviting an investigator to church",
+   "paras": [
+    "Explain that attending church helps a person feel the Spirit, grow closer to God and prepare for baptism. Show how to invite someone: first share the blessings of coming, then describe what happens in sacrament meeting, then invite with warmth and clarity. Learners then practise the same three steps in pairs."
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Teach the idea and why it matters for a missionary.",
+   "examples": [
+    {
+     "title": "Show the blessings of church",
+     "text": "Write three blessings on the board that come from attending church: the Spirit, friendship and growing closer to God. Ask learners to add more from their own experience.",
+     "pick": true
+    },
+    {
+     "title": "Walk through sacrament meeting",
+     "text": "Describe in order what happens in sacrament meeting: hymns, prayers, the sacrament and talks. Say why each part helps a visitor feel welcome.",
+     "pick": true
+    },
+    {
+     "title": "Name the three steps of an invitation",
+     "text": "Write: share the blessings, explain what to expect, invite clearly. Explain why each step helps a person say yes.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Show one example of what learners will do.",
+   "examples": [
+    {
+     "title": "Invite a learner to church",
+     "text": "Show the three steps with one learner playing a friend. Speak kindly, answer one concern and set a time and place.",
+     "pick": true
+    },
+    {
+     "title": "Show how to handle a worry",
+     "text": "The friend says, “I don’t know anyone there.” Show how to listen, answer with warmth and offer to meet them at the door.",
+     "pick": false
+    },
+    {
+     "title": "Show a follow-up call",
+     "text": "Show how to call after church, thank the friend and invite them again with no pressure.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Learners practise in pairs or small groups.",
+   "examples": [
+    {
+     "title": "Invite in pairs",
+     "text": "Pairs take turns. One shares the blessings, explains sacrament meeting and invites. The other plays a friend with a real question.",
+     "pick": true
+    },
+    {
+     "title": "Practise in threes",
+     "text": "A missionary, a friend and an observer. The observer notes what helped the friend feel welcome. Rotate.",
+     "pick": false
+    },
+    {
+     "title": "Plan a real invitation",
+     "text": "Each learner writes the name of one person to invite to church this week, and how they will ask.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Name what went well and what can improve.",
+   "examples": [
+    {
+     "title": "Partner feedback",
+     "text": "The learner who was taught says what was clearest and what felt most sincere. The teacher writes one thing to keep and one to improve.",
+     "pick": false
+    },
+    {
+     "title": "Three questions",
+     "text": "Ask: What went well? What would you change? What helped the listener most to understand why we invite people to church? Begin with the good.",
+     "pick": true
+    },
+    {
+     "title": "Simple checklist",
+     "text": "Was it simple? Was a scripture used and explained? Was the listener invited to act? Did the teacher speak with sincerity?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Practise again with what was learned.",
+   "examples": [
+    {
+     "title": "Switch roles",
+     "text": "The learner who listened now teaches. Leave time for feedback both ways, then ask a few to share what they learned.",
+     "pick": true
+    },
+    {
+     "title": "Improve one thing",
+     "text": "Each learner teaches again and changes one thing from the feedback: a clearer sentence, a better scripture or a warmer invitation.",
+     "pick": false
+    },
+    {
+     "title": "Teach a new partner",
+     "text": "Find a new partner. Teach the same lesson again in a few minutes. Share one insight with the class.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Testify of the doctrines and principles of this lesson. Invite learners to share how the Holy Ghost has taught them as they study.",
+ "tips": [
+  {
+   "text": "Ask follow-up questions that help learners think deeper, such as “Can you give an example?”",
+   "pick": true
+  },
+  {
+   "text": "Let learners practise in pairs so each one speaks and listens.",
+   "pick": true
+  },
+  {
+   "text": "Give learners time to write what they will do.",
+   "pick": true
+  },
+  {
+   "text": "Ask learners to tell of times when they felt the truth of what you are discussing.",
+   "pick": false
+  }
+ ],
+ "quote": {
+  "text": "you will be giving place in your heart for the word of God, and He will be speaking to you",
+  "by": "Elder D. Todd Christofferson, “When Thou Art Converted,” Ensign, May 2004"
+ },
+ "study": "Read John 7:17 together and ask what promise it gives to those who live the gospel.",
+ "invitations": [
+  "Make daily gospel study a habit, including the Book of Mormon, and begin with a prayer to invite the Spirit.",
+  "Begin to use a study journal if you do not have one.",
+  "Choose one study idea and use it in your personal study this week."
+ ],
+ "refs": [
+  {
+   "show": "John 7:17",
+   "ref": "John 7:17"
+  },
+  {
+   "show": "James 1:22",
+   "ref": "James 1:22"
+  },
+  {
+   "show": "Doctrine and Covenants 11:15–17",
+   "ref": "D&C 11:15–17"
+  },
+  {
+   "show": "Doctrine and Covenants 11:21–22",
+   "ref": "D&C 11:21–22"
+  },
+  {
+   "show": "Doctrine and Covenants 11:26",
+   "ref": "D&C 11:26"
+  },
+  {
+   "show": "Doctrine and Covenants 8:2–3",
+   "ref": "D&C 8:2–3"
+  },
+  {
+   "show": "Doctrine and Covenants 9:7–8",
+   "ref": "D&C 9:7–8"
+  },
+  {
+   "show": "Doctrine and Covenants 11:12–14",
+   "ref": "D&C 11:12–14"
+  },
+  {
+   "show": "Doctrine and Covenants 138:1–2, 11",
+   "ref": "D&C 138:1–2"
+  }
+ ]
+}

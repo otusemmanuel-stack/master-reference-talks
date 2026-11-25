@@ -1,0 +1,230 @@
+{
+ "schema": 2,
+ "language": "fr",
+ "id": "lesson-06",
+ "number": 6,
+ "title": "Se préparer à la vie de missionnaire",
+ "kind": "missionary-preparation",
+ "order": 6,
+ "focus": "Sujet d’exercice : établir un plan de préparation personnel",
+ "intro": "Une mission demande un travail difficile de tout son cœur, de toute sa force, de tout son esprit. Dans cette leçon, les participants voient comment commencer dès maintenant à devenir missionnaire, dans l’esprit, le corps et le cœur, et où trouver de l’aide quand c’est difficile.",
+ "preparation": "Étudiez 2 Néphi 4:19–26 et Alma 17:2–3, 9 ; 26:11–13 ; 29:10. Étudiez l’élder David A. Bednar, « Becoming a Missionary ». Préparez du papier pour que chacun écrive ses objectifs. Priez pour chaque participant par son nom.",
+ "sections": [
+  {
+   "title": "Devenir missionnaire dès maintenant",
+   "paras": [
+    "Demandez : Comment pensez-vous que votre vie changera quand vous commencerez votre mission ? Que pouvez-vous commencer à faire dès maintenant pour vous y préparer ?",
+    "Lisez cette déclaration de l’élder David A. Bednar, « Becoming a Missionary », session de la prêtrise de la conférence générale, octobre 2005 : vous pouvez commencer « à penser comme pensent les missionnaires, à lire ce que lisent les missionnaires, à prier comme prient les missionnaires ». Son conseil vaut aussi pour les jeunes filles. Demandez comment une personne peut devenir missionnaire avant le centre de formation des missionnaires.",
+    "Lisez Alma 17:2–3, 9 et Alma 17:11 sur les fils de Mosiah. Demandez ce qu’ils ont fait pour se préparer à enseigner avec puissance et autorité, et comment les participants peuvent suivre leur exemple. Donnez ensuite du temps pour écrire des objectifs, comme l’étude quotidienne des Écritures, la prière du matin et du soir, se coucher et se lever à l’heure, et moins de temps sur les appareils."
+   ]
+  },
+  {
+   "title": "La préparation spirituelle",
+   "paras": [
+    "Lisez Doctrine et Alliances 88:74. Demandez ce que signifie être sanctifié : être pur et digne du Saint-Esprit. Aidez les participants à voir que le Seigneur demande à ses serviteurs d’être purs.",
+    "Lisez le conseil de l’élder M. Russell Ballard sur le fait de garder notre cœur, nos mains et notre esprit purs, y compris de fuir la pornographie comme on fuit une maladie mortelle. Montrez comment l’élder Jeffrey R. Holland a supplié ceux qui sont dans l’équipe du Seigneur de rester dans les limites. Demandez pourquoi ne pas se repentir limiterait un missionnaire.",
+    "Dites clairement que toute personne qui a une inquiétude concernant sa dignité doit en parler maintenant avec son évêque, son président de branche ou son président de pieu."
+   ]
+  },
+  {
+   "title": "La préparation physique et émotionnelle",
+   "paras": [
+    "Une mission demande un corps en bonne santé et un esprit stable. Les missionnaires vivent une vie planifiée : ils sont couchés à 22 h 30 et levés à 6 h 30. Demandez à chacun de réfléchir à son niveau de préparation et à ce qu’il peut faire dès maintenant pour l’exercice, l’alimentation et le sommeil.",
+    "Chaque missionnaire ressent du stress, du mal du pays ou du doute. Le président Gordon B. Hinckley s’est senti découragé après son arrivée sur le terrain et s’est relevé en se mettant au travail. Lisez Jérémie 1:4–9, Alma 17:5, Alma 26:27 et Moïse 6:31–32 pour voir que de grands serviteurs de Dieu se sont sentis faibles eux aussi. Demandez en quoi il est utile de savoir que tous les missionnaires rencontrent des difficultés."
+   ]
+  },
+  {
+   "title": "Se tourner vers le Seigneur pour obtenir de l’aide",
+   "paras": [
+    "Lisez 2 Néphi 4:17–19, puis étudiez 2 Néphi 4:19–26. Néphi a ressenti du chagrin à cause de sa faiblesse, puis s’est souvenu de la bonté du Seigneur et lui a fait confiance. Demandez comment se souvenir du Seigneur les a aidés dans une période difficile.",
+    "Lisez ce que l’élder Jeffrey R. Holland a enseigné sur le Sauveur à Gethsémané et pourquoi les missionnaires peuvent se tenir debout dans l’épreuve. Lisez ensuite Alma 26:11–13, Alma 29:10 et Doctrine et Alliances 18:15–16. Expliquez que certains besoins demandent aussi l’aide des dirigeants de la prêtrise et des proches."
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Enseignez l’idée et dites pourquoi elle compte pour un missionnaire.",
+   "examples": [
+    {
+     "title": "Montrer les trois sortes de préparation",
+     "text": "Écrivez trois mots au tableau : esprit, corps, cœur. Demandez de nommer une façon de se préparer dans chacun, avec Alma 17:2–3 et Doctrine et Alliances 88:74.",
+     "pick": true
+    },
+    {
+     "title": "Expliquer que chaque missionnaire a des jours difficiles",
+     "text": "Utilisez Jérémie 1:4–9, Alma 26:27 et Moïse 6:31–32 pour montrer que des serviteurs de Dieu se sont sentis faibles et craintifs. Dites ce qui les a aidés.",
+     "pick": true
+    },
+    {
+     "title": "Expliquer comment Néphi a trouvé la paix",
+     "text": "Lisez 2 Néphi 4:19–26 et écrivez les étapes de Néphi : se souvenir, faire confiance, prier, se réjouir.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Montrez un exemple de ce que les participants vont faire.",
+   "examples": [
+    {
+     "title": "Fixer un objectif devant la classe",
+     "text": "Choisissez un objectif et écrivez-le avec l’aide de l’Esprit : quoi, quand et comment vous vérifierez. Dites pourquoi vous l’avez choisi.",
+     "pick": true
+    },
+    {
+     "title": "Partager un jour difficile",
+     "text": "Racontez brièvement un moment où vous vous êtes senti faible et comment vous vous êtes tourné vers le Seigneur. Terminez par un témoignage.",
+     "pick": false
+    },
+    {
+     "title": "Montrer comment demander de l’aide",
+     "text": "Montrez comment parler d’une inquiétude à un dirigeant de la prêtrise ou à un adulte de confiance, en quelques phrases bienveillantes.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Les participants s’exercent à deux ou en petits groupes.",
+   "examples": [
+    {
+     "title": "Écrire des objectifs et partager",
+     "text": "Chacun écrit trois objectifs : un pour l’esprit, un pour le corps et un pour le cœur. Il en partage un avec un partenaire.",
+     "pick": true
+    },
+    {
+     "title": "Enseigner 2 Néphi 4",
+     "text": "À deux, enseignez à un ami comment Néphi a surmonté le découragement, avec 2 Néphi 4:19–26 et un exemple personnel.",
+     "pick": false
+    },
+    {
+     "title": "S’exercer à l’horaire",
+     "text": "Établissez un horaire quotidien simple pour la semaine, avec une heure de sommeil, d’étude et de prière. Partagez-le avec un partenaire.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Dites ce qui a bien marché et ce qui peut être amélioré.",
+   "examples": [
+    {
+     "title": "Avis du partenaire",
+     "text": "Le participant enseigné dit ce qui était le plus clair et ce qui semblait le plus sincère. L’enseignant note une chose à garder et une à améliorer.",
+     "pick": false
+    },
+    {
+     "title": "Trois questions",
+     "text": "Demandez : Qu’est-ce qui a bien marché ? Que changeriez-vous ? Qu’est-ce qui a le plus aidé l’auditeur à comprendre comment se préparer à la vie de missionnaire ? Commencez par le positif.",
+     "pick": true
+    },
+    {
+     "title": "Liste simple",
+     "text": "Était-ce simple ? Un passage d’Écriture a-t-il été utilisé et expliqué ? L’auditeur a-t-il été invité à agir ? L’enseignant parlait-il avec sincérité ?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Exercez-vous de nouveau avec ce que vous avez appris.",
+   "examples": [
+    {
+     "title": "Changer de rôle",
+     "text": "Le participant qui écoutait enseigne à son tour. Laissez le temps de donner et de recevoir des avis, puis invitez quelques-uns à dire ce qu’ils ont appris.",
+     "pick": true
+    },
+    {
+     "title": "Améliorer une chose",
+     "text": "Chacun enseigne de nouveau et change une chose selon les avis : une phrase plus claire, un meilleur passage ou une invitation plus chaleureuse.",
+     "pick": false
+    },
+    {
+     "title": "Enseigner un nouveau partenaire",
+     "text": "Trouvez un nouveau partenaire. Enseignez de nouveau la même leçon en quelques minutes. Partagez une idée avec la classe.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Témoignez que le Seigneur magnifiera ceux qui se préparent et servent de tout leur cœur. Invitez les participants à dire une chose qu’ils commenceront cette semaine.",
+ "tips": [
+  {
+   "text": "Travaillez en petits groupes avec un responsable pour que chacun participe.",
+   "pick": true
+  },
+  {
+   "text": "Laissez les participants écrire leurs objectifs dans un journal d’étude, pendant que l’Esprit est présent.",
+   "pick": true
+  },
+  {
+   "text": "Aidez les participants à appliquer les principes à leur propre situation.",
+   "pick": true
+  },
+  {
+   "text": "Invitez des missionnaires de retour à dire comment ils ont géré le stress.",
+   "pick": false
+  }
+ ],
+ "quote": {
+  "text": "à penser comme pensent les missionnaires, à lire ce que lisent les missionnaires, à prier comme prient les missionnaires",
+  "by": "Élder David A. Bednar, « Becoming a Missionary », session de la prêtrise de la conférence générale, octobre 2005"
+ },
+ "study": "Lisez ensemble 2 Néphi 4:19–26 et demandez ce qui a aidé Néphi à surmonter son découragement.",
+ "invitations": [
+  "Réfléchissez à ce que vous devez faire pour être pur et digne de servir. Parlez à votre évêque ou à votre président de branche si nécessaire.",
+  "Fixez-vous des objectifs d’exercice, d’alimentation saine et de sommeil.",
+  "Demandez à un missionnaire de retour comment il a géré le stress et le mal du pays."
+ ],
+ "refs": [
+  {
+   "show": "Alma 17:2–3",
+   "ref": "Alma 17:2–3"
+  },
+  {
+   "show": "Alma 17:11",
+   "ref": "Alma 17:11"
+  },
+  {
+   "show": "Alma 26:11–13",
+   "ref": "Alma 26:11–13"
+  },
+  {
+   "show": "Alma 29:10",
+   "ref": "Alma 29:10"
+  },
+  {
+   "show": "Alma 17:5",
+   "ref": "Alma 17:5"
+  },
+  {
+   "show": "Alma 26:27",
+   "ref": "Alma 26:27"
+  },
+  {
+   "show": "Jérémie 1:4–9",
+   "ref": "Jeremiah 1:4–9"
+  },
+  {
+   "show": "Moïse 6:31–32",
+   "ref": "Moses 6:31–32"
+  },
+  {
+   "show": "2 Néphi 4:17–19",
+   "ref": "2 Nephi 4:17–19"
+  },
+  {
+   "show": "2 Néphi 4:19–26",
+   "ref": "2 Nephi 4:19–26"
+  },
+  {
+   "show": "Doctrine et Alliances 88:74",
+   "ref": "D&C 88:74"
+  },
+  {
+   "show": "Doctrine et Alliances 18:15–16",
+   "ref": "D&C 18:15–16"
+  }
+ ]
+}

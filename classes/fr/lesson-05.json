@@ -1,0 +1,219 @@
+{
+ "schema": 2,
+ "language": "fr",
+ "id": "lesson-05",
+ "number": 5,
+ "title": "Quel est le rôle du Livre de Mormon ?",
+ "kind": "missionary-preparation",
+ "order": 5,
+ "focus": "Sujet d’exercice : inviter quelqu’un à lire le Livre de Mormon et à prier",
+ "intro": "Le Livre de Mormon est un autre témoin de Jésus-Christ et la preuve du Rétablissement par Joseph Smith. Dans cette leçon, les participants voient son rôle, son aide pour répondre aux questions de l’âme et comment inviter les autres à le lire et à prier.",
+ "preparation": "Étudiez 1 Néphi 10:14, 2 Néphi 3:12, 3 Néphi 16:4–5 et 3 Néphi 20:13. Apportez un exemplaire du Livre de Mormon pour que la classe le tienne en main. Pensez à une expérience personnelle avec le livre que vous pouvez partager. Priez pour chaque participant par son nom.",
+ "sections": [
+  {
+   "title": "Un livre qui témoigne du Christ",
+   "paras": [
+    "Montrez le Livre de Mormon. Demandez : Si vous ne saviez rien de ce livre, que vous attendriez-vous à y trouver ? Lisez ensuite la page de titre ensemble et demandez de quoi ses auteurs voulaient convaincre le monde.",
+    "Demandez : En quoi le Livre de Mormon est-il un témoin de Jésus-Christ ? Comment a-t-il fortifié votre témoignage de lui ? Laissez les participants partager à deux. Rappelez que la lecture quotidienne est l’une des meilleures choses à faire avant d’entrer au centre de formation des missionnaires."
+   ]
+  },
+  {
+   "title": "Deux témoins",
+   "paras": [
+    "Lisez 2 Néphi 3:12 puis Ézéchiel 37:15–17. Le Seigneur a promis que le récit de Juda et le récit de Joseph grandiraient ensemble. Demandez en quoi ces passages soutiennent l’idée de deux témoins et quelle bénédiction vient quand les deux livres sont utilisés ensemble.",
+    "Lisez 2 Corinthiens 13:1 et Éphésiens 4:5. Demandez : Quelle est la valeur d’avoir deux témoins scripturaux de Jésus-Christ ? Pourquoi les missionnaires devraient-ils utiliser les deux livres pour aider les autres à apprendre ?"
+   ]
+  },
+  {
+   "title": "Rassembler les enfants de Dieu",
+   "paras": [
+    "Laissez chaque participant lire l’un de ces passages : 1 Néphi 10:14, 3 Néphi 16:4–5 ou 3 Néphi 20:13. Ils cherchent comment les enfants de Dieu sont rassemblés. Faites ressortir que le Livre de Mormon aide à rassembler les gens vers le Christ.",
+    "Demandez : Comment les missionnaires participent-ils à ce rassemblement ? Pourquoi doivent-ils utiliser le Livre de Mormon pour aider les autres à venir au Christ ?"
+   ]
+  },
+  {
+   "title": "La conversion et les questions de l’âme",
+   "paras": [
+    "Racontez ce que Parley P. Pratt a ressenti en lisant le Livre de Mormon pour la première fois : il a lu avec empressement et a ressenti l’Esprit si fortement qu’il pouvait à peine s’arrêter. Demandez ce que l’Esprit a fait pour lui et si les participants ont senti l’Esprit en lisant un passage.",
+    "Expliquez que chacun a des questions de l’âme, comme : Qui suis-je ? Pourquoi suis-je ici ? Où vais-je ? Demandez comment ils utiliseraient le Livre de Mormon pour y trouver des réponses et comment un missionnaire peut aider quelqu’un d’autre à faire de même."
+   ]
+  },
+  {
+   "title": "Un fondement de témoignage",
+   "paras": [
+    "Demandez : Pourquoi le Livre de Mormon est-il appelé la clef de voûte de notre témoignage ? Pourquoi l’adversaire s’y oppose-t-il ? Les missionnaires ne débattent pas du livre. Ils l’enseignent, en témoignent et invitent les gens à lire et à prier pour savoir par eux-mêmes (voir Moroni 10:4–5).",
+    "Expliquez que, face au doute, la meilleure réponse est souvent de lire le livre. Demandez en quoi la vérité du Livre de Mormon confirme que Joseph Smith était un prophète et comment elle a fortifié leur propre témoignage du Rétablissement."
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Enseignez l’idée et dites pourquoi elle compte pour un missionnaire.",
+   "examples": [
+    {
+     "title": "Montrer le rôle du Livre de Mormon",
+     "text": "Écrivez trois mots au tableau : témoin, rassembler, fondement. Utilisez la page de titre, 3 Néphi 20:13 et Moroni 10:4–5 pour montrer comment le livre témoigne du Christ, rassemble vers lui et construit le témoignage.",
+     "pick": true
+    },
+    {
+     "title": "Montrer deux témoins",
+     "text": "Tenez la Bible et le Livre de Mormon. Lisez 2 Corinthiens 13:1 et expliquez pourquoi deux témoins sont plus solides qu’un seul.",
+     "pick": true
+    },
+    {
+     "title": "Nommer les questions de l’âme",
+     "text": "Écrivez trois questions de l’âme au tableau. Demandez lesquelles pourraient trouver réponse dans un passage du Livre de Mormon.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Montrez un exemple de ce que les participants vont faire.",
+   "examples": [
+    {
+     "title": "Présenter le livre en deux minutes",
+     "text": "Tenez le livre et dites ce qu’il est, ce qu’il enseigne sur le Christ et comment il vous a bénis. Invitez ensuite un participant à lire Moroni 10:4–5 et à prier.",
+     "pick": true
+    },
+    {
+     "title": "Montrer comment inviter à lire",
+     "text": "Montrez comment fixer un passage précis et un moment précis, par exemple 3 Néphi 11 ce soir. Prévoyez ensuite un suivi.",
+     "pick": false
+    },
+    {
+     "title": "Partager votre expérience",
+     "text": "Racontez brièvement une expérience avec le livre. Montrez comment finir par un simple témoignage.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Les participants s’exercent à deux ou en petits groupes.",
+   "examples": [
+    {
+     "title": "Inviter à deux",
+     "text": "Chacun choisit un passage, explique son importance et invite un partenaire à lire et à prier. Le partenaire joue un ami avec une question.",
+     "pick": true
+    },
+    {
+     "title": "Répondre à une question de l’âme",
+     "text": "À deux, l’un pose une question de l’âme. L’autre choisit un passage et partage ce qu’il enseigne.",
+     "pick": false
+    },
+    {
+     "title": "Préparer une vraie invitation",
+     "text": "Chacun écrit le nom d’une personne à qui donner le Livre de Mormon cette semaine et comment il le lui proposera.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Dites ce qui a bien marché et ce qui peut être amélioré.",
+   "examples": [
+    {
+     "title": "Avis du partenaire",
+     "text": "Le participant enseigné dit ce qui était le plus clair et ce qui semblait le plus sincère. L’enseignant note une chose à garder et une à améliorer.",
+     "pick": false
+    },
+    {
+     "title": "Trois questions",
+     "text": "Demandez : Qu’est-ce qui a bien marché ? Que changeriez-vous ? Qu’est-ce qui a le plus aidé l’auditeur à comprendre le rôle du Livre de Mormon ? Commencez par le positif.",
+     "pick": true
+    },
+    {
+     "title": "Liste simple",
+     "text": "Était-ce simple ? Un passage d’Écriture a-t-il été utilisé et expliqué ? L’auditeur a-t-il été invité à agir ? L’enseignant parlait-il avec sincérité ?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Exercez-vous de nouveau avec ce que vous avez appris.",
+   "examples": [
+    {
+     "title": "Changer de rôle",
+     "text": "Le participant qui écoutait enseigne à son tour. Laissez le temps de donner et de recevoir des avis, puis invitez quelques-uns à dire ce qu’ils ont appris.",
+     "pick": true
+    },
+    {
+     "title": "Améliorer une chose",
+     "text": "Chacun enseigne de nouveau et change une chose selon les avis : une phrase plus claire, un meilleur passage ou une invitation plus chaleureuse.",
+     "pick": false
+    },
+    {
+     "title": "Enseigner un nouveau partenaire",
+     "text": "Trouvez un nouveau partenaire. Enseignez de nouveau la même leçon en quelques minutes. Partagez une idée avec la classe.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Témoignez que le Livre de Mormon est la parole de Dieu. Invitez les participants à dire ce qu’il a fait pour eux.",
+ "tips": [
+  {
+   "text": "Donnez une question à chercher avant une lecture, une vidéo ou une citation.",
+   "pick": true
+  },
+  {
+   "text": "Laissez les participants s’exercer à une compétence, puis donnez des avis.",
+   "pick": true
+  },
+  {
+   "text": "Demandez des expériences personnelles, avec délicatesse et le droit de passer.",
+   "pick": true
+  },
+  {
+   "text": "Tenez en main un vrai exemplaire du Livre de Mormon pour lancer la discussion.",
+   "pick": false
+  }
+ ],
+ "quote": {
+  "text": "",
+  "by": ""
+ },
+ "study": "Lisez ensemble Moroni 10:4–5 et demandez ce qu’une personne doit faire pour savoir que le Livre de Mormon est vrai.",
+ "invitations": [
+  "Lisez tout le Livre de Mormon et priez pour savoir qu’il est vrai, si ce n’est pas déjà fait.",
+  "Prenez l’habitude de lire chaque jour dans le Livre de Mormon.",
+  "Présentez le Livre de Mormon à quelqu’un cette semaine, en personne ou en ligne, et invitez-le à lire et à prier."
+ ],
+ "refs": [
+  {
+   "show": "1 Néphi 10:14",
+   "ref": "1 Nephi 10:14"
+  },
+  {
+   "show": "2 Néphi 3:12",
+   "ref": "2 Nephi 3:12"
+  },
+  {
+   "show": "3 Néphi 16:4–5",
+   "ref": "3 Nephi 16:4–5"
+  },
+  {
+   "show": "3 Néphi 20:13",
+   "ref": "3 Nephi 20:13"
+  },
+  {
+   "show": "Ézéchiel 37:15–17",
+   "ref": "Ezekiel 37:15–17"
+  },
+  {
+   "show": "2 Corinthiens 13:1",
+   "ref": "2 Corinthians 13:1"
+  },
+  {
+   "show": "Éphésiens 4:5",
+   "ref": "Ephesians 4:5"
+  },
+  {
+   "show": "Moroni 10:4–5",
+   "ref": "Moroni 10:4–5"
+  }
+ ]
+}
