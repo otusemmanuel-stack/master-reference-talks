@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "language": "fr",
+ "indexVersion": 1,
+ "count": 1,
+ "classes": [
+  {
+   "id": "apostasy",
+   "title": "L’apostasie",
+   "kind": "missionary-preparation",
+   "order": 1,
+   "file": "en/apostasy.json",
+   "bytes": 8658
+  }
+ ]
+}
