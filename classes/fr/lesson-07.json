@@ -1,10 +1,10 @@
 {
- "schema": 1,
+ "schema": 2,
  "language": "fr",
- "id": "apostasy",
- "title": "L’apostasie",
+ "id": "lesson-07",
+ "title": "Enseigner le message du Rétablissement (1re partie)",
  "kind": "missionary-preparation",
- "order": 1,
+ "order": 7,
  "intro": "Un missionnaire doit pouvoir expliquer simplement pourquoi l’Évangile devait être rétabli. Aujourd’hui, nous étudions la grande apostasie : ce qu’elle a été, comment elle est arrivée et ce qui a suivi. À la fin, chacun de vous devrait pouvoir l’enseigner en quelques phrases claires et témoigner que le Rétablissement est la réponse de Dieu à l’apostasie.",
  "preparation": "Étudiez Amos 8:11–12, Ésaïe 24:5, 2 Thessaloniciens 2:3, Actes 20:29–30, 2 Timothée 4:3–4 et Éphésiens 4:11–14. Lisez « La famille : Déclaration au monde » et apportez un exemplaire pour chaque participant. Priez pour chaque participant par son nom.",
  "steps": [
@@ -180,5 +180,8 @@
    "show": "Doctrine et Alliances 1:37–38",
    "ref": "D&C 1:37–38"
   }
- ]
+ ],
+ "number": 7,
+ "focus": "Sujet d’exercice : la grande apostasie",
+ "sections": []
 }

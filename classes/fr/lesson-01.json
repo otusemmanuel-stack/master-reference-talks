@@ -1,0 +1,222 @@
+{
+ "schema": 2,
+ "language": "fr",
+ "id": "lesson-01",
+ "number": 1,
+ "title": "Le but d’un missionnaire",
+ "kind": "missionary-preparation",
+ "order": 1,
+ "focus": "Sujet d’exercice : expliquer la doctrine du Christ",
+ "intro": "L’œuvre missionnaire est plus qu’une liste de tâches. Dans cette leçon, chaque participant découvre son vrai but : inviter les gens à venir au Christ et les aider à recevoir l’Évangile rétabli par la foi en Jésus-Christ, le repentir, le baptême, le don du Saint-Esprit et la persévérance jusqu’à la fin.",
+ "preparation": "Étudiez 2 Néphi 31:10–21, 3 Néphi 11:31–41 et 3 Néphi 27:13–21. Écrivez le but du missionnaire au tableau avant le cours. Demandez à un participant de préparer une courte réflexion spirituelle : une prière, un cantique et une pensée tirée des Écritures. Priez pour chaque participant par son nom.",
+ "sections": [
+  {
+   "title": "Le but de l’œuvre missionnaire",
+   "paras": [
+    "Demandez aux participants de citer ce que font les missionnaires chaque jour, et écrivez la liste au tableau. Lisez ensuite ensemble le but du missionnaire : inviter les autres à venir au Christ en les aidant à recevoir l’Évangile rétabli par la foi en Jésus-Christ et en son expiation, le repentir, le baptême, le don du Saint-Esprit et la persévérance jusqu’à la fin.",
+    "Demandez : En quoi ce but donne-t-il du sens aux tâches de chaque jour ? Quelle partie revient au missionnaire, et quelle partie revient à la personne enseignée ? Comment le fait de garder ce but en tête change-t-il votre façon de servir ?",
+    "Lisez cette déclaration de l’élder Dallin H. Oaks, « The Purpose of Missionary Work », émission satellite pour les missionnaires, avril 1995 : « Nous invitons tous les hommes à venir au Christ par le repentir, le baptême et la confirmation, afin d’ouvrir les portes du royaume céleste aux fils et aux filles de Dieu. » Demandez pourquoi le but est plus grand que d’ajouter des noms aux registres de l’Église, et lisez ensemble 3 Néphi 11:33–34."
+   ]
+  },
+  {
+   "title": "La doctrine du Christ",
+   "paras": [
+    "Formez trois groupes. L’un étudie 2 Néphi 31:10–21, un autre 3 Néphi 11:31–41 et le troisième 3 Néphi 27:13–21. Chaque groupe note ce qui est demandé à un disciple du Christ, puis l’ajoute au tableau sous la référence.",
+    "Faites ressortir deux parties. D’abord, ce que le Christ fait pour nous attirer au Père (voir Alma 33:22 et Doctrine et Alliances 76:40–42). Ensuite, ce que nous faisons pour recevoir ses bénédictions : avoir la foi, nous repentir, être baptisés, recevoir le don du Saint-Esprit et persévérer jusqu’à la fin (voir 3 Néphi 27:16–21). Le Seigneur a aussi dit que le Livre de Mormon ferait connaître les vrais points de sa doctrine (Doctrine et Alliances 10:62).",
+    "Demandez : Comment expliqueriez-vous la doctrine du Christ à quelqu’un qui ne l’a jamais entendue ? Pourquoi les missionnaires enseignent-ils des personnes qui croient déjà au Christ ? Aidez ensuite les participants à exprimer cette vérité : les missionnaires remplissent leur but en aidant les gens à accepter la doctrine du Christ."
+   ]
+  },
+  {
+   "title": "Aider les autres à agir avec foi",
+   "paras": [
+    "Ce que dit un missionnaire compte, mais ce que la personne en fait compte davantage. Demandez : Qu’est-ce qui montre qu’une personne grandit dans la foi, se repent et se prépare au baptême ? Qu’est-ce qui montre que le Saint-Esprit était présent pendant une leçon ?",
+    "Formez des binômes. Chacun dit à l’autre ce qui rend difficile d’inviter quelqu’un à prendre un engagement, et ce qui lui donnerait de l’assurance. Demandez comment connaître la doctrine du Christ aide à inviter avec amour."
+   ]
+  },
+  {
+   "title": "Le plus grand devoir",
+   "paras": [
+    "Lisez Doctrine et Alliances 18:10 et Doctrine et Alliances 18:15–16. Demandez aux participants de trouver les bénédictions qui viennent à ceux qui partagent l’Évangile et à ceux qui l’acceptent.",
+    "L’œuvre missionnaire est difficile. L’élder Jeffrey R. Holland a dit : « Je suis convaincu que l’œuvre missionnaire n’est pas facile parce que le salut n’est pas une expérience bon marché » (« Missionary Work and the Atonement », Ensign, mars 2001). Demandez : En quoi cela vous aidera-t-il quand le travail sera difficile ?"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Enseignez l’idée et dites pourquoi elle compte pour un missionnaire.",
+   "examples": [
+    {
+     "title": "Dire le but avec ses propres mots",
+     "text": "Lisez le but du missionnaire à haute voix. Demandez à chacun de le dire en une phrase. Montrez ensuite les deux parties : ce que fait le missionnaire et ce à quoi la personne enseignée est invitée.",
+     "pick": true
+    },
+    {
+     "title": "Montrer la doctrine du Christ en étapes",
+     "text": "Dessinez cinq étapes au tableau : la foi en Jésus-Christ, le repentir, le baptême, le don du Saint-Esprit, la persévérance jusqu’à la fin. Lisez 3 Néphi 27:16–21 et montrez où apparaît chaque étape.",
+     "pick": true
+    },
+    {
+     "title": "Comparer deux listes",
+     "text": "Placez la liste des tâches du missionnaire à côté du but. Demandez comment chaque tâche sert le but, et quelle tâche peut devenir vide si l’on oublie le but.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Montrez un exemple de ce que les participants vont faire.",
+   "examples": [
+    {
+     "title": "Enseigner la doctrine du Christ en deux minutes",
+     "text": "Enseignez à un participant la doctrine du Christ avec 3 Néphi 11:31–41. Dites ce que le Christ demande, pourquoi c’est important, puis invitez à répondre. Restez simple.",
+     "pick": true
+    },
+    {
+     "title": "Montrer une invitation bienveillante",
+     "text": "Montrez comment inviter un ami à prier au sujet du Livre de Mormon. Utilisez des mots clairs, un ton chaleureux et un moment précis pour reprendre contact.",
+     "pick": false
+    },
+    {
+     "title": "Réfléchir à voix haute à une question difficile",
+     "text": "Répondez à haute voix : Pourquoi les missionnaires enseignent-ils des personnes qui croient déjà au Christ ? Appuyez-vous sur la doctrine du Christ.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Les participants s’exercent à deux ou en petits groupes.",
+   "examples": [
+    {
+     "title": "Expliquer à deux",
+     "text": "Formez des binômes. Chacun explique la doctrine du Christ à un ami en deux minutes, avec l’un des trois passages. Le partenaire écoute comme s’il était cet ami.",
+     "pick": true
+    },
+    {
+     "title": "Jeu de rôle sur l’invitation",
+     "text": "À deux, un participant invite l’autre à lire le Livre de Mormon. L’autre exprime une vraie crainte. Le premier écoute et répond avec amour. Puis ils changent de rôle.",
+     "pick": false
+    },
+    {
+     "title": "Écrire et partager sa raison",
+     "text": "Chacun écrit pourquoi il veut servir et compare avec le but du missionnaire. Puis chacun dit à un partenaire un changement qu’il fera.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Dites ce qui a bien marché et ce qui peut être amélioré.",
+   "examples": [
+    {
+     "title": "Avis du partenaire",
+     "text": "Le participant enseigné dit ce qui était le plus clair et ce qui semblait le plus sincère. L’enseignant note une chose à garder et une à améliorer.",
+     "pick": false
+    },
+    {
+     "title": "Trois questions",
+     "text": "Demandez : Qu’est-ce qui a bien marché ? Que changeriez-vous ? Qu’est-ce qui a le plus aidé l’auditeur à comprendre la doctrine du Christ ? Commencez par le positif.",
+     "pick": true
+    },
+    {
+     "title": "Liste simple",
+     "text": "Était-ce simple ? Un passage d’Écriture a-t-il été utilisé et expliqué ? L’auditeur a-t-il été invité à agir ? L’enseignant parlait-il avec sincérité ?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Exercez-vous de nouveau avec ce que vous avez appris.",
+   "examples": [
+    {
+     "title": "Changer de rôle",
+     "text": "Le participant qui écoutait enseigne à son tour. Laissez le temps de donner et de recevoir des avis, puis invitez quelques-uns à dire ce qu’ils ont appris.",
+     "pick": true
+    },
+    {
+     "title": "Améliorer une chose",
+     "text": "Chacun enseigne de nouveau et change une chose : une phrase plus claire, une meilleure question ou une invitation plus chaleureuse.",
+     "pick": false
+    },
+    {
+     "title": "Enseigner un nouveau partenaire",
+     "text": "Trouvez un nouveau partenaire. Enseignez de nouveau la même leçon en deux minutes. Partagez une idée avec la classe.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Invitez les participants à dire ce qu’ils ressentent au sujet de l’œuvre missionnaire. Rendez ensuite votre propre témoignage qu’apprendre et vivre la doctrine du Christ rend un missionnaire plus capable de bénir les autres.",
+ "tips": [
+  {
+   "text": "Commencez par une courte réflexion spirituelle préparée par un participant : une prière, un cantique et une pensée tirée des Écritures.",
+   "pick": true
+  },
+  {
+   "text": "Laissez un moment de silence pour que chacun réfléchisse et écrive ce qu’il fera.",
+   "pick": true
+  },
+  {
+   "text": "Demandez aux participants d’expliquer une doctrine en mots simples et de dire pourquoi elle compte.",
+   "pick": true
+  },
+  {
+   "text": "Accueillez chaque participant par son nom à son arrivée.",
+   "pick": false
+  }
+ ],
+ "quote": {
+  "text": "Nous invitons tous les hommes à venir au Christ par le repentir, le baptême et la confirmation, afin d’ouvrir les portes du royaume céleste aux fils et aux filles de Dieu.",
+  "by": "Élder Dallin H. Oaks, « The Purpose of Missionary Work », émission satellite pour les missionnaires, avril 1995"
+ },
+ "study": "Lisez ensemble 3 Néphi 11:33–34 et demandez ce que ce passage enseigne sur la raison pour laquelle nous prêchons l’Évangile.",
+ "invitations": [
+  "Dites à d’autres, en personne ou en ligne, pourquoi vous voulez faire une mission et ce que vous faites pour vous préparer.",
+  "Invitez un ami à venir à ce cours avec vous.",
+  "Invitez un ami qui n’est pas membre, ou qui est peu actif, à recevoir les leçons missionnaires."
+ ],
+ "refs": [
+  {
+   "show": "2 Néphi 31:10–21",
+   "ref": "2 Nephi 31:10–21"
+  },
+  {
+   "show": "3 Néphi 11:31–41",
+   "ref": "3 Nephi 11:31–41"
+  },
+  {
+   "show": "3 Néphi 27:13–21",
+   "ref": "3 Nephi 27:13–21"
+  },
+  {
+   "show": "3 Néphi 11:33–34",
+   "ref": "3 Nephi 11:33–34"
+  },
+  {
+   "show": "Alma 33:22",
+   "ref": "Alma 33:22"
+  },
+  {
+   "show": "3 Néphi 27:16–21",
+   "ref": "3 Nephi 27:16–21"
+  },
+  {
+   "show": "Doctrine et Alliances 76:40–42",
+   "ref": "D&C 76:40–42"
+  },
+  {
+   "show": "Doctrine et Alliances 10:62",
+   "ref": "D&C 10:62"
+  },
+  {
+   "show": "Doctrine et Alliances 18:10",
+   "ref": "D&C 18:10"
+  },
+  {
+   "show": "Doctrine et Alliances 18:15–16",
+   "ref": "D&C 18:15–16"
+  }
+ ]
+}

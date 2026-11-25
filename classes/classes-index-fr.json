@@ -1,16 +1,32 @@
 {
- "schema": 1,
+ "schema": 2,
  "language": "fr",
- "indexVersion": 1,
- "count": 1,
+ "indexVersion": 2,
+ "count": 3,
  "classes": [
   {
-   "id": "apostasy",
-   "title": "L’apostasie",
+   "id": "lesson-01",
+   "title": "1. Le but d’un missionnaire",
    "kind": "missionary-preparation",
    "order": 1,
-   "file": "en/apostasy.json",
-   "bytes": 8658
+   "file": "en/lesson-01.json",
+   "bytes": 11356
+  },
+  {
+   "id": "lesson-02",
+   "title": "2. Notre besoin de l’expiation",
+   "kind": "missionary-preparation",
+   "order": 2,
+   "file": "en/lesson-02.json",
+   "bytes": 12452
+  },
+  {
+   "id": "lesson-07",
+   "title": "7. Enseigner le message du Rétablissement (1re partie)",
+   "kind": "missionary-preparation",
+   "order": 7,
+   "file": "en/lesson-07.json",
+   "bytes": 8783
   }
  ]
 }

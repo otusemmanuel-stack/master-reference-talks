@@ -1,10 +1,10 @@
 {
- "schema": 1,
+ "schema": 2,
  "language": "en",
- "id": "apostasy",
- "title": "Apostasy",
+ "id": "lesson-07",
+ "title": "Teaching the Message of the Restoration (Part 1)",
  "kind": "missionary-preparation",
- "order": 1,
+ "order": 7,
  "intro": "A missionary must be able to explain, simply, why the gospel needed to be restored. Today we study the Great Apostasy: what it was, how it came about and what followed. By the end, each of you should be able to teach it in a few clear sentences and testify that the Restoration is God’s answer to it.",
  "preparation": "Study Amos 8:11–12, Isaiah 24:5, 2 Thessalonians 2:3, Acts 20:29–30, 2 Timothy 4:3–4 and Ephesians 4:11–14. Read “The Family: A Proclamation to the World” and bring a copy for each learner. Pray for each learner by name.",
  "steps": [
@@ -180,5 +180,8 @@
    "show": "Doctrine and Covenants 1:37–38",
    "ref": "D&C 1:37–38"
   }
- ]
+ ],
+ "number": 7,
+ "focus": "Practice topic: the Great Apostasy",
+ "sections": []
 }

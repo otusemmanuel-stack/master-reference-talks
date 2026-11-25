@@ -1,16 +1,32 @@
 {
- "schema": 1,
+ "schema": 2,
  "language": "en",
- "indexVersion": 1,
- "count": 1,
+ "indexVersion": 2,
+ "count": 3,
  "classes": [
   {
-   "id": "apostasy",
-   "title": "Apostasy",
+   "id": "lesson-01",
+   "title": "1. The Missionary Purpose",
    "kind": "missionary-preparation",
    "order": 1,
-   "file": "en/apostasy.json",
-   "bytes": 7375
+   "file": "en/lesson-01.json",
+   "bytes": 9971
+  },
+  {
+   "id": "lesson-02",
+   "title": "2. Our Need for the Atonement",
+   "kind": "missionary-preparation",
+   "order": 2,
+   "file": "en/lesson-02.json",
+   "bytes": 10823
+  },
+  {
+   "id": "lesson-07",
+   "title": "7. Teaching the Message of the Restoration (Part 1)",
+   "kind": "missionary-preparation",
+   "order": 7,
+   "file": "en/lesson-07.json",
+   "bytes": 7495
   }
  ]
 }
