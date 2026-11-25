@@ -1,0 +1,219 @@
+{
+ "schema": 2,
+ "language": "en",
+ "id": "lesson-15",
+ "number": 15,
+ "title": "Temple and Family History Work",
+ "kind": "missionary-preparation",
+ "order": 15,
+ "focus": "Practice topic: using family history to invite others to Christ",
+ "intro": "Temples and family history connect God’s children across generations. In this lesson learners see why the temple matters to a missionary, how God redeems the dead, and how family history can open doors to the gospel.",
+ "preparation": "Study Doctrine and Covenants 109:22–23; 110:13–16; 138:29–35; and Joseph Smith—History 1:38–39. Prepare a picture of a nearby temple, a fan chart and a blank four-generation chart. Be ready to show short videos on family history and missionary work. Know basic search tools on the family history website, or invite someone who does. Pray for each learner by name.",
+ "sections": [
+  {
+   "title": "The temple endowment",
+   "paras": [
+    "Show a picture of a nearby temple. Share what President Howard W. Hunter taught about the temple as a highlight in the life of a member. Ask: Why might going to the temple be a greater highlight than a mission call?",
+    "Ask what blessings we receive in the temple and how they help someone who is coming unto Christ. Read Doctrine and Covenants 109:22–23, part of the Kirtland Temple dedicatory prayer, and look for blessings that come to the Lord’s servants. Draw out the truth: receiving temple blessings gives power to worthy missionaries. Ask how Elder Jeffrey R. Holland’s teaching adds to this idea. Then go over the questions asked in a temple recommend interview, and ask how worthiness prepares us for the blessings."
+   ]
+  },
+  {
+   "title": "God’s plan to redeem the dead",
+   "paras": [
+    "Read 1 Peter 3:18–20; 4:6 to show that the gospel was preached to the dead. Then read Doctrine and Covenants 138:29–35, from President Joseph F. Smith’s vision of the spirit world. Ask what the Savior did to organize the work in the spirit world.",
+    "Ask how verses 33–35 explain how those who accept the gospel there receive the ordinances (through the work done for them in temples). Ask how the Lord’s plan helps those who die without the ordinances."
+   ]
+  },
+  {
+   "title": "The mission of Elijah",
+   "paras": [
+    "Explain that Elijah was an Old Testament prophet. Malachi foretold his return (see Malachi 4:5–6). Read Joseph Smith—History 1:38–39 and ask what Joseph learned. Explain that the hearts of the children turn to their fathers as we do ordinances for them.",
+    "Read Doctrine and Covenants 110:13–16 and ask what Elijah restored: the sealing keys. Read about eternal marriage and ask what the sealing keys make possible, such as families bound for eternity. Ask how these keys have blessed your family. Write on the board The Spirit of Elijah. Share how Elder Russell M. Nelson and Elder David A. Bednar described it as the Holy Ghost bearing witness of the divine nature of the family and drawing hearts toward ancestors. Ask: When have you felt your heart turn to your family, past or present?"
+   ]
+  },
+  {
+   "title": "Taking part in family history",
+   "paras": [
+    "Show a completed pedigree chart or fan chart. Ask what information it holds and where learners might find the missing names. Invite anyone to share an experience using the family history website.",
+    "Say that gathering family stories is also family history. Ask how stories help us love our family and understand who we are. Show the video of Elder Bednar speaking with youth. Read Elder Bednar’s promise to those who take part: it includes protection from the influence of the adversary. Ask which blessings they would like, and let some share how they have felt them."
+   ]
+  },
+  {
+   "title": "Inviting others through family history",
+   "paras": [
+    "Share what President Gordon B. Hinckley said about the growing interest in family history in the world. Ask how missionaries could use that interest to introduce the gospel.",
+    "Read the section on family history in the missionary manual. Show the video of missionaries starting family history conversations. Ask how talking about family history can prepare people. Let pairs practise a short conversation, then give feedback on what went well. Show the second video on helping less-active members and ask how talking about eternal families can help them feel the Holy Ghost. Close with testimony."
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Teach the idea and why it matters for a missionary.",
+   "examples": [
+    {
+     "title": "Show why we go to the temple",
+     "text": "Explain one blessing of the temple in your own words and show it from Doctrine and Covenants 109:22–23.",
+     "pick": true
+    },
+    {
+     "title": "Draw the work for the dead",
+     "text": "Draw the spirit world, the Savior’s visit and the temple. Use Doctrine and Covenants 138:29–35.",
+     "pick": false
+    },
+    {
+     "title": "Show the spirit of Elijah",
+     "text": "Read Malachi 4:5–6 and describe, in your own words, how hearts turn to ancestors.",
+     "pick": true
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Show one example of what learners will do.",
+   "examples": [
+    {
+     "title": "Start a family history conversation",
+     "text": "Show how to ask a neighbor about their family in a warm, natural way.",
+     "pick": true
+    },
+    {
+     "title": "Teach why families matter",
+     "text": "Show how to teach eternal families in three minutes with Malachi 4:6 and testimony.",
+     "pick": false
+    },
+    {
+     "title": "Show how to use a chart",
+     "text": "Use a pedigree chart to show what we know and what we are missing.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Learners practise in pairs or small groups.",
+   "examples": [
+    {
+     "title": "Practise a family history talk",
+     "text": "One plays a neighbor curious about family history. The other starts a gospel conversation.",
+     "pick": true
+    },
+    {
+     "title": "Teach in pairs",
+     "text": "Each pair teaches the mission of Elijah in five minutes with a scripture and testimony.",
+     "pick": false
+    },
+    {
+     "title": "Fill a chart",
+     "text": "Each learner fills out as much of a four-generation chart as they can and shares one story.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Name what went well and what can improve.",
+   "examples": [
+    {
+     "title": "Partner feedback",
+     "text": "The learner who was taught says what was clearest and what felt most sincere. The teacher writes one thing to keep and one to improve.",
+     "pick": false
+    },
+    {
+     "title": "Three questions",
+     "text": "Ask: What went well? What would you change? What helped the listener most to understand family history? Begin with the good.",
+     "pick": true
+    },
+    {
+     "title": "Simple checklist",
+     "text": "Was it simple? Was a scripture used and explained? Was the listener invited to act? Did the teacher speak with sincerity?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Practise again with what was learned.",
+   "examples": [
+    {
+     "title": "Switch roles",
+     "text": "The learner who listened now teaches. Leave time for feedback both ways, then ask a few to share what they learned.",
+     "pick": true
+    },
+    {
+     "title": "Improve one thing",
+     "text": "Each learner teaches again and changes one thing from the feedback: a clearer sentence, a better scripture or a warmer invitation.",
+     "pick": false
+    },
+    {
+     "title": "Teach a new partner",
+     "text": "Find a new partner. Teach the same lesson again in a few minutes. Share one insight with the class.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Testify that families can be together forever through temple ordinances. Share a feeling you have had about your own family’s history.",
+ "tips": [
+  {
+   "text": "Display quotations as well as reading them aloud. People remember more.",
+   "pick": true
+  },
+  {
+   "text": "Invite stories and let the Spirit testify through them.",
+   "pick": true
+  },
+  {
+   "text": "Share sacred experiences carefully. Say what is appropriate and no more.",
+   "pick": true
+  },
+  {
+   "text": "Use real objects, like a fan chart, so learners can see and touch.",
+   "pick": true
+  }
+ ],
+ "quote": {
+  "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers.",
+  "by": "Malachi 4:6"
+ },
+ "study": "Read Doctrine and Covenants 110:13–16 together and ask what keys Elijah gave and why they matter.",
+ "invitations": [
+  "Open an account to use the family history website. If you can, add a name.",
+  "Show your four-generation chart to a friend or neighbor and ask them about their family.",
+  "Use the website to find an ancestor who needs temple ordinances, and plan to take the name to the temple."
+ ],
+ "refs": [
+  {
+   "show": "1 Peter 3:18–20",
+   "ref": "1 Peter 3:18–20"
+  },
+  {
+   "show": "1 Peter 4:6",
+   "ref": "1 Peter 4:6"
+  },
+  {
+   "show": "Malachi 4:5–6",
+   "ref": "Malachi 4:5–6"
+  },
+  {
+   "show": "Malachi 4:6",
+   "ref": "Malachi 4:6"
+  },
+  {
+   "show": "Joseph Smith—History 1:38–39",
+   "ref": "Joseph Smith—History 1:38–39"
+  },
+  {
+   "show": "Doctrine and Covenants 109:22–23",
+   "ref": "D&C 109:22–23"
+  },
+  {
+   "show": "Doctrine and Covenants 110:13–16",
+   "ref": "D&C 110:13–16"
+  },
+  {
+   "show": "Doctrine and Covenants 138:29–35",
+   "ref": "D&C 138:29–35"
+  }
+ ]
+}

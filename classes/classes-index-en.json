@@ -2,7 +2,7 @@
  "schema": 2,
  "language": "en",
  "indexVersion": 2,
- "count": 12,
+ "count": 15,
  "classes": [
   {
    "id": "lesson-01",
@@ -99,6 +99,30 @@
    "order": 12,
    "file": "en/lesson-12.json",
    "bytes": 9072
+  },
+  {
+   "id": "lesson-13",
+   "title": "13. Teaching the Gospel of Jesus Christ (Part 1)",
+   "kind": "missionary-preparation",
+   "order": 13,
+   "file": "en/lesson-13.json",
+   "bytes": 8768
+  },
+  {
+   "id": "lesson-14",
+   "title": "14. Teaching the Gospel of Jesus Christ (Part 2)",
+   "kind": "missionary-preparation",
+   "order": 14,
+   "file": "en/lesson-14.json",
+   "bytes": 8728
+  },
+  {
+   "id": "lesson-15",
+   "title": "15. Temple and Family History Work",
+   "kind": "missionary-preparation",
+   "order": 15,
+   "file": "en/lesson-15.json",
+   "bytes": 9623
   }
  ]
 }

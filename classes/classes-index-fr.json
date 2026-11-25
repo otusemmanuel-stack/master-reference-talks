@@ -2,7 +2,7 @@
  "schema": 2,
  "language": "fr",
  "indexVersion": 2,
- "count": 12,
+ "count": 15,
  "classes": [
   {
    "id": "lesson-01",
@@ -99,6 +99,30 @@
    "order": 12,
    "file": "en/lesson-12.json",
    "bytes": 10749
+  },
+  {
+   "id": "lesson-13",
+   "title": "13. Enseigner l’Évangile de Jésus-Christ (1re partie)",
+   "kind": "missionary-preparation",
+   "order": 13,
+   "file": "en/lesson-13.json",
+   "bytes": 10043
+  },
+  {
+   "id": "lesson-14",
+   "title": "14. Enseigner l’Évangile de Jésus-Christ (2e partie)",
+   "kind": "missionary-preparation",
+   "order": 14,
+   "file": "en/lesson-14.json",
+   "bytes": 10085
+  },
+  {
+   "id": "lesson-15",
+   "title": "15. Œuvre du temple et de l’histoire familiale",
+   "kind": "missionary-preparation",
+   "order": 15,
+   "file": "en/lesson-15.json",
+   "bytes": 11410
   }
  ]
 }
