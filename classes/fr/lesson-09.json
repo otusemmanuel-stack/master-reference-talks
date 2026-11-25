@@ -1,0 +1,234 @@
+{
+ "schema": 2,
+ "language": "fr",
+ "id": "lesson-09",
+ "number": 9,
+ "title": "Développer des attributs christiques",
+ "kind": "missionary-preparation",
+ "order": 9,
+ "focus": "Sujet d’exercice : montrer des attributs christiques avec un compagnon",
+ "intro": "Un missionnaire porte le nom du Sauveur. Dans cette leçon, les participants étudient pourquoi les attributs christiques comptent, comment ils grandissent, et comment ils aident un missionnaire à enseigner et à servir avec son compagnon dans la paix.",
+ "preparation": "Étudiez Alma 17:22–37 ; 18:1–3, 8–10 ; Moroni 7:45–48 ; et Doctrine et Alliances 4:1–7. Lisez le chapitre sur les attributs christiques dans le manuel missionnaire. Priez pour chaque participant par son nom.",
+ "sections": [
+  {
+   "title": "Pourquoi les attributs christiques comptent",
+   "paras": [
+    "Regardez ensemble un badge de missionnaire. Deux noms ressortent : celui du missionnaire et celui du Sauveur. Demandez pourquoi il est important que les autres associent notre nom au sien.",
+    "Lisez 3 Néphi 27:27. Demandez comment nous acceptons l’invitation du Sauveur à le suivre. Dégagez la vérité : nous suivons Jésus-Christ en devenant comme lui. Demandez comment cela pourrait rendre un missionnaire plus fort dans son ministère."
+   ]
+  },
+  {
+   "title": "Comment les attributs christiques grandissent",
+   "paras": [
+    "Laissez chaque participant choisir un verset sur la façon de suivre le Sauveur et dire ce qu’il enseigne. Demandez ensuite quels attributs ils associent à lui et où ils les ont vus dans sa vie.",
+    "Lisez Doctrine et Alliances 4:1–7. Demandez comment les versets 5 et 6 relient nos attributs à notre aptitude à servir. Lisez Moroni 7:47–48 et parlez de la charité, un don que l’on demande puis que l’on met en pratique. Dites-le simplement : les attributs christiques sont des dons de Dieu. Nous les cherchons par la prière, le repentir, la foi en l’expiation et des choix quotidiens.",
+    "Donnez aux participants un moment de calme pour choisir un attribut et l’étudier. Ils écrivent : ce qui est nouveau pour moi, ce qui doit changer dans mon cœur ou mes actions, et comment cela m’aidera comme missionnaire. Demandez-leur d’écrire un plan simple avec un choix à faire chaque jour."
+   ]
+  },
+  {
+   "title": "Les attributs dans l’œuvre missionnaire",
+   "paras": [
+    "Demandez : Comment prêcher l’Évangile sans paroles ? Que se passe-t-il dans le cœur d’une personne traitée comme le Sauveur la traiterait ? Laissez les participants lister les attributs que les personnes qui s’informent remarquent le plus.",
+    "Étudiez Ammon dans Alma 17:22–25, 28–31, 33–37 et Alma 18:1–3, 8–10. Chacun lit une partie et trouve les attributs qu’Ammon a montrés. Demandez comment ces attributs ont touché les gens qu’il servait et comment un missionnaire d’aujourd’hui pourrait faire de même. Terminez en demandant à chacun de penser à quelqu’un qui a montré ces attributs envers lui."
+   ]
+  },
+  {
+   "title": "Servir avec un compagnon",
+   "paras": [
+    "Demandez : Qu’est-ce qui peut rendre le service avec un compagnon difficile ? Pourquoi les missionnaires servent-ils par deux ? Lisez Doctrine et Alliances 42:6 et 2 Corinthiens 13:1 pour montrer la force de deux témoins.",
+    "Lisez Doctrine et Alliances 38:24–25, 27 et 3 Néphi 11:29. Demandez ce qui arrive à l’Esprit quand il y a des querelles et quels attributs aident les compagnons à rester unis, comme la patience, l’humilité et l’amour. Demandez en quoi l’unité rend un binôme plus efficace pour enseigner."
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Enseignez l’idée et dites pourquoi elle compte pour un missionnaire.",
+   "examples": [
+    {
+     "title": "Nommer l’attribut",
+     "text": "Écrivez un attribut au tableau, comme la patience, l’humilité ou la charité. Montrez un verset qui le décrit, puis dites à quoi il ressemble dans la journée d’un missionnaire.",
+     "pick": true
+    },
+    {
+     "title": "Montrer comment les attributs grandissent",
+     "text": "Listez quatre étapes : demander, se repentir, agir, recommencer. Utilisez Moroni 7:47–48 pour montrer que nous prions pour la charité puis la vivons.",
+     "pick": false
+    },
+    {
+     "title": "Montrer l’exemple d’Ammon",
+     "text": "Lisez Alma 17:28–31 et nommez deux attributs qu’Ammon a montrés. Dites comment un missionnaire pourrait faire de même.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Montrez un exemple de ce que les participants vont faire.",
+   "examples": [
+    {
+     "title": "Enseigner un attribut en trois minutes",
+     "text": "Définissez l’attribut, lisez un verset, partagez un exemple simple et invitez à faire un plan. Ajoutez un court témoignage.",
+     "pick": true
+    },
+    {
+     "title": "Montrer une réponse bienveillante à un compagnon",
+     "text": "Un compagnon est en retard et la tension monte. Montrez une réponse calme et bienveillante qui protège l’esprit du binôme.",
+     "pick": false
+    },
+    {
+     "title": "Montrer comment fixer un objectif",
+     "text": "Écrivez un objectif qui nomme un attribut, une action quotidienne et un moment. Partagez-le à voix haute.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Les participants s’exercent à deux ou en petits groupes.",
+   "examples": [
+    {
+     "title": "Enseigner à deux",
+     "text": "Chacun enseigne un attribut pendant trois minutes avec un verset et un exemple tiré d’Ammon ou du Sauveur.",
+     "pick": true
+    },
+    {
+     "title": "Jouer un moment difficile",
+     "text": "L’un joue un compagnon frustré. L’autre répond avec un attribut christique.",
+     "pick": false
+    },
+    {
+     "title": "Écrire un plan personnel",
+     "text": "Chacun choisit un attribut et écrit une action pour chaque jour de cette semaine.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Dites ce qui a bien marché et ce qui peut être amélioré.",
+   "examples": [
+    {
+     "title": "Avis du partenaire",
+     "text": "Le participant enseigné dit ce qui était le plus clair et ce qui semblait le plus sincère. L’enseignant note une chose à garder et une à améliorer.",
+     "pick": false
+    },
+    {
+     "title": "Trois questions",
+     "text": "Demandez : Qu’est-ce qui a bien marché ? Que changeriez-vous ? Qu’est-ce qui a le plus aidé l’auditeur à comprendre les attributs christiques ? Commencez par le positif.",
+     "pick": true
+    },
+    {
+     "title": "Liste simple",
+     "text": "Était-ce simple ? Un passage d’Écriture a-t-il été utilisé et expliqué ? L’auditeur a-t-il été invité à agir ? L’enseignant parlait-il avec sincérité ?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Exercez-vous de nouveau avec ce que vous avez appris.",
+   "examples": [
+    {
+     "title": "Changer de rôle",
+     "text": "Le participant qui écoutait enseigne à son tour. Laissez le temps de donner et de recevoir des avis, puis invitez quelques-uns à dire ce qu’ils ont appris.",
+     "pick": true
+    },
+    {
+     "title": "Améliorer une chose",
+     "text": "Chacun enseigne de nouveau et change une chose selon les avis : une phrase plus claire, un meilleur passage ou une invitation plus chaleureuse.",
+     "pick": false
+    },
+    {
+     "title": "Enseigner un nouveau partenaire",
+     "text": "Trouvez un nouveau partenaire. Enseignez de nouveau la même leçon en quelques minutes. Partagez une idée avec la classe.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Dites comment une personne semblable au Christ a béni votre vie. Témoignez que le Sauveur nous aide à lui ressembler davantage quand nous faisons de notre mieux.",
+ "tips": [
+  {
+   "text": "Laissez un moment de réflexion avant de demander des réponses. Les réponses sont plus réfléchies.",
+   "pick": true
+  },
+  {
+   "text": "Aidez les participants à écrire ce qu’ils feront. Les sentiments deviennent un plan.",
+   "pick": true
+  },
+  {
+   "text": "Invitez à partager une vraie expérience et remerciez la personne.",
+   "pick": true
+  },
+  {
+   "text": "Demandez de nommer un attribut puis de le mettre en pratique cette semaine.",
+   "pick": true
+  }
+ ],
+ "quote": {
+  "text": "Quels hommes devriez-vous être ? En vérité, je vous le dis, tels que je suis.",
+  "by": "3 Néphi 27:27"
+ },
+ "study": "Lisez ensemble Moroni 7:47–48 et demandez ce qu’on nous demande de faire pour recevoir la charité.",
+ "invitations": [
+  "Choisissez un attribut christique et étudiez-le avec les Écritures, le Guide des Écritures et le Dictionnaire de la Bible.",
+  "Demandez-vous comment être plus semblable au Christ envers votre famille, vos amis et vos voisins.",
+  "Fixez-vous des objectifs pour éviter les querelles avec un futur compagnon.",
+  "Trouvez des moyens de montrer de l’amour à votre famille et à vos amis et de les servir."
+ ],
+ "refs": [
+  {
+   "show": "3 Néphi 27:27",
+   "ref": "3 Nephi 27:27"
+  },
+  {
+   "show": "Doctrine et Alliances 4:1–7",
+   "ref": "D&C 4:1–7"
+  },
+  {
+   "show": "Moroni 7:47–48",
+   "ref": "Moroni 7:47–48"
+  },
+  {
+   "show": "Alma 17:22–25",
+   "ref": "Alma 17:22–25"
+  },
+  {
+   "show": "Alma 17:28–31",
+   "ref": "Alma 17:28–31"
+  },
+  {
+   "show": "Alma 17:33–37",
+   "ref": "Alma 17:33–37"
+  },
+  {
+   "show": "Alma 18:1–3",
+   "ref": "Alma 18:1–3"
+  },
+  {
+   "show": "Alma 18:8–10",
+   "ref": "Alma 18:8–10"
+  },
+  {
+   "show": "2 Corinthiens 13:1",
+   "ref": "2 Corinthians 13:1"
+  },
+  {
+   "show": "3 Néphi 11:29",
+   "ref": "3 Nephi 11:29"
+  },
+  {
+   "show": "Doctrine et Alliances 42:6",
+   "ref": "D&C 42:6"
+  },
+  {
+   "show": "Doctrine et Alliances 38:24–25",
+   "ref": "D&C 38:24–25"
+  },
+  {
+   "show": "Doctrine et Alliances 38:27",
+   "ref": "D&C 38:27"
+  }
+ ]
+}

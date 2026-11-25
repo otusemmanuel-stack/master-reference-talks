@@ -2,7 +2,7 @@
  "schema": 2,
  "language": "en",
  "indexVersion": 2,
- "count": 7,
+ "count": 12,
  "classes": [
   {
    "id": "lesson-01",
@@ -58,7 +58,47 @@
    "kind": "missionary-preparation",
    "order": 7,
    "file": "en/lesson-07.json",
-   "bytes": 7495
+   "bytes": 10878
+  },
+  {
+   "id": "lesson-08",
+   "title": "8. Teaching the Message of the Restoration (Part 2)",
+   "kind": "missionary-preparation",
+   "order": 8,
+   "file": "en/lesson-08.json",
+   "bytes": 9224
+  },
+  {
+   "id": "lesson-09",
+   "title": "9. Developing Christlike Attributes",
+   "kind": "missionary-preparation",
+   "order": 9,
+   "file": "en/lesson-09.json",
+   "bytes": 8795
+  },
+  {
+   "id": "lesson-10",
+   "title": "10. Teaching the Plan of Salvation (Part 1)",
+   "kind": "missionary-preparation",
+   "order": 10,
+   "file": "en/lesson-10.json",
+   "bytes": 8654
+  },
+  {
+   "id": "lesson-11",
+   "title": "11. Teaching the Plan of Salvation (Part 2)",
+   "kind": "missionary-preparation",
+   "order": 11,
+   "file": "en/lesson-11.json",
+   "bytes": 8226
+  },
+  {
+   "id": "lesson-12",
+   "title": "12. Finding People to Teach",
+   "kind": "missionary-preparation",
+   "order": 12,
+   "file": "en/lesson-12.json",
+   "bytes": 9072
   }
  ]
 }

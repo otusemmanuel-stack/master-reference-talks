@@ -1,0 +1,222 @@
+{
+ "schema": 2,
+ "language": "fr",
+ "id": "lesson-08",
+ "number": 8,
+ "title": "Enseigner le message du Rétablissement (2e partie)",
+ "kind": "missionary-preparation",
+ "order": 8,
+ "focus": "Sujet d’exercice : enseigner la Première Vision",
+ "intro": "Dieu a répondu à la prière d’un garçon dans un bosquet et a commencé le Rétablissement. Dans cette leçon, les participants étudient la Première Vision, voient pourquoi elle compte et s’exercent à l’enseigner et à inviter les autres à lire le Livre de Mormon.",
+ "preparation": "Étudiez Moroni 10:3–5 et Joseph Smith, Histoire 1:1–19. Étudiez le président Gordon B. Hinckley, « The Marvelous Foundation of Our Faith », conférence générale, octobre 2002. Préparez-vous à rendre votre témoignage de la Première Vision. Priez pour chaque participant par son nom.",
+ "sections": [
+  {
+   "title": "Un témoignage qui touche le cœur",
+   "paras": [
+    "Racontez l’histoire d’Elmer Pollard que le président Thomas S. Monson a partagée dans « Come, All Ye Sons of God », conférence générale, avril 2013. Le simple témoignage d’un missionnaire sur le prophète Joseph Smith a touché son cœur. Demandez : Pourquoi ce témoignage a-t-il eu un tel effet ? Que nous enseigne-t-il sur notre façon d’enseigner ?"
+   ]
+  },
+  {
+   "title": "La recherche de Joseph Smith",
+   "paras": [
+    "Lisez Joseph Smith, Histoire 1:5–9 puis Joseph Smith, Histoire 1:10. Demandez : Quelles questions Joseph se posait-il ? Pourquoi était-il difficile de choisir une église ? En quoi ses questions ressemblent-elles à celles des gens aujourd’hui ?",
+    "Lisez Joseph Smith, Histoire 1:11–13 et Jacques 1:5. Aidez les participants à dire la vérité : nous pouvons trouver la vérité spirituelle en étudiant, en demandant à Dieu et en agissant selon ce que nous apprenons. Demandez comment ils peuvent utiliser l’exemple de Joseph pour aider quelqu’un d’autre."
+   ]
+  },
+  {
+   "title": "La Première Vision",
+   "paras": [
+    "Laissez les participants lire Joseph Smith, Histoire 1:14–19 seuls. Demandez pourquoi l’adversaire voudrait arrêter Joseph avant qu’il reçoive la vision. Demandez ensuite quelles doctrines la vision enseigne : le Père et le Fils sont deux Êtres distincts et glorifiés, Dieu entend et exauce la prière, et la véritable Église n’était pas sur la terre.",
+    "Demandez comment la Première Vision a commencé à vaincre les effets de la grande apostasie et pourquoi il est important que les missionnaires racontent cette histoire. Le président Gordon B. Hinckley a enseigné que toute la force de l’Église repose sur la réalité de cette vision (« The Marvelous Foundation of Our Faith », conférence générale, octobre 2002). Demandez pourquoi certains ont du mal à l’accepter et comment un missionnaire peut répondre avec bonté et témoignage."
+   ]
+  },
+  {
+   "title": "Le schéma du Rétablissement",
+   "paras": [
+    "Reliez cette leçon à la précédente. Le Seigneur a promis de rétablir toutes choses dans la dispensation de la plénitude des temps (voir Éphésiens 1:10). Demandez en quoi il est utile à une personne qui s’informe de voir que le Rétablissement suit un schéma que Dieu a déjà utilisé.",
+    "Demandez aux participants comment ils ont reçu un témoignage de la Première Vision et comment ce témoignage a influencé leur foi dans le Rétablissement."
+   ]
+  },
+  {
+   "title": "Inviter les autres à lire le Livre de Mormon",
+   "paras": [
+    "Lisez Moroni 10:3–5. Demandez quelles étapes une personne suit pour savoir que le Livre de Mormon est vrai : lire, méditer, demander à Dieu avec un cœur sincère et une réelle intention, et agir selon ce qu’elle apprend. Lisez Doctrine et Alliances 20:8–11 et demandez pourquoi le livre est une preuve solide que Joseph Smith était un prophète.",
+    "Demandez aux participants de repérer ce qui fait qu’une invitation fonctionne : l’intérêt pour la personne, une invitation claire et un simple témoignage. Montrez ensuite comment présenter le livre et inviter quelqu’un à lire et à prier."
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "key": "explain",
+   "why": "Enseignez l’idée et dites pourquoi elle compte pour un missionnaire.",
+   "examples": [
+    {
+     "title": "Lister les vérités de la Première Vision",
+     "text": "Écrivez au tableau ce que la vision enseigne : Dieu le Père et Jésus-Christ sont apparus, ce sont deux Êtres distincts, Dieu exauce la prière et l’Église devait être rétablie. Montrez chaque vérité dans Joseph Smith, Histoire 1:16–19.",
+     "pick": true
+    },
+    {
+     "title": "Montrer comment Joseph a trouvé la vérité",
+     "text": "Utilisez Joseph Smith, Histoire 1:11–13 pour montrer quatre étapes : étudier, demander, agir, recevoir. Dites comment un missionnaire peut suivre les mêmes étapes.",
+     "pick": true
+    },
+    {
+     "title": "Relier à l’apostasie",
+     "text": "Expliquez comment la Première Vision répond à la grande apostasie et commence le Rétablissement.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "demonstrate",
+   "why": "Montrez un exemple de ce que les participants vont faire.",
+   "examples": [
+    {
+     "title": "Enseigner la Première Vision en trois minutes",
+     "text": "Racontez l’histoire de Joseph avec vos mots, lisez Joseph Smith, Histoire 1:16–17 et rendez un simple témoignage.",
+     "pick": true
+    },
+    {
+     "title": "Inviter quelqu’un à lire le Livre de Mormon",
+     "text": "Montrez comment présenter le livre, partager sa promesse dans Moroni 10:4–5 et inviter une personne à lire et à prier.",
+     "pick": false
+    },
+    {
+     "title": "Montrer une réponse à une question difficile",
+     "text": "Un ami demande : « Comment savez-vous que la Première Vision a eu lieu ? » Montrez comment répondre avec bonté, renvoyer à la prière et au Livre de Mormon, et témoigner.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "practice",
+   "why": "Les participants s’exercent à deux ou en petits groupes.",
+   "examples": [
+    {
+     "title": "Enseigner à deux",
+     "text": "Les binômes préparent une leçon de quatre minutes sur la Première Vision et le Rétablissement. Utilisez vos propres mots, sauf en lisant Joseph Smith, Histoire 1:16–17. Terminez par un témoignage.",
+     "pick": true
+    },
+    {
+     "title": "Inviter à deux",
+     "text": "Chacun présente le Livre de Mormon et invite un partenaire à lire et à prier. Le partenaire exprime une vraie inquiétude.",
+     "pick": false
+    },
+    {
+     "title": "Partager un témoignage",
+     "text": "Chacun partage un court témoignage de la Première Vision avec un partenaire. Le partenaire dit ce qui semblait sincère.",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "evaluate",
+   "why": "Dites ce qui a bien marché et ce qui peut être amélioré.",
+   "examples": [
+    {
+     "title": "Avis du partenaire",
+     "text": "Le participant enseigné dit ce qui était le plus clair et ce qui semblait le plus sincère. L’enseignant note une chose à garder et une à améliorer.",
+     "pick": false
+    },
+    {
+     "title": "Trois questions",
+     "text": "Demandez : Qu’est-ce qui a bien marché ? Que changeriez-vous ? Qu’est-ce qui a le plus aidé l’auditeur à comprendre la Première Vision ? Commencez par le positif.",
+     "pick": true
+    },
+    {
+     "title": "Liste simple",
+     "text": "Était-ce simple ? Un passage d’Écriture a-t-il été utilisé et expliqué ? L’auditeur a-t-il été invité à agir ? L’enseignant parlait-il avec sincérité ?",
+     "pick": false
+    }
+   ]
+  },
+  {
+   "key": "repractise",
+   "why": "Exercez-vous de nouveau avec ce que vous avez appris.",
+   "examples": [
+    {
+     "title": "Changer de rôle",
+     "text": "Le participant qui écoutait enseigne à son tour. Laissez le temps de donner et de recevoir des avis, puis invitez quelques-uns à dire ce qu’ils ont appris.",
+     "pick": true
+    },
+    {
+     "title": "Améliorer une chose",
+     "text": "Chacun enseigne de nouveau et change une chose selon les avis : une phrase plus claire, un meilleur passage ou une invitation plus chaleureuse.",
+     "pick": false
+    },
+    {
+     "title": "Enseigner un nouveau partenaire",
+     "text": "Trouvez un nouveau partenaire. Enseignez de nouveau la même leçon en quelques minutes. Partagez une idée avec la classe.",
+     "pick": false
+    }
+   ]
+  }
+ ],
+ "testimony": "Invitez les participants à rendre témoignage de la Première Vision. Rendez le vôtre et dites que ceux qui invitent les autres à lire le Livre de Mormon trouveront de la joie.",
+ "tips": [
+  {
+   "text": "Aidez les participants face aux questions difficiles avec calme et foi, en utilisant les ressources officielles de l’Église.",
+   "pick": true
+  },
+  {
+   "text": "Laissez les participants s’exercer, puis donnez des avis bienveillants.",
+   "pick": true
+  },
+  {
+   "text": "Demandez aux participants de témoigner de ce qu’ils croient.",
+   "pick": true
+  },
+  {
+   "text": "Racontez d’abord l’histoire, puis demandez ce qu’elle enseigne.",
+   "pick": false
+  }
+ ],
+ "quote": {
+  "text": "Celui-ci est mon Fils bien-aimé. Écoute-le !",
+  "by": "Joseph Smith, Histoire 1:17"
+ },
+ "study": "Lisez ensemble Joseph Smith, Histoire 1:16–17 et demandez ce que la vision enseigne sur Dieu.",
+ "invitations": [
+  "Priez pour un témoignage plus fort de la Première Vision et de la vérité du Livre de Mormon.",
+  "Apprenez Joseph Smith, Histoire 1:16–17 par cœur. Partagez-le avec un ami ou un membre de votre famille et ajoutez votre témoignage.",
+  "Priez pour savoir à qui vous pourriez donner un exemplaire du Livre de Mormon."
+ ],
+ "refs": [
+  {
+   "show": "Moroni 10:3–5",
+   "ref": "Moroni 10:3–5"
+  },
+  {
+   "show": "Joseph Smith, Histoire 1:5–9",
+   "ref": "Joseph Smith—History 1:5–9"
+  },
+  {
+   "show": "Joseph Smith, Histoire 1:10",
+   "ref": "Joseph Smith—History 1:10"
+  },
+  {
+   "show": "Joseph Smith, Histoire 1:11–13",
+   "ref": "Joseph Smith—History 1:11–13"
+  },
+  {
+   "show": "Joseph Smith, Histoire 1:14–19",
+   "ref": "Joseph Smith—History 1:14–19"
+  },
+  {
+   "show": "Joseph Smith, Histoire 1:16–17",
+   "ref": "Joseph Smith—History 1:16–17"
+  },
+  {
+   "show": "Jacques 1:5",
+   "ref": "James 1:5"
+  },
+  {
+   "show": "Éphésiens 1:10",
+   "ref": "Ephesians 1:10"
+  },
+  {
+   "show": "Doctrine et Alliances 20:8–11",
+   "ref": "D&C 20:8–11"
+  }
+ ]
+}

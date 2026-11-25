@@ -5,7 +5,7 @@
  "title": "Enseigner le message du Rétablissement (1re partie)",
  "kind": "missionary-preparation",
  "order": 7,
- "intro": "Un missionnaire doit pouvoir expliquer simplement pourquoi l’Évangile devait être rétabli. Aujourd’hui, nous étudions la grande apostasie : ce qu’elle a été, comment elle est arrivée et ce qui a suivi. À la fin, chacun de vous devrait pouvoir l’enseigner en quelques phrases claires et témoigner que le Rétablissement est la réponse de Dieu à l’apostasie.",
+ "intro": "Cette leçon prépare les participants à enseigner la première partie du message du Rétablissement : Dieu est notre Père aimant, les familles comptent pour lui, il conduit ses enfants par des prophètes, et l’Évangile a été perdu lors de la grande apostasie. À la fin, chacun peut enseigner ces vérités simplement et en témoigner.",
  "preparation": "Étudiez Amos 8:11–12, Ésaïe 24:5, 2 Thessaloniciens 2:3, Actes 20:29–30, 2 Timothée 4:3–4 et Éphésiens 4:11–14. Lisez « La famille : Déclaration au monde » et apportez un exemplaire pour chaque participant. Priez pour chaque participant par son nom.",
  "steps": [
   {
@@ -179,9 +179,60 @@
   {
    "show": "Doctrine et Alliances 1:37–38",
    "ref": "D&C 1:37–38"
+  },
+  {
+   "show": "Romains 8:16",
+   "ref": "Romans 8:16"
+  },
+  {
+   "show": "Moïse 1:39",
+   "ref": "Moses 1:39"
+  },
+  {
+   "show": "Apocalypse 12:12",
+   "ref": "Revelation 12:12"
+  },
+  {
+   "show": "1 Néphi 3:7",
+   "ref": "1 Nephi 3:7"
   }
  ],
  "number": 7,
  "focus": "Sujet d’exercice : la grande apostasie",
- "sections": []
+ "sections": [
+  {
+   "title": "Dieu est notre Père aimant",
+   "paras": [
+    "Commencez par une étude de cas. Un ami écrit tard le soir, découragé, et demande : « Dieu existe-t-il ? S’intéresse-t-il à nous ? Comment est-il ? » Laissez quelques participants dire comment ils répondraient. Expliquez ensuite que la leçon d’aujourd’hui les prépare à répondre.",
+    "Cherchez ensemble dans les Écritures comment Dieu montre son amour, par exemple Romains 8:16 et Moïse 1:39. Demandez à chacun d’écrire une courte phrase : Dieu est notre Père aimant et veut que tous ses enfants reviennent à lui. Demandez pourquoi une personne devrait comprendre cela avant d’apprendre d’autres doctrines."
+   ]
+  },
+  {
+   "title": "L’Évangile bénit les familles",
+   "paras": [
+    "Laissez les participants lire « La famille : Déclaration au monde » et marquer les expressions qui montrent le rôle du mariage et de la famille dans le plan de Dieu. Demandez à l’un d’eux de les écrire au tableau.",
+    "Lisez cette déclaration du président Boyd K. Packer, « The Father and the Family », conférence générale, avril 1994 : « Le but ultime de l’adversaire … est de perturber, de troubler et de détruire le foyer et la famille » (voir Apocalypse 12:12). Demandez pourquoi la famille est une telle cible et comment la déclaration aide un missionnaire à distinguer le plan de Dieu des tendances du monde. Gardez l’accent sur le plan de Dieu et ne vous attardez pas sur les tendances du monde."
+   ]
+  },
+  {
+   "title": "Les prophètes et les dispensations",
+   "paras": [
+    "Expliquez que l’appel de prophètes est une façon dont Dieu montre son amour. Lisez ce que l’élder M. Russell Ballard a enseigné dans « His Word Ye Shall Receive », conférence générale, avril 2001 : « Si vous écoutez le prophète vivant et les apôtres, et si vous suivez nos conseils, vous ne vous égarerez pas. » Lisez Doctrine et Alliances 1:37–38, Amos 3:7 et 1 Néphi 3:7. Demandez quelles bénédictions viennent à ceux qui suivent le prophète du Seigneur.",
+    "Enseignez le schéma : Dieu appelle un prophète, l’Évangile est enseigné, les gens s’en détournent et Dieu appelle de nouveau un prophète. Une période où Dieu a un prophète avec les clés de la prêtrise s’appelle une dispensation. Demandez pourquoi il est utile à une personne qui s’informe de savoir que les dispensations précédentes se sont terminées par l’apostasie."
+   ]
+  },
+  {
+   "title": "Le ministère terrestre du Sauveur",
+   "paras": [
+    "Demandez ce que Jésus-Christ a fait pour établir son Église. Il a choisi et ordonné des apôtres et leur a donné l’autorité. Son ministère et son rejet ont suivi le schéma des dispensations précédentes. Après la mort du Sauveur et de ses apôtres, les gens sont retombés dans l’apostasie jusqu’à ce que Dieu appelle un prophète pour rétablir l’Évangile."
+   ]
+  },
+  {
+   "title": "La grande apostasie",
+   "paras": [
+    "Écrivez cette question au tableau : Qu’est-ce qui a mené à la grande apostasie, et qu’en est-il résulté ? Laissez les participants chercher des réponses. Après la mort de Jésus-Christ et de ses apôtres, des changements que personne n’avait l’autorité de faire se sont glissés dans la doctrine et les pratiques. Avec le temps, les clés et l’autorité de la prêtrise ont été retirées de la terre.",
+    "Laissez les participants étudier quelques versets sur l’éloignement de la vérité, comme 2 Thessaloniciens 2:3, Amos 8:11–12 et 2 Timothée 4:3–4. Écrivez ce résumé : les prophètes anciens ont annoncé un éloignement de la vérité. Passez ensuite aux étapes de formation, où les participants enseignent l’apostasie à deux."
+   ]
+  }
+ ]
 }
