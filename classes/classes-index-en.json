@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "language": "en",
- "indexVersion": 2,
+ "indexVersion": 3,
  "count": 15,
  "classes": [
   {
@@ -10,7 +10,7 @@
    "kind": "missionary-preparation",
    "order": 1,
    "file": "en/lesson-01.json",
-   "bytes": 9971
+   "bytes": 17102
   },
   {
    "id": "lesson-02",
@@ -18,7 +18,7 @@
    "kind": "missionary-preparation",
    "order": 2,
    "file": "en/lesson-02.json",
-   "bytes": 10823
+   "bytes": 18601
   },
   {
    "id": "lesson-03",
@@ -26,7 +26,7 @@
    "kind": "missionary-preparation",
    "order": 3,
    "file": "en/lesson-03.json",
-   "bytes": 9300
+   "bytes": 17044
   },
   {
    "id": "lesson-04",
@@ -34,7 +34,7 @@
    "kind": "missionary-preparation",
    "order": 4,
    "file": "en/lesson-04.json",
-   "bytes": 9919
+   "bytes": 17618
   },
   {
    "id": "lesson-05",
@@ -42,7 +42,7 @@
    "kind": "missionary-preparation",
    "order": 5,
    "file": "en/lesson-05.json",
-   "bytes": 8722
+   "bytes": 15914
   },
   {
    "id": "lesson-06",
@@ -50,7 +50,7 @@
    "kind": "missionary-preparation",
    "order": 6,
    "file": "en/lesson-06.json",
-   "bytes": 9222
+   "bytes": 16111
   },
   {
    "id": "lesson-07",
@@ -58,7 +58,7 @@
    "kind": "missionary-preparation",
    "order": 7,
    "file": "en/lesson-07.json",
-   "bytes": 10878
+   "bytes": 19216
   },
   {
    "id": "lesson-08",
@@ -66,7 +66,7 @@
    "kind": "missionary-preparation",
    "order": 8,
    "file": "en/lesson-08.json",
-   "bytes": 9224
+   "bytes": 17484
   },
   {
    "id": "lesson-09",
@@ -74,7 +74,7 @@
    "kind": "missionary-preparation",
    "order": 9,
    "file": "en/lesson-09.json",
-   "bytes": 8795
+   "bytes": 15431
   },
   {
    "id": "lesson-10",
@@ -82,7 +82,7 @@
    "kind": "missionary-preparation",
    "order": 10,
    "file": "en/lesson-10.json",
-   "bytes": 8654
+   "bytes": 16013
   },
   {
    "id": "lesson-11",
@@ -90,7 +90,7 @@
    "kind": "missionary-preparation",
    "order": 11,
    "file": "en/lesson-11.json",
-   "bytes": 8226
+   "bytes": 14186
   },
   {
    "id": "lesson-12",
@@ -98,7 +98,7 @@
    "kind": "missionary-preparation",
    "order": 12,
    "file": "en/lesson-12.json",
-   "bytes": 9072
+   "bytes": 16914
   },
   {
    "id": "lesson-13",
@@ -106,7 +106,7 @@
    "kind": "missionary-preparation",
    "order": 13,
    "file": "en/lesson-13.json",
-   "bytes": 8768
+   "bytes": 16132
   },
   {
    "id": "lesson-14",
@@ -114,7 +114,7 @@
    "kind": "missionary-preparation",
    "order": 14,
    "file": "en/lesson-14.json",
-   "bytes": 8728
+   "bytes": 15761
   },
   {
    "id": "lesson-15",
@@ -122,7 +122,7 @@
    "kind": "missionary-preparation",
    "order": 15,
    "file": "en/lesson-15.json",
-   "bytes": 9623
+   "bytes": 17913
   }
  ]
 }
