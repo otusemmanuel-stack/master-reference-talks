@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-01",
  "number": 1,
@@ -217,6 +217,222 @@
   {
    "show": "Doctrine and Covenants 18:15–16",
    "ref": "D&C 18:15–16"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Missionary work is more than a list of tasks. In this lesson each learner sees its true purpose: to invite people to come to Christ, and to help them receive the restored gospel through faith in Jesus Christ, repentance, baptism, the gift of the Holy Ghost and enduring to the end."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The purpose of missionary work",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Ask learners to list what missionaries do each day, and write the list on the board."
+    },
+    {
+     "t": "say",
+     "text": "Then read the missionary purpose together: to invite others to come unto Christ by helping them receive the restored gospel through faith in Jesus Christ and His Atonement, repentance, baptism, the gift of the Holy Ghost and enduring to the end."
+    },
+    {
+     "t": "ask",
+     "text": "How does this purpose give meaning to the daily tasks?"
+    },
+    {
+     "t": "ask",
+     "text": "Which part belongs to the missionary, and which part belongs to the person being taught?"
+    },
+    {
+     "t": "ask",
+     "text": "How would keeping this purpose in mind change the way you serve?"
+    },
+    {
+     "t": "read",
+     "text": "Read this from Elder Dallin H. Oaks, “The Purpose of Missionary Work,” missionary satellite broadcast, April 1995: “We invite all to come unto Christ by repentance and baptism and confirmation in order to open the doors of the celestial kingdom to the sons and daughters of God.”"
+    },
+    {
+     "t": "ask",
+     "text": "Ask why the aim is greater than adding names to Church records, and read 3 Nephi 11:33–34 together."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: invite, come unto Christ, restored gospel, faith, Atonement."
+    },
+    {
+     "t": "example",
+     "text": "Say: “A missionary’s purpose is to invite people to come unto Christ. I do this so you can feel the joy I feel.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners to say the purpose in one sentence. A short sentence is easier to remember."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The doctrine of Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "do",
+     "text": "Make three groups."
+    },
+    {
+     "t": "say",
+     "text": "One studies 2 Nephi 31:10–21, one studies 3 Nephi 11:31–41 and one studies 3 Nephi 27:13–21. Each group lists what a follower of Christ is asked to do, and then adds its list to the board under the reference."
+    },
+    {
+     "t": "board",
+     "text": "Draw out two parts."
+    },
+    {
+     "t": "say",
+     "text": "First, what Christ does to draw us to the Father (see Alma 33:22 and Doctrine and Covenants 76:40–42). Second, what we do to receive His blessings: have faith, repent, be baptized, receive the gift of the Holy Ghost and endure to the end (see 3 Nephi 27:16–21). The Lord also said the Book of Mormon would bring to light the true points of His doctrine (Doctrine and Covenants 10:62)."
+    },
+    {
+     "t": "ask",
+     "text": "How would you explain the doctrine of Christ to someone who has never heard it?"
+    },
+    {
+     "t": "ask",
+     "text": "Why do missionaries teach people who already believe in Christ?"
+    },
+    {
+     "t": "say",
+     "text": "Then help learners say this truth: missionaries fulfill their purpose by helping people accept the doctrine of Christ."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: what a follower of Christ does, and what the Savior and the Father promise in return."
+    },
+    {
+     "t": "example",
+     "text": "Draw four steps on the board: faith, repentance, baptism, the gift of the Holy Ghost. Say: “Each step leads to the next.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let groups report one at a time, then add what they missed."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Helping others act in faith",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "What a missionary says matters, but what a person does with it matters more."
+    },
+    {
+     "t": "ask",
+     "text": "What shows that someone is growing in faith, repenting and preparing for baptism?"
+    },
+    {
+     "t": "ask",
+     "text": "What shows that the Holy Ghost was present in a lesson?"
+    },
+    {
+     "t": "say",
+     "text": "Let learners work in pairs. Each tells the other what makes it hard to invite someone to make a commitment, and what would give them confidence."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how knowing the doctrine of Christ helps them invite with love."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: a person acts, the Spirit confirms, and the missionary invites again."
+    },
+    {
+     "t": "example",
+     "text": "Say to a friend: “Would you read this chapter tonight and tell me tomorrow what you felt?”"
+    },
+    {
+     "t": "tip",
+     "text": "Pair each invitation with a time and a place. A clear invitation is easier to accept."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The greatest duty",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 18:10 and Doctrine and Covenants 18:15–16."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to find the blessings that come to those who share the gospel and to those who accept it."
+    },
+    {
+     "t": "say",
+     "text": "Missionary work is hard. Elder Jeffrey R. Holland said, “I am convinced that missionary work is not easy because salvation is not a cheap experience” (“Missionary Work and the Atonement,” Ensign, March 2001)."
+    },
+    {
+     "t": "ask",
+     "text": "How will this help you when the work is hard?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: the worth of souls, joy for the one who shares and the one who receives."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Helping one person come to Christ is worth more than anything I could do alone.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners to write the name of one person they will help this month."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

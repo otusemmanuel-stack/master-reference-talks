@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-09",
  "number": 9,
@@ -237,6 +237,250 @@
   {
    "show": "Moroni 7:45–48",
    "ref": "Moroni 7:45–48"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Un missionnaire porte le nom du Sauveur. Dans cette leçon, les participants étudient pourquoi les attributs christiques comptent, comment ils grandissent, et comment ils aident un missionnaire à enseigner et à servir avec son compagnon dans la paix."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Pourquoi les attributs christiques comptent",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Regardez ensemble un badge de missionnaire."
+    },
+    {
+     "t": "say",
+     "text": "Deux noms ressortent : celui du missionnaire et celui du Sauveur."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi il est important que les autres associent notre nom au sien."
+    },
+    {
+     "t": "read",
+     "text": "Lisez 3 Néphi 27:27."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment nous acceptons l’invitation du Sauveur à le suivre."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la vérité : nous suivons Jésus-Christ en devenant comme lui."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment cela pourrait rendre un missionnaire plus fort dans son ministère."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : nous prenons son nom, alors nous essayons de lui ressembler."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Mon badge porte deux noms. Le nom du Sauveur est celui qui compte le plus. »"
+    },
+    {
+     "t": "tip",
+     "text": "Faites circuler un badge dans la classe."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Comment les attributs christiques grandissent",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Laissez chaque participant choisir un verset sur la façon de suivre le Sauveur et dire ce qu’il enseigne."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ensuite quels attributs ils associent à lui et où ils les ont vus dans sa vie."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 4:1–7."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment les versets 5 et 6 relient nos attributs à notre aptitude à servir."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Moroni 7:47–48 et parlez de la charité, un don que l’on demande puis que l’on met en pratique."
+    },
+    {
+     "t": "say",
+     "text": "Dites-le simplement : les attributs christiques sont des dons de Dieu. Nous les cherchons par la prière, le repentir, la foi en l’expiation et des choix quotidiens."
+    },
+    {
+     "t": "do",
+     "text": "Donnez aux participants un moment de calme pour choisir un attribut et l’étudier."
+    },
+    {
+     "t": "say",
+     "text": "Ils écrivent : ce qui est nouveau pour moi, ce qui doit changer dans mon cœur ou mes actions, et comment cela m’aidera comme missionnaire."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez-leur d’écrire un plan simple avec un choix à faire chaque jour."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : prière, repentir, foi et choix quotidiens."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Les attributs christiques sont des dons de Dieu. Je les demande puis j’agis. »"
+    },
+    {
+     "t": "tip",
+     "text": "Donnez un moment de calme pour choisir un attribut."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Les attributs dans l’œuvre missionnaire",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Comment prêcher l’Évangile sans paroles ?"
+    },
+    {
+     "t": "ask",
+     "text": "Que se passe-t-il dans le cœur d’une personne traitée comme le Sauveur la traiterait ?"
+    },
+    {
+     "t": "say",
+     "text": "Laissez les participants lister les attributs que les personnes qui s’informent remarquent le plus."
+    },
+    {
+     "t": "read",
+     "text": "Étudiez Ammon dans Alma 17:22–25, 28–31, 33–37 et Alma 18:1–3, 8–10."
+    },
+    {
+     "t": "do",
+     "text": "Chacun lit une partie et trouve les attributs qu’Ammon a montrés."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment ces attributs ont touché les gens qu’il servait et comment un missionnaire d’aujourd’hui pourrait faire de même."
+    },
+    {
+     "t": "say",
+     "text": "Terminez en demandant à chacun de penser à quelqu’un qui a montré ces attributs envers lui."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : patience, service, courage et amour."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Ammon a servi avec amour et a tenu parole. Les gens l’ont écouté. »"
+    },
+    {
+     "t": "tip",
+     "text": "Attribuez une partie du texte à chacun."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Servir avec un compagnon",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Qu’est-ce qui peut rendre le service avec un compagnon difficile ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi les missionnaires servent-ils par deux ?"
+    },
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 42:6 et 2 Corinthiens 13:1 pour montrer la force de deux témoins. Lisez Doctrine et Alliances 38:24–25, 27 et 3 Néphi 11:29."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce qui arrive à l’Esprit quand il y a des querelles et quels attributs aident les compagnons à rester unis, comme la patience, l’humilité et l’amour."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi l’unité rend un binôme plus efficace pour enseigner."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : unité, patience, pardon et humilité."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Je traiterai mon compagnon comme le Sauveur le ferait. »"
+    },
+    {
+     "t": "tip",
+     "text": "Jouez un moment difficile à deux."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

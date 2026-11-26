@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-14",
  "number": 14,
@@ -228,6 +228,266 @@
   {
    "show": "2 Néphi 31:19–20",
    "ref": "2 Nephi 31:19–20"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Après la foi et le repentir viennent le baptême et le don du Saint-Esprit, puis toute une vie à persévérer jusqu’à la fin. Dans cette leçon, les participants étudient ces doctrines et s’exercent à les enseigner."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le baptême, notre première alliance",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Montrez une image de Jean baptisant Jésus et lisez Matthieu 3:13–17."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez à des partenaires : Quelles vérités ce récit enseigne-t-il ?"
+    },
+    {
+     "t": "board",
+     "text": "Écrivez deux mots au tableau : ordonnance et alliance."
+    },
+    {
+     "t": "say",
+     "text": "La moitié de la classe étudie la section sur le baptême pour savoir comment expliquer une ordonnance, l’autre moitié pour une alliance."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez de définir chaque mot."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la vérité : le baptême est une ordonnance que nous recevons par autorité et une alliance que nous faisons avec Dieu."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que nous promettons au baptême et ce que Dieu promet."
+    },
+    {
+     "t": "read",
+     "text": "Étudiez ensemble Doctrine et Alliances 20:37. Lisez ce que l’élder Robert D. Hales a enseigné sur le baptême comme allégeance totale au royaume de Dieu, et lisez Mosiah 18:9."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que cela signifie et comment le baptême pourrait changer la vie d’une personne."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi l’immersion compte."
+    },
+    {
+     "t": "say",
+     "text": "Elle représente la mort à l’ancienne vie et une vie nouvelle comme disciple (voir Romains 6:3–6)."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : ordonnance, alliance, autorité, immersion."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le baptême est une ordonnance faite par autorité et une alliance avec Dieu. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez la moitié de la classe définir chaque mot."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Être prêt pour le baptême",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 20:37."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi ce verset aide à savoir quand une personne est prête."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que signifie venir avec un cœur brisé et un esprit contrit, et comment une personne montre qu’elle a reçu l’Esprit du Christ."
+    },
+    {
+     "t": "do",
+     "text": "Donnez du temps pour écrire comment une personne qui s’informe montre qu’elle est prête."
+    },
+    {
+     "t": "board",
+     "text": "Montrez la vidéo d’une invitation à être baptisé et demandez ce qui prouvait que l’homme avait senti l’Esprit et voulait être baptisé."
+    },
+    {
+     "t": "do",
+     "text": "Les binômes préparent une courte leçon sur le baptême avec une ou deux Écritures."
+    },
+    {
+     "t": "say",
+     "text": "Deux binômes se regroupent, l’un enseignant l’autre, et les participants disent ce qu’ils ont appris et comment mieux se préparer pour leur mission."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : regret du péché, volonté de suivre le Christ."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Venez avec un cœur brisé et un esprit contrit, et recevez l’Esprit du Christ. »"
+    },
+    {
+     "t": "tip",
+     "text": "Donnez du temps pour écrire."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le don du Saint-Esprit",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Partagez l’enseignement du prophète Joseph Smith : un baptême sans le don du Saint-Esprit n’est qu’un demi-baptême."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que cela signifie."
+    },
+    {
+     "t": "say",
+     "text": "Racontez comment Nicodème est venu de nuit auprès de Jésus et lisez Jean 3:3–6."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que Nicodème n’a pas compris et comment Jésus l’a expliqué."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez : Naître de nouveau."
+    },
+    {
+     "t": "say",
+     "text": "Naître d’eau. Naître de l’Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que chacun signifie : être baptisé par immersion et recevoir le don du Saint-Esprit."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Moïse 6:58–59 pour voir pourquoi on emploie le mot naître. Lisez la section sur le don du Saint-Esprit et demandez quelles bénédictions l’accompagnent."
+    },
+    {
+     "t": "say",
+     "text": "Laissez un moment de réflexion avant de répondre."
+    },
+    {
+     "t": "do",
+     "text": "Les binômes préparent ensuite une courte leçon sur le don du Saint-Esprit avec une ou deux Écritures et l’enseignent à un autre binôme."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : baptême et don du Saint-Esprit."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Né d’eau et d’Esprit. »"
+    },
+    {
+     "t": "tip",
+     "text": "Écrivez les deux parties au tableau."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Persévérer jusqu’à la fin",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez 2 Néphi 31:17 et demandez comment Néphi a appelé la porte. Lisez 2 Néphi 31:18–20 et demandez ce qu’il y a au-delà de la porte et ce qui doit suivre le baptême."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi nous devons persévérer jusqu’à la fin."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la vérité : en nous efforçant de persévérer, nous nous qualifions pour la vie éternelle."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment l’exemple du Sauveur nous aide à persévérer."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : suivre le Christ, tenir ses alliances, avancer."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le baptême est la porte. Persévérer est le sentier. »"
+    },
+    {
+     "t": "tip",
+     "text": "Dessinez la porte et le sentier."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

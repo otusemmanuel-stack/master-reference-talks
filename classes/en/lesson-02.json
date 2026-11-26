@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-02",
  "number": 2,
@@ -267,6 +267,242 @@
   {
    "show": "Doctrine and Covenants 18:11–14",
    "ref": "D&C 18:11–14"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "The Atonement of Jesus Christ is at the center of God’s plan. In this lesson learners see why every person needs it, what blessings it brings, and how to teach it simply: explain it, share a scripture or an experience, and testify."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Why we need the Atonement",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Begin by asking: How does a person come to feel that he or she needs the Savior?"
+    },
+    {
+     "t": "say",
+     "text": "Then ask what we mean by the Fall of Adam. Explain that Adam and Eve partook of the fruit and were cast out of God’s presence. That was spiritual death. They also became mortal and subject to physical death. As their children we inherit this condition: we are apart from God’s presence, we face physical death, and we are tested by hard things and by temptation (see Alma 42:5–9, 2 Nephi 2:11–14)."
+    },
+    {
+     "t": "read",
+     "text": "Let learners study Romans 3:23, 2 Nephi 9:6–10 and Alma 42:9–14."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how each of us is affected by the Fall."
+    },
+    {
+     "t": "board",
+     "text": "Write their answers on the board: we all sin, sin separates us from God, we will all die, and we must overcome the natural man (see Mosiah 3:19)."
+    },
+    {
+     "t": "say",
+     "text": "Then show the answer. Through the Atonement we escape death and hell (see 2 Nephi 9:10). Everyone will be resurrected, and everyone who repents can be made clean. Without the Savior we would be lost. Bear a short testimony of the wisdom and mercy of God’s plan."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: spiritual death, physical death, and the need for a Redeemer."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Because of the Fall, we cannot clean ourselves. We need a Savior who can.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners say how a person comes to feel this need. Their own words teach each other."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Why teaching the Atonement matters",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read this from Elder Richard G. Scott, “He Lives!"
+    },
+    {
+     "t": "say",
+     "text": "All Glory to His Name!”, general conference, April 2010: “The Atonement gives all the opportunity to overcome the consequences of mistakes made in life.”"
+    },
+    {
+     "t": "ask",
+     "text": "Why is it important to understand the Atonement deeply, and how can a future missionary make it part of who he or she is?"
+    },
+    {
+     "t": "say",
+     "text": "Many young people think the Atonement is only about forgiveness."
+    },
+    {
+     "t": "do",
+     "text": "Give learners time to search Mosiah 3:19, Mosiah 4:3, Mosiah 24:12–15, Alma 5:12–13 and Alma 7:11–13 for other blessings."
+    },
+    {
+     "t": "board",
+     "text": "Write what they find on the board."
+    },
+    {
+     "t": "read",
+     "text": "Read together 1 Nephi 8:10–12, Enos 1:5–9, Mosiah 27:34–36 and Mosiah 28:1–4."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what pattern they see."
+    },
+    {
+     "t": "say",
+     "text": "Each of these men tasted the Atonement and then wanted others to taste it too."
+    },
+    {
+     "t": "ask",
+     "text": "How do your own experiences with the Atonement move you to share the gospel?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: hope, forgiveness and a way back to God."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Scott taught that the Atonement gives all people the chance to overcome their mistakes.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the quote slowly. Let it rest for a few seconds."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Helping others receive its blessings",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read 2 Nephi 2:6–8."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what Lehi taught we should do with our knowledge of the Savior’s sacrifice."
+    },
+    {
+     "t": "say",
+     "text": "Elder Jeffrey R. Holland taught that missionaries often say they want people to be baptized, but forget what must come first: faith in the Lord Jesus Christ and repentance (“Missionary Work and the Atonement,” Ensign, March 2001)."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 20:37 and ask what a person should show before baptism. Read Doctrine and Covenants 18:11–14."
+    },
+    {
+     "t": "ask",
+     "text": "What is the most important thing a missionary can do to bring people to Christ?"
+    },
+    {
+     "t": "ask",
+     "text": "Why is repentance the only way to receive the full blessings of the Atonement (see Mosiah 16:13, Alma 11:37, Helaman 14:13)?"
+    },
+    {
+     "t": "board",
+     "text": "Write this on the board: missionaries teach repentance so that people can receive the full blessings of the Atonement and begin a new life in Christ."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: faith first, then repentance, baptism and the Holy Ghost."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Faith in Christ comes first. Then comes repentance. Then baptism.”"
+    },
+    {
+     "t": "tip",
+     "text": "Teach the order on the board, then ask a learner to repeat it."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Explain, share and testify",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Teach a simple pattern every missionary can use. First, explain a doctrine in your own words. Second, share a scripture or a personal experience that helps explain it. Third, bear testimony of how you feel about it and why it matters. Then teach how to use scripture in three steps: introduce the passage, read it, and apply it."
+    },
+    {
+     "t": "board",
+     "text": "Show the steps yourself with Mosiah 3:16–19, so learners do not feel overwhelmed."
+    },
+    {
+     "t": "do",
+     "text": "Give a few minutes to prepare, then let learners teach each other."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: a simple explanation, a scripture or experience, and a testimony."
+    },
+    {
+     "t": "example",
+     "text": "Teach the pattern: Explain, Share, Testify. Try it on the Atonement: “It cleans me. I read Alma 7:11–13. I know the Savior loves me.”"
+    },
+    {
+     "t": "tip",
+     "text": "Time each learner: ninety seconds, three steps."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

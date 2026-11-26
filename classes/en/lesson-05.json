@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-05",
  "number": 5,
@@ -214,6 +214,265 @@
   {
    "show": "Moroni 10:4–5",
    "ref": "Moroni 10:4–5"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "The Book of Mormon is another witness of Jesus Christ and the proof of the Restoration through Joseph Smith. In this lesson learners see its role, its help in answering the questions of the soul, and how to invite others to read it and pray."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "A book that testifies of Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Hold up the Book of Mormon."
+    },
+    {
+     "t": "ask",
+     "text": "If you knew nothing about this book, what would you expect to find inside?"
+    },
+    {
+     "t": "say",
+     "text": "Then read the title page together and ask what its writers wanted to convince the world of."
+    },
+    {
+     "t": "ask",
+     "text": "How does the Book of Mormon serve as a witness of Jesus Christ?"
+    },
+    {
+     "t": "ask",
+     "text": "How has it strengthened your testimony of Him?"
+    },
+    {
+     "t": "say",
+     "text": "Let learners share with a partner. Remind them that daily reading is one of the best things they can do before entering the missionary training center."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: it testifies of Jesus Christ and invites us to come to Him."
+    },
+    {
+     "t": "example",
+     "text": "Hold up the book and say: “This is another testament of Jesus Christ.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners hold the book. It becomes real in the hands."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Two witnesses",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read 2 Nephi 3:12 and then Ezekiel 37:15–17."
+    },
+    {
+     "t": "say",
+     "text": "The Lord promised that the record of Judah and the record of Joseph would grow together."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how these passages support the idea of two witnesses, and what blessing comes when the two books are used together."
+    },
+    {
+     "t": "read",
+     "text": "Read 2 Corinthians 13:1 and Ephesians 4:5."
+    },
+    {
+     "t": "ask",
+     "text": "What is the value of having two scriptural witnesses of Jesus Christ?"
+    },
+    {
+     "t": "ask",
+     "text": "Why should missionaries use both books when they help others learn?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: two records grow together, two witnesses of Christ."
+    },
+    {
+     "t": "example",
+     "text": "Hold the Bible in one hand and the Book of Mormon in the other. Say: “Two witnesses are stronger than one.”"
+    },
+    {
+     "t": "tip",
+     "text": "Make the picture simple. Learners remember what they see."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Gathering God’s children",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Let learners each read one of these: 1 Nephi 10:14, 3 Nephi 16:4–5 or 3 Nephi 20:13."
+    },
+    {
+     "t": "say",
+     "text": "They look for how God’s children are gathered."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth that the Book of Mormon helps gather people to Christ."
+    },
+    {
+     "t": "ask",
+     "text": "How do missionaries take part in this gathering?"
+    },
+    {
+     "t": "ask",
+     "text": "Why must they use the Book of Mormon as they help others come to Christ?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: gathering, covenants and a return to Christ."
+    },
+    {
+     "t": "example",
+     "text": "Say: “The book gathers God’s children to Christ. I am part of that gathering.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read each verse aloud before discussing."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Conversion and the questions of the soul",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read how Parley P. Pratt felt when he first read the Book of Mormon: he read with eagerness and felt the Spirit so strongly that he could hardly stop."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what the Spirit did for him and whether the learners have felt the Spirit as they read a passage."
+    },
+    {
+     "t": "ask",
+     "text": "Explain that every person has questions of the soul, such as: Who am I?"
+    },
+    {
+     "t": "ask",
+     "text": "Why am I here?"
+    },
+    {
+     "t": "ask",
+     "text": "Where am I going?"
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners how they would use the Book of Mormon to find answers to these, and how a missionary can help someone else do the same."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: eagerness, the Spirit and answers to life’s questions."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Parley P. Pratt read the book with such joy he could not stop.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners when they felt the Spirit while reading."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "A foundation of testimony",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Why is the Book of Mormon called the keystone of our testimony?"
+    },
+    {
+     "t": "ask",
+     "text": "Why does the adversary oppose it?"
+    },
+    {
+     "t": "say",
+     "text": "Missionaries do not argue about the book. They teach it, testify of it and invite people to read and pray to find out for themselves (see Moroni 10:4–5). Explain that when a person has doubts, the best answer is often to read the book."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how the truth of the Book of Mormon confirms that Joseph Smith was a prophet, and how it has strengthened learners’ own testimonies of the Restoration."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: teach, testify, invite to read and pray."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I do not argue about the book. I read it, I pray and I testify.”"
+    },
+    {
+     "t": "tip",
+     "text": "Close with your own testimony of the book."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

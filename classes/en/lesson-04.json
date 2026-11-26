@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-04",
  "number": 4,
@@ -248,6 +248,257 @@
   {
    "show": "Doctrine and Covenants 136:33",
    "ref": "D&C 136:33"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Only the Holy Ghost can bring true conversion. A missionary can open the way. In this lesson learners study how the Spirit helps those who teach and those who learn, and how to invite Him by how they begin, teach, listen and act."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Teaching by the Spirit",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Tell of President Brigham Young’s conversion, when the simple testimony of a humble man reached his heart."
+    },
+    {
+     "t": "ask",
+     "text": "What does his experience teach about teaching by the Spirit?"
+    },
+    {
+     "t": "say",
+     "text": "Help learners see that we must be sincere, speak from the heart and be humble (see Doctrine and Covenants 136:33)."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 42:14 and Doctrine and Covenants 50:13–14, 17–23."
+    },
+    {
+     "t": "say",
+     "text": "The Lord has commanded that the gospel be taught by the Spirit."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what happens, according to Doctrine and Covenants 50:22, when a missionary teaches by the Spirit: both understand one another and rejoice together."
+    },
+    {
+     "t": "say",
+     "text": "The Spirit is not always shown by tears."
+    },
+    {
+     "t": "read",
+     "text": "Read President Howard W. Hunter’s caution: strong emotion should not be confused with the Spirit itself, who brings “a great manifestation of the truth, of revelation to the heart.”"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: sincerity, humility, testimony from the heart."
+    },
+    {
+     "t": "example",
+     "text": "Say: “A humble man told Brigham Young a simple testimony, and the Spirit did the rest.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners say what sincerity looks like in a lesson."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "How the Spirit helps teachers and learners",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Write these references on the board and let pairs study them: Luke 12:12 (He teaches what to say), John 14:26 (He brings things to remembrance), 1 Nephi 2:16 (He softens hearts), 2 Nephi 33:1 (He carries truth to the heart), Alma 18:16 (He helps us discern thoughts), Moroni 10:5 (He witnesses of truth) and Doctrine and Covenants 6:14–15, 23 (He enlightens the mind and gives peace)."
+    },
+    {
+     "t": "say",
+     "text": "One partner looks for how the Spirit helps the teacher, the other for how He helps the learner. Then they compare."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why this matters for a missionary."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: teaches what to say, brings to remembrance, softens hearts, carries truth."
+    },
+    {
+     "t": "example",
+     "text": "Say: “The Spirit teaches what to say, softens hearts and brings truth to mind.”"
+    },
+    {
+     "t": "tip",
+     "text": "Give each pair one reference. Share the findings aloud."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Inviting the Spirit as you teach",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Four skills help: begin a lesson in a way that invites the Spirit, adjust your teaching to the needs of the person, teach for understanding, and listen. Let four groups each take one skill and say how it invites the Spirit."
+    },
+    {
+     "t": "ask",
+     "text": "How does keeping a message simple help the Spirit teach?"
+    },
+    {
+     "t": "ask",
+     "text": "How does listening help?"
+    },
+    {
+     "t": "say",
+     "text": "Let learners write how they will use these skills."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: a good opening, fit to the person, simple message, careful listening."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Let’s begin with a prayer and a simple question.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let each group show their skill in thirty seconds."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Helping others recognize the Spirit",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Conversion needs the investigator to feel the Spirit work within him or her."
+    },
+    {
+     "t": "ask",
+     "text": "How can you tell when someone feels the Holy Ghost?"
+    },
+    {
+     "t": "say",
+     "text": "Elder M. Russell Ballard taught, “Experiences with the Spirit follow naturally when a person is willing to experiment upon the word” (“Now Is the Time,” Ensign, November 2000)."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 11:12 in pairs."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how it would help if someone asked what the Holy Ghost feels like."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: peace, warmth, clarity, a desire to do good."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Did you feel something different as we read? That feeling is the Spirit.”"
+    },
+    {
+     "t": "tip",
+     "text": "Model how to ask after a verse is read."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Acting on the Spirit",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read this from Elder Richard G. Scott, “How to Obtain Revelation and Inspiration for Your Personal Life,” Ensign, May 2012: “We receive help from our Father in Heaven in response to our faith, obedience, and the proper use of agency.”"
+    },
+    {
+     "t": "say",
+     "text": "President Boyd K. Packer taught that the Spirit whispers and does not shout (“The Candle of the Lord,” Ensign, January 1983)."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what makes it hard to hear a whisper today, and what humility has to do with it (see 1 Corinthians 2:11, 14 and Moroni 7:13)."
+    },
+    {
+     "t": "read",
+     "text": "Study how the Spirit guided two missionaries: Peter in Acts 4:5–13 and Paul in Acts 16:6–15."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how each used agency to follow the Spirit, and what followed."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: faith, obedience and good use of agency."
+    },
+    {
+     "t": "example",
+     "text": "Say: “When I felt a prompting, I acted right away, and I was blessed.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners for one prompting they have followed."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

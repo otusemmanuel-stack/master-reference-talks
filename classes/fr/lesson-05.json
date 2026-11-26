@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-05",
  "number": 5,
@@ -214,6 +214,261 @@
   {
    "show": "Moroni 10:4–5",
    "ref": "Moroni 10:4–5"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Le Livre de Mormon est un autre témoin de Jésus-Christ et la preuve du Rétablissement par Joseph Smith. Dans cette leçon, les participants voient son rôle, son aide pour répondre aux questions de l’âme et comment inviter les autres à le lire et à prier."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Un livre qui témoigne du Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Montrez le Livre de Mormon."
+    },
+    {
+     "t": "ask",
+     "text": "Si vous ne saviez rien de ce livre, que vous attendriez-vous à y trouver ?"
+    },
+    {
+     "t": "read",
+     "text": "Lisez ensuite la page de titre ensemble et demandez de quoi ses auteurs voulaient convaincre le monde."
+    },
+    {
+     "t": "ask",
+     "text": "En quoi le Livre de Mormon est-il un témoin de Jésus-Christ ?"
+    },
+    {
+     "t": "ask",
+     "text": "Comment a-t-il fortifié votre témoignage de lui ?"
+    },
+    {
+     "t": "say",
+     "text": "Laissez les participants partager à deux. Rappelez que la lecture quotidienne est l’une des meilleures choses à faire avant d’entrer au centre de formation des missionnaires."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : il témoigne de Jésus-Christ et invite à venir à lui."
+    },
+    {
+     "t": "example",
+     "text": "Montrez le livre et dites : « Voici un autre testament de Jésus-Christ. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez les participants tenir le livre. Il devient réel dans les mains."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Deux témoins",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez 2 Néphi 3:12 puis Ézéchiel 37:15–17."
+    },
+    {
+     "t": "say",
+     "text": "Le Seigneur a promis que le récit de Juda et le récit de Joseph grandiraient ensemble."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi ces passages soutiennent l’idée de deux témoins et quelle bénédiction vient quand les deux livres sont utilisés ensemble."
+    },
+    {
+     "t": "read",
+     "text": "Lisez 2 Corinthiens 13:1 et Éphésiens 4:5."
+    },
+    {
+     "t": "ask",
+     "text": "Quelle est la valeur d’avoir deux témoins scripturaux de Jésus-Christ ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi les missionnaires devraient-ils utiliser les deux livres pour aider les autres à apprendre ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : deux récits grandissent ensemble, deux témoins du Christ."
+    },
+    {
+     "t": "example",
+     "text": "Tenez la Bible dans une main et le Livre de Mormon dans l’autre. Dites : « Deux témoins valent mieux qu’un. »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez l’image simple. On retient ce qu’on voit."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Rassembler les enfants de Dieu",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Laissez chaque participant lire l’un de ces passages : 1 Néphi 10:14, 3 Néphi 16:4–5 ou 3 Néphi 20:13."
+    },
+    {
+     "t": "say",
+     "text": "Ils cherchent comment les enfants de Dieu sont rassemblés. Faites ressortir que le Livre de Mormon aide à rassembler les gens vers le Christ."
+    },
+    {
+     "t": "ask",
+     "text": "Comment les missionnaires participent-ils à ce rassemblement ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi doivent-ils utiliser le Livre de Mormon pour aider les autres à venir au Christ ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : rassemblement, alliances et retour au Christ."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le livre rassemble les enfants de Dieu vers le Christ. Je fais partie de ce rassemblement. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez chaque verset à voix haute avant d’en parler."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La conversion et les questions de l’âme",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Racontez ce que Parley P. Pratt a ressenti en lisant le Livre de Mormon pour la première fois : il a lu avec empressement et a ressenti l’Esprit si fortement qu’il pouvait à peine s’arrêter."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que l’Esprit a fait pour lui et si les participants ont senti l’Esprit en lisant un passage."
+    },
+    {
+     "t": "ask",
+     "text": "Expliquez que chacun a des questions de l’âme, comme : Qui suis-je ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi suis-je ici ?"
+    },
+    {
+     "t": "ask",
+     "text": "Où vais-je ?"
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment ils utiliseraient le Livre de Mormon pour y trouver des réponses et comment un missionnaire peut aider quelqu’un d’autre à faire de même."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : empressement, Esprit et réponses aux questions de la vie."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Parley P. Pratt a lu le livre avec tant de joie qu’il ne pouvait plus s’arrêter. »"
+    },
+    {
+     "t": "tip",
+     "text": "Demandez à quel moment ils ont senti l’Esprit en lisant."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Un fondement de témoignage",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Pourquoi le Livre de Mormon est-il appelé la clef de voûte de notre témoignage ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi l’adversaire s’y oppose-t-il ?"
+    },
+    {
+     "t": "say",
+     "text": "Les missionnaires ne débattent pas du livre. Ils l’enseignent, en témoignent et invitent les gens à lire et à prier pour savoir par eux-mêmes (voir Moroni 10:4–5). Expliquez que, face au doute, la meilleure réponse est souvent de lire le livre."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi la vérité du Livre de Mormon confirme que Joseph Smith était un prophète et comment elle a fortifié leur propre témoignage du Rétablissement."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : enseigner, témoigner, inviter à lire et à prier."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Je ne débats pas du livre. Je le lis, je prie et je témoigne. »"
+    },
+    {
+     "t": "tip",
+     "text": "Terminez par votre témoignage sur le livre."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

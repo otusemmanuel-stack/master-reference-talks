@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-13",
  "number": 13,
@@ -205,6 +205,270 @@
   {
    "show": "Alma 36:17–20",
    "ref": "Alma 36:17–20"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "L’Évangile de Jésus-Christ est le chemin pour revenir à Dieu. Ses premiers principes sont la foi en Jésus-Christ et le repentir. Dans cette leçon, les participants étudient comment le Sauveur nous purifie et s’exercent à enseigner ces deux principes."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Purifiés par le Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Avant le cours, écrivez au tableau : Que veut dire être pur ?"
+    },
+    {
+     "t": "say",
+     "text": "Laissez les participants répondre en arrivant."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-ce qui nous rend impurs, et de quoi avons-nous besoin pour nous rapprocher de Jésus-Christ ?"
+    },
+    {
+     "t": "read",
+     "text": "Lisez la section sur la purification par le Christ et dégagez ces vérités : Dieu a envoyé son Fils pour que nous puissions revenir."
+    },
+    {
+     "t": "say",
+     "text": "Ce n’est que par la grâce et la miséricorde du Sauveur que nous pouvons être purs. Rien d’impur ne peut vivre en la présence de Dieu. Le Christ s’est placé à notre place et a souffert pour nos péchés. Il nous pardonne quand nous l’acceptons, nous repentons et obéissons."
+    },
+    {
+     "t": "do",
+     "text": "Chacun choisit un verset qui montre l’une de ces vérités et explique comment il l’utiliserait avec une personne qui s’informe."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : grâce, miséricorde, pardon à ses conditions."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Ce n’est que par le Sauveur que nous pouvons être purs. »"
+    },
+    {
+     "t": "tip",
+     "text": "Écrivez les cinq vérités et laissez chacun choisir un verset pour l’une d’elles."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La foi en Jésus-Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Quelle est la différence entre aider quelqu’un à venir au Christ et l’aider à devenir membre de l’Église ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi la première compte-t-elle plus ?"
+    },
+    {
+     "t": "read",
+     "text": "Lisez le premier paragraphe sur la foi et demandez ce que signifie avoir foi en Jésus-Christ."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez au tableau : La foi en Jésus-Christ conduit à l’action."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles actions montrent qu’une personne grandit en foi, comme prier, lire, tenir ses engagements et changer ses habitudes."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez à chacun d’écrire dans son journal comment la foi l’a poussé à agir et une autre chose qu’il peut faire."
+    },
+    {
+     "t": "do",
+     "text": "Les binômes préparent ensuite une leçon de deux à trois minutes sur la foi avec leurs propres mots et une Écriture."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : la foi conduit à l’action."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « La foi me pousse à agir : prier, lire, tenir mes engagements. »"
+    },
+    {
+     "t": "tip",
+     "text": "Écrivez le principe au tableau."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le repentir : revenir à Dieu",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Montrez l’image d’Alma et des fils de Mosiah."
+    },
+    {
+     "t": "say",
+     "text": "Racontez comment Alma s’est souvenu des paroles de son père sur Jésus-Christ, l’a invoqué et a été changé (voir Alma 36:6–24)."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Alma 36:13, 17–21."
+    },
+    {
+     "t": "ask",
+     "text": "Comment Alma a-t-il montré sa foi ?"
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé ensuite ?"
+    },
+    {
+     "t": "ask",
+     "text": "Quel a été le résultat de son repentir ?"
+    },
+    {
+     "t": "do",
+     "text": "Donnez une minute pour écrire une définition du repentir en une phrase."
+    },
+    {
+     "t": "say",
+     "text": "Laissez plusieurs la lire. Partagez l’idée de l’élder Neil L. Andersen : le repentir est un retour vers Dieu."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez au tableau : Le repentir, c’est revenir vers Dieu."
+    },
+    {
+     "t": "read",
+     "text": "Étudiez Mosiah 3:19 ; 4:1–3 et 5:2 et cherchez des preuves que le peuple du roi Benjamin avait la foi et se repentait."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez de faire un tableau à trois colonnes : ce que nous faisons, ce qui change en nous et ce que nous ressentons."
+    },
+    {
+     "t": "say",
+     "text": "Exemples : reconnaître ses péchés, confesser et abandonner ; un regard nouveau sur soi et sur Dieu, un désir grandissant de le suivre ; paix, pardon, joie."
+    },
+    {
+     "t": "ask",
+     "text": "En quoi les deux premières colonnes vous aident-elles à expliquer le repentir ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi faut-il d’abord avoir foi au Christ pour que la troisième colonne soit réelle ?"
+    },
+    {
+     "t": "say",
+     "text": "Terminez par la vidéo d’une femme transformée par le repentir."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce qui prouvait qu’elle s’était tournée vers Dieu."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : se souvenir, invoquer, être pardonné, changer."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Alma s’est souvenu des paroles de son père, a invoqué le Christ et a été changé. »"
+    },
+    {
+     "t": "tip",
+     "text": "Montrez l’image et racontez l’histoire."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Enseigner dans un moment difficile",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Présentez la situation : deux colocataires. L’un est accablé par une erreur et pense ne pas pouvoir changer."
+    },
+    {
+     "t": "do",
+     "text": "Les binômes se préparent à lui enseigner qu’avec l’aide du Sauveur le repentir est possible."
+    },
+    {
+     "t": "say",
+     "text": "Les enseignants utilisent leurs propres mots, simples et clairs, et l’invitent avec bonté à agir. Le partenaire joue le colocataire et réagit de façon réelle."
+    },
+    {
+     "t": "do",
+     "text": "Ensuite, demandez ce qui semblait sincère et ce qui pourrait être plus clair."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : espérance, simplicité et invitation."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Vous pouvez changer avec l’aide du Sauveur. »"
+    },
+    {
+     "t": "tip",
+     "text": "Changez les rôles après quatre minutes."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

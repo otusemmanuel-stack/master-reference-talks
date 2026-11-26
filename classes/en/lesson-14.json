@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-14",
  "number": 14,
@@ -228,6 +228,258 @@
   {
    "show": "2 Nephi 31:19–20",
    "ref": "2 Nephi 31:19–20"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "After faith and repentance come baptism and the gift of the Holy Ghost, then a lifetime of enduring to the end. In this lesson learners study these doctrines and practise teaching them."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Baptism, our first covenant",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Show a picture of John baptizing Jesus and read Matthew 3:13–17."
+    },
+    {
+     "t": "ask",
+     "text": "Ask partners: What truths does this account teach?"
+    },
+    {
+     "t": "board",
+     "text": "Write two words on the board: ordinance and covenant."
+    },
+    {
+     "t": "say",
+     "text": "Half the class studies the section on baptism for how to explain an ordinance, and half for a covenant."
+    },
+    {
+     "t": "ask",
+     "text": "Ask them to define each word."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: baptism is an ordinance that we receive by authority and a covenant we make with God."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what we promise at baptism and what God promises."
+    },
+    {
+     "t": "read",
+     "text": "Study Doctrine and Covenants 20:37 together. Read what Elder Robert D. Hales taught about baptism as total allegiance to God’s kingdom, and read Mosiah 18:9."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what it means, and how baptism could change a person’s life."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why immersion matters."
+    },
+    {
+     "t": "say",
+     "text": "It shows death to the old life and a new life as a disciple (see Romans 6:3–6)."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: ordinance, covenant, authority, immersion."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Baptism is an ordinance by authority and a covenant with God.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let half the class define each word."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Being ready for baptism",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 20:37."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how it helps you know when someone is ready."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what it means to come forth with a broken heart and a contrite spirit, and how a person shows they have received the Spirit of Christ."
+    },
+    {
+     "t": "do",
+     "text": "Give time to write how an investigator shows readiness."
+    },
+    {
+     "t": "board",
+     "text": "Show the video of an invitation to be baptized and ask what proved the man felt the Spirit and wanted baptism."
+    },
+    {
+     "t": "do",
+     "text": "Pairs prepare a short lesson on baptism using one or two scriptures. Two pairs team up, one teaching the other, and the learners say what they learned and how to prepare better for their missions."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: sorrow for sin, willingness to follow Christ."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Come with a broken heart and contrite spirit, and receive the Spirit of Christ.”"
+    },
+    {
+     "t": "tip",
+     "text": "Give writing time."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The gift of the Holy Ghost",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Share the Prophet Joseph Smith’s teaching that baptism without the gift of the Holy Ghost is only half a baptism."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what that means."
+    },
+    {
+     "t": "say",
+     "text": "Tell about Nicodemus coming to Jesus by night and read John 3:3–6."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what Nicodemus misunderstood and how Jesus explained."
+    },
+    {
+     "t": "board",
+     "text": "Write: Born again."
+    },
+    {
+     "t": "say",
+     "text": "Born of water. Born of the Spirit."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what each means: being baptized by immersion and receiving the gift of the Holy Ghost."
+    },
+    {
+     "t": "read",
+     "text": "Read Moses 6:58–59 to see why the word born is used. Read the section on the gift of the Holy Ghost and ask what blessings come with it."
+    },
+    {
+     "t": "do",
+     "text": "Give learners a moment to think before they answer. Then pairs prepare a short lesson on the gift of the Holy Ghost, including one or two scriptures, and teach another pair."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: baptism and the gift of the Holy Ghost."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Born of water and of the Spirit.”"
+    },
+    {
+     "t": "tip",
+     "text": "Write the two parts on the board."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Enduring to the end",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read 2 Nephi 31:17 and ask what Nephi called the gate. Read 2 Nephi 31:18–20 and ask what lies beyond the gate and what must follow baptism."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why we must endure to the end."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: as we strive to endure, we qualify for eternal life."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how the Savior’s example helps us endure."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: follow Christ, keep covenants, press forward."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Baptism is the gate. Enduring is the path.”"
+    },
+    {
+     "t": "tip",
+     "text": "Draw the gate and path."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

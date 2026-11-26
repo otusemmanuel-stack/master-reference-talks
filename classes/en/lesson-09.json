@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-09",
  "number": 9,
@@ -237,6 +237,250 @@
   {
    "show": "Moroni 7:45–48",
    "ref": "Moroni 7:45–48"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "A missionary wears the Savior’s name. In this lesson learners study why Christlike attributes matter, how they grow, and how they help a missionary teach and serve a companion in peace."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Why Christlike attributes matter",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Look at a missionary name tag together."
+    },
+    {
+     "t": "say",
+     "text": "Two names stand out: the missionary’s own and the Savior’s."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why it matters that others link our name with His."
+    },
+    {
+     "t": "read",
+     "text": "Read 3 Nephi 27:27."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how we accept the Savior’s invitation to follow Him."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: we follow Jesus Christ as we become like Him."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how this could make a missionary a stronger minister."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: we take His name, so we try to become like Him."
+    },
+    {
+     "t": "example",
+     "text": "Say: “My name tag has two names. The Savior’s name is the one that matters most.”"
+    },
+    {
+     "t": "tip",
+     "text": "Pass a name tag around the class."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "How Christlike attributes grow",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Let each learner choose one verse about following the Savior and share what it says."
+    },
+    {
+     "t": "say",
+     "text": "Then ask which attributes they link with Him and where they saw them in His life."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 4:1–7."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how verses 5–6 connect our attributes to our qualification to serve."
+    },
+    {
+     "t": "read",
+     "text": "Read Moroni 7:47–48 and talk about how charity is a gift we ask for and then act on."
+    },
+    {
+     "t": "say",
+     "text": "Say it plainly: Christlike attributes are gifts from God. We seek them through prayer, repentance, faith in the Atonement and daily choices."
+    },
+    {
+     "t": "do",
+     "text": "Give learners quiet time to pick one attribute and study it."
+    },
+    {
+     "t": "say",
+     "text": "They write: what is new to me, what must change in my heart or actions, and how this will help me as a missionary."
+    },
+    {
+     "t": "ask",
+     "text": "Ask them to write a simple plan with one choice they can make each day."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: prayer, repentance, faith and daily choices."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Christlike attributes are gifts from God. I ask for them and then act.”"
+    },
+    {
+     "t": "tip",
+     "text": "Give quiet time to pick one attribute."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Attributes in missionary work",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "How can we preach the gospel without words?"
+    },
+    {
+     "t": "ask",
+     "text": "What happens to a person’s heart when they are treated the way the Savior would treat them?"
+    },
+    {
+     "t": "say",
+     "text": "Let learners list the attributes that investigators notice most."
+    },
+    {
+     "t": "read",
+     "text": "Study Ammon in Alma 17:22–25, 28–31, 33–37 and Alma 18:1–3, 8–10."
+    },
+    {
+     "t": "do",
+     "text": "Each learner reads one section and finds the attributes Ammon showed."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how those attributes touched the people he served and how a missionary today could do the same."
+    },
+    {
+     "t": "say",
+     "text": "End by asking learners to think of someone who showed these attributes to them."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: patience, service, courage and love."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Ammon served with love and kept his word. The people listened.”"
+    },
+    {
+     "t": "tip",
+     "text": "Assign each learner a verse range."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Serving with a companion",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "What can make it hard to serve with a companion?"
+    },
+    {
+     "t": "ask",
+     "text": "Why do missionaries serve in pairs?"
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 42:6 and 2 Corinthians 13:1 to show the strength of two witnesses. Read Doctrine and Covenants 38:24–25, 27 and 3 Nephi 11:29."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what happens to the Spirit when there is contention, and which attributes help companions stay united, such as patience, humility and love."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how unity makes a pair more effective in teaching."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: unity, patience, forgiveness and humility."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I will treat my companion the way the Savior would.”"
+    },
+    {
+     "t": "tip",
+     "text": "Role-play a hard moment in pairs."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

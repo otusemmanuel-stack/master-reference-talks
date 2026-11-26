@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-10",
  "number": 10,
@@ -210,6 +210,269 @@
   {
    "show": "Doctrine et Alliances 93:33",
    "ref": "D&C 93:33"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Dieu a un plan pour ses enfants. Dans cette leçon, les participants étudient notre vie avant la terre, le but de la condition mortelle et la chute d’Adam et Ève, puis s’exercent à enseigner ces vérités simplement."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Avant cette vie",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez ensemble les paroles du cantique « Je suis un enfant de Dieu » (Hymnes, n° 301), puis chantez-le."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que les paroles enseignent sur la vie avant la terre et sur le but de la vie ici."
+    },
+    {
+     "t": "read",
+     "text": "Lisez les réflexions du président Boyd K. Packer sur qui nous sommes et ce que nous avons vécu avant."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi savoir que nous avons vécu comme enfants spirituels de Dieu change notre regard sur nous-mêmes et sur les autres."
+    },
+    {
+     "t": "say",
+     "text": "Enseignez la vérité : quand nous savons que nous sommes enfants de Dieu, notre vie prend du sens et un but."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez aux participants de dire en quoi cette connaissance les a aidés."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : nous sommes enfants spirituels de Dieu, avec un but."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Je suis un enfant de Dieu. J’ai vécu avec lui avant de venir ici. »"
+    },
+    {
+     "t": "tip",
+     "text": "Chantez le cantique lentement ensemble."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le plan de Dieu pour ses enfants",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez Moïse 1:39 et apprenez-le ensemble par cœur."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelle est l’œuvre et la gloire de Dieu."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la vérité : le plan de Dieu est d’aider ses enfants à lui ressembler et à avoir la vie éternelle."
+    },
+    {
+     "t": "read",
+     "text": "Lisez ce que sœur Susan W. Tanner a enseigné dans « The Sanctity of the Body », Ensign ou Liahona, novembre 2005 : nous avons poussé des cris de joie pour prendre part à ce plan, et un corps physique est une étape clé pour devenir comme notre Père (voir Job 38:7 ; Doctrine et Alliances 130:22 ; 93:33)."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que nous comprenions avant la terre qui nous rendait impatients d’y venir, même en connaissant les épreuves."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : immortalité et vie éternelle."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « L’œuvre et la gloire de Dieu, c’est de nous ramener à lui comme ses enfants. »"
+    },
+    {
+     "t": "tip",
+     "text": "Apprenez Moïse 1:39 ligne par ligne."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le libre arbitre et la chute",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Tracez deux colonnes, l’une avant la chute et l’autre après."
+    },
+    {
+     "t": "read",
+     "text": "Laissez les participants étudier 2 Néphi 2:22–25 et les remplir."
+    },
+    {
+     "t": "say",
+     "text": "Dans le jardin, Adam et Ève ne pouvaient pas avoir d’enfants ni connaître la joie et la tristesse. Après la chute, ils pouvaient choisir, progresser et devenir parents."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi la chute est une partie essentielle du plan de Dieu et pourquoi la condition mortelle est nécessaire pour recevoir les bénédictions que Dieu veut pour nous."
+    },
+    {
+     "t": "say",
+     "text": "Relisez Moïse 1:39. Revoyez comment enseigner la chute sans blâme, comme une étape du plan de Dieu."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : libre arbitre, progression, joie et tristesse."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Avant la chute, Adam et Ève ne pouvaient pas avoir d’enfants. Après, ils ont pu progresser. »"
+    },
+    {
+     "t": "tip",
+     "text": "Remplissez ensemble les deux colonnes."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Notre vie sur terre",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez la comparaison du président Packer avec une pièce en trois actes dans « The Play and the Plan », veillée du Département d’éducation de l’Église, mai 1995, ou regardez la vidéo sur le plan du salut."
+    },
+    {
+     "t": "say",
+     "text": "L’acte 1 est avant la terre, l’acte 2 la vie mortelle et l’acte 3 l’après-vie. Nous sommes sur scène au milieu de l’acte 2 sans nous souvenir de l’acte 1."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi cette pièce explique que certains ont du mal à connaître le but de la vie."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez où trouver le scénario."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la réponse : les Écritures."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment les Écritures aident les enfants de Dieu à comprendre leur but."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : avant la terre, la vie mortelle, après la mort."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Nous sommes sur scène à l’acte deux. Les Écritures sont le scénario. »"
+    },
+    {
+     "t": "tip",
+     "text": "Dessinez trois actes au tableau."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Vaincre le péché et la mort",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Expliquez que cette vie est le temps de se préparer à rencontrer Dieu (voir Alma 12:32–34)."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez au tableau : Conséquences du péché."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles elles sont et comment les comprendre prépare une personne à accepter l’expiation."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la vérité : le péché nous sépare de Dieu, et l’Évangile de Jésus-Christ nous permet d’être pardonnés et de revenir."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment vous expliqueriez le but de la vie en une ou deux phrases."
+    },
+    {
+     "t": "do",
+     "text": "Formez ensuite des binômes qui préparent une leçon de cinq à dix minutes avec leurs propres mots et les Écritures. Ensuite, demandez ce que chaque binôme a bien fait et ce qui pourrait être amélioré."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : séparation d’avec Dieu et besoin de l’expiation."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le péché nous sépare de Dieu. Le Sauveur nous ramène. »"
+    },
+    {
+     "t": "tip",
+     "text": "Écrivez conséquences du péché au tableau."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

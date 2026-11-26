@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-11",
  "number": 11,
@@ -212,6 +212,226 @@
   {
    "show": "Doctrine et Alliances 19:15–19",
    "ref": "D&C 19:15–19"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "L’expiation de Jésus-Christ est au centre du plan du salut. Dans cette leçon, les participants étudient comment le Sauveur surmonte les effets de la chute, sentent son amour et s’exercent à enseigner tout le plan avec un schéma simple."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "L’expiation",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Demandez aux participants de lire Jean 3:16 en silence et de penser à la façon dont ce seul verset résume le plan du salut."
+    },
+    {
+     "t": "say",
+     "text": "Laissez quelques-uns partager."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez à chacun de dire, en une phrase, pourquoi le sacrifice du Sauveur est nécessaire."
+    },
+    {
+     "t": "say",
+     "text": "Nommez les effets de la chute qui touchent tout le monde : la mort physique, le péché et la mort spirituelle, et la souffrance et le chagrin."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez les trois au tableau avec ces Écritures : 1 Corinthiens 15:20–22 et Alma 11:42–44 pour la mort physique ; Alma 34:8–9 et Doctrine et Alliances 19:15–19 pour le péché ; Ésaïe 53:3–5 et Alma 7:11–13 pour la souffrance."
+    },
+    {
+     "t": "do",
+     "text": "Divisez la classe en trois groupes, un pour chaque effet."
+    },
+    {
+     "t": "say",
+     "text": "Chaque groupe étudie ses passages et explique à la classe comment le Sauveur surmonte cet effet."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : l’amour de Dieu, le don de son Fils, la vie éternelle."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Jean 3:16 raconte tout le plan en un verset. »"
+    },
+    {
+     "t": "tip",
+     "text": "Donnez un temps de lecture silencieuse avant de parler."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Sentir la vérité",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Montrez la vidéo sur l’amour de Dieu pour le monde."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez aux participants de repérer comment Jésus-Christ a montré son amour."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ensuite ce qui les a touchés et comment cet amour pourrait influencer leur façon de servir."
+    },
+    {
+     "t": "say",
+     "text": "Invitez l’Esprit en rendant votre témoignage."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi les missionnaires devraient souvent témoigner de Jésus-Christ."
+    },
+    {
+     "t": "say",
+     "text": "L’un des rôles du Saint-Esprit est de témoigner du Sauveur (voir Jean 15:26 ; 3 Néphi 11:32). Le président Boyd K. Packer a enseigné la même idée dans « The Candle of the Lord », Ensign, janvier 1983 : un témoignage grandit quand nous le rendons."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : amour, miséricorde et espérance."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le Sauveur nous aime, et il l’a prouvé. »"
+    },
+    {
+     "t": "tip",
+     "text": "Demandez : Qu’avez-vous ressenti ? Attendez les réponses."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le plan du salut en un seul dessin",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Laissez les participants étudier le schéma du plan du salut et dessiner leur propre version."
+    },
+    {
+     "t": "say",
+     "text": "Ils étudient une section à la fois et notent ce qu’une personne qui s’informe doit savoir dans chaque partie."
+    },
+    {
+     "t": "ask",
+     "text": "Quel effet nos choix ici auront-ils après notre mort ?"
+    },
+    {
+     "t": "ask",
+     "text": "Comment le jugement influence-t-il nos choix aujourd’hui ?"
+    },
+    {
+     "t": "ask",
+     "text": "Comment l’expiation touche-t-elle notre vie avant la terre, ici et après la mort ?"
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi il faut expliquer ces vérités de façon simple et claire."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : l’expiation à chaque étape."
+    },
+    {
+     "t": "example",
+     "text": "Dessinez le plan : avant la terre, la terre, le jugement, les royaumes de gloire."
+    },
+    {
+     "t": "tip",
+     "text": "Laissez chacun le dessiner."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Enseigner à deux",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Expliquez que les familles font partie du plan de Dieu et continuent au-delà de la mort, ce qui est l’une des grandes doctrines du Rétablissement."
+    },
+    {
+     "t": "do",
+     "text": "Les binômes se préparent à enseigner le plan du salut à quelqu’un avec le tableau qu’ils ont fait ou le schéma."
+    },
+    {
+     "t": "say",
+     "text": "Insistez : parlez avec vos propres mots. Après chaque enseignement, demandez ce qui s’est bien passé et ce qui pourrait être amélioré. Terminez par votre témoignage."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : mots simples, Écriture, témoignage."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Les familles peuvent continuer après la mort. C’est une bonne nouvelle. »"
+    },
+    {
+     "t": "tip",
+     "text": "Donnez une limite de temps aux binômes."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

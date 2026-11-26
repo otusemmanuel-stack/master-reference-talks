@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-15",
  "number": 15,
@@ -214,6 +214,297 @@
   {
    "show": "Doctrine et Alliances 138:29–35",
    "ref": "D&C 138:29–35"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Les temples et l’histoire familiale relient les enfants de Dieu à travers les générations. Dans cette leçon, les participants voient pourquoi le temple compte pour un missionnaire, comment Dieu rachète les morts et comment l’histoire familiale peut ouvrir des portes à l’Évangile."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La dotation du temple",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Montrez une image d’un temple proche."
+    },
+    {
+     "t": "say",
+     "text": "Partagez ce que le président Howard W. Hunter a enseigné sur le temple comme un moment fort dans la vie d’un membre."
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi aller au temple pourrait-il être un plus grand moment fort que de recevoir un appel en mission ?"
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles bénédictions nous recevons au temple et en quoi elles aident quelqu’un qui vient au Christ."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 109:22–23, qui fait partie de la prière de dédicace du temple de Kirtland, et cherchez les bénédictions que reçoivent les serviteurs du Seigneur."
+    },
+    {
+     "t": "say",
+     "text": "Dégagez la vérité : recevoir les bénédictions du temple donne de la puissance aux missionnaires dignes."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi l’enseignement de l’élder Jeffrey R. Holland ajoute à cette idée."
+    },
+    {
+     "t": "say",
+     "text": "Passez ensuite en revue les questions de l’entretien pour la recommandation à l’usage du temple et demandez comment la dignité nous prépare aux bénédictions."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : puissance, alliances et bénédictions."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le temple nous bénit d’une puissance venue de Dieu. »"
+    },
+    {
+     "t": "tip",
+     "text": "Montrez l’image d’un temple proche de chez vous."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le plan de Dieu pour racheter les morts",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez 1 Pierre 3:18–20 ; 4:6 pour montrer que l’Évangile a été prêché aux morts. Lisez ensuite Doctrine et Alliances 138:29–35, tiré de la vision du monde des esprits du président Joseph F. Smith."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que le Sauveur a fait pour organiser l’œuvre dans le monde des esprits."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment les versets 33 à 35 expliquent la façon dont ceux qui acceptent l’Évangile là-bas reçoivent les ordonnances (par l’œuvre accomplie pour eux dans les temples)."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment le plan du Seigneur aide ceux qui meurent sans les ordonnances."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : l’Évangile prêché dans le monde des esprits, ordonnances pour eux."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « L’Évangile est aussi pour les morts, et le temple le rend possible. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez les versets lentement."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La mission d’Élie",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Expliquez qu’Élie était un prophète de l’Ancien Testament. Malachie a annoncé son retour (voir Malachie 4:5–6)."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Joseph Smith, Histoire 1:38–39 et demandez ce que Joseph a appris."
+    },
+    {
+     "t": "say",
+     "text": "Expliquez que le cœur des enfants se tourne vers leurs pères quand nous accomplissons des ordonnances pour eux."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 110:13–16 et demandez ce qu’Élie a rétabli : les clés du scellement. Lisez la section sur le mariage éternel et demandez ce que les clés de scellement rendent possible, comme des familles liées pour l’éternité."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment ces clés ont béni votre famille."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez au tableau L’esprit d’Élie."
+    },
+    {
+     "t": "say",
+     "text": "Partagez comment l’élder Russell M. Nelson et l’élder David A. Bednar l’ont décrit : le Saint-Esprit qui témoigne de la nature divine de la famille et attire les cœurs vers les ancêtres."
+    },
+    {
+     "t": "ask",
+     "text": "Quand avez-vous senti votre cœur se tourner vers votre famille, passée ou présente ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : les cœurs se tournent vers les ancêtres ; clés du scellement."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Élie a rétabli les clés du scellement, pour que les familles soient ensemble pour toujours. »"
+    },
+    {
+     "t": "tip",
+     "text": "Écrivez L’esprit d’Élie au tableau."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Participer à l’histoire familiale",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Montrez un tableau généalogique ou un arbre en éventail rempli."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles informations il contient et où les participants pourraient trouver les noms manquants."
+    },
+    {
+     "t": "say",
+     "text": "Invitez ceux qui le souhaitent à partager une expérience avec le site d’histoire familiale. Dites que recueillir les récits de famille fait aussi partie de l’histoire familiale."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment les récits nous aident à aimer notre famille et à comprendre qui nous sommes."
+    },
+    {
+     "t": "board",
+     "text": "Montrez la vidéo de l’élder Bednar parlant avec des jeunes."
+    },
+    {
+     "t": "read",
+     "text": "Lisez la promesse de l’élder Bednar à ceux qui participent : elle comprend la protection contre l’influence de l’adversaire."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles bénédictions ils aimeraient recevoir et laissez certains dire comment ils les ont senties."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : récits, noms, amour pour la famille."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Je demanderai à ma grand-mère de me raconter son histoire. »"
+    },
+    {
+     "t": "tip",
+     "text": "Montrez un arbre en éventail."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Inviter les autres par l’histoire familiale",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Partagez ce que le président Gordon B. Hinckley a dit de l’intérêt croissant pour l’histoire familiale dans le monde."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment les missionnaires pourraient utiliser cet intérêt pour présenter l’Évangile."
+    },
+    {
+     "t": "read",
+     "text": "Lisez la section sur l’histoire familiale du manuel missionnaire."
+    },
+    {
+     "t": "board",
+     "text": "Montrez la vidéo de missionnaires qui commencent des conversations sur l’histoire familiale."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi parler d’histoire familiale peut préparer les gens."
+    },
+    {
+     "t": "do",
+     "text": "Les binômes s’exercent à une courte conversation, puis donnent des avis sur ce qui a bien fonctionné."
+    },
+    {
+     "t": "board",
+     "text": "Montrez la seconde vidéo sur l’aide aux membres peu actifs et demandez comment parler des familles éternelles peut les aider à sentir le Saint-Esprit."
+    },
+    {
+     "t": "say",
+     "text": "Terminez par votre témoignage."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : questions chaleureuses et passerelle vers l’Évangile."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « L’histoire familiale ouvre des portes. Les gens aiment parler de leur famille. »"
+    },
+    {
+     "t": "tip",
+     "text": "Exercez-vous chacun avec une question."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

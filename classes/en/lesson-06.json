@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-06",
  "number": 6,
@@ -225,6 +225,238 @@
   {
    "show": "Doctrine and Covenants 18:15–16",
    "ref": "D&C 18:15–16"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "A mission asks for hard work with all one’s heart, might, mind and strength. In this lesson learners see how to start becoming a missionary now, in spirit, body and heart, and where to find help when it is hard."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Becoming a missionary now",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "How do you expect your life to change when you begin your mission?"
+    },
+    {
+     "t": "ask",
+     "text": "What can you start doing now to prepare?"
+    },
+    {
+     "t": "read",
+     "text": "Read this from Elder David A. Bednar, “Becoming a Missionary,” general conference priesthood session, October 2005: you can begin “to think as missionaries think, to read what missionaries read, to pray as missionaries pray.”"
+    },
+    {
+     "t": "say",
+     "text": "His counsel is for young women too."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how a person can become a missionary before the missionary training center."
+    },
+    {
+     "t": "read",
+     "text": "Read Alma 17:2–3, 9 and Alma 17:11 about the sons of Mosiah."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what they did to prepare to teach with power and authority, and how learners can follow their example."
+    },
+    {
+     "t": "say",
+     "text": "Then give time to write goals, such as daily scripture study, morning and evening prayer, going to bed and rising on time, and less time on devices."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: preparation starts now; thinking and acting like a missionary."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I can start thinking like a missionary today: pray, study, serve.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners to name one change they can start this week."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Spiritual preparation",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 88:74."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what it means to be sanctified: to be clean and worthy of the Holy Ghost."
+    },
+    {
+     "t": "say",
+     "text": "Help learners see that the Lord asks His servants to be clean."
+    },
+    {
+     "t": "read",
+     "text": "Read Elder M. Russell Ballard’s counsel on keeping our hearts, hands and minds clean, including staying away from pornography as we would a deadly disease."
+    },
+    {
+     "t": "board",
+     "text": "Show how Elder Jeffrey R. Holland pleaded with those on the Lord’s team to stay within the lines."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why failing to repent would limit a missionary."
+    },
+    {
+     "t": "say",
+     "text": "Say clearly that anyone with a concern about worthiness should speak with his or her bishop, branch president or stake president now."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: clean hearts, hands and minds."
+    },
+    {
+     "t": "example",
+     "text": "Say: “To be sanctified is to be clean and worthy of the Holy Ghost.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners to write one thing they will do to stay clean."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Physical and emotional preparation",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "A mission asks for a healthy body and a steady mind. Missionaries live a scheduled life: they are in bed by 10:30 in the evening and up by 6:30 in the morning."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to ponder how ready they are, and what they can do now about exercise, food and sleep."
+    },
+    {
+     "t": "say",
+     "text": "Every missionary feels some stress, homesickness or doubt. President Gordon B. Hinckley felt discouraged after he arrived in the field and was lifted by going to work."
+    },
+    {
+     "t": "read",
+     "text": "Read Jeremiah 1:4–9, Alma 17:5, Alma 26:27 and Moses 6:31–32 to see that great servants of God felt weak too."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how it helps to know that every missionary faces challenges."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: health, schedule, rest, steady mind."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I will go to bed on time and eat well, because a mission needs a strong body.”"
+    },
+    {
+     "t": "tip",
+     "text": "Invite learners to write a plan: sleep, food, exercise."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Looking to the Lord for help",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read 2 Nephi 4:17–19, then study 2 Nephi 4:19–26."
+    },
+    {
+     "t": "say",
+     "text": "Nephi felt sorrow over his weakness and then remembered the Lord’s goodness and trusted Him."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how remembering the Lord has helped learners in a hard time."
+    },
+    {
+     "t": "read",
+     "text": "Read what Elder Jeffrey R. Holland taught about the Savior in Gethsemane and why missionaries can stand tall in struggle."
+    },
+    {
+     "t": "say",
+     "text": "Then read Alma 26:11–13, Alma 29:10 and Doctrine and Covenants 18:15–16. Explain that some needs also call for help from priesthood leaders and loved ones."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: remembering the Lord, trust and peace."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Nephi felt sorrow, and then he remembered the Lord’s goodness.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask learners to share one time the Lord helped them."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

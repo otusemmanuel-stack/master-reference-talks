@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-15",
  "number": 15,
@@ -214,6 +214,301 @@
   {
    "show": "Doctrine and Covenants 138:29–35",
    "ref": "D&C 138:29–35"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Temples and family history connect God’s children across generations. In this lesson learners see why the temple matters to a missionary, how God redeems the dead, and how family history can open doors to the gospel."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The temple endowment",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Show a picture of a nearby temple."
+    },
+    {
+     "t": "say",
+     "text": "Share what President Howard W. Hunter taught about the temple as a highlight in the life of a member."
+    },
+    {
+     "t": "ask",
+     "text": "Why might going to the temple be a greater highlight than a mission call?"
+    },
+    {
+     "t": "ask",
+     "text": "Ask what blessings we receive in the temple and how they help someone who is coming unto Christ."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 109:22–23, part of the Kirtland Temple dedicatory prayer, and look for blessings that come to the Lord’s servants."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: receiving temple blessings gives power to worthy missionaries."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how Elder Jeffrey R. Holland’s teaching adds to this idea."
+    },
+    {
+     "t": "say",
+     "text": "Then go over the questions asked in a temple recommend interview, and ask how worthiness prepares us for the blessings."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: power, covenants and blessings."
+    },
+    {
+     "t": "example",
+     "text": "Say: “The temple blesses us with power from God.”"
+    },
+    {
+     "t": "tip",
+     "text": "Show a picture of a temple near you."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "God’s plan to redeem the dead",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read 1 Peter 3:18–20; 4:6 to show that the gospel was preached to the dead."
+    },
+    {
+     "t": "say",
+     "text": "Then read Doctrine and Covenants 138:29–35, from President Joseph F. Smith’s vision of the spirit world."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what the Savior did to organize the work in the spirit world."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how verses 33–35 explain how those who accept the gospel there receive the ordinances (through the work done for them in temples)."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how the Lord’s plan helps those who die without the ordinances."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: gospel preached in the spirit world, ordinances for them."
+    },
+    {
+     "t": "example",
+     "text": "Say: “The gospel is for the dead too, and the temple makes it possible.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the verses slowly."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The mission of Elijah",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Explain that Elijah was an Old Testament prophet. Malachi foretold his return (see Malachi 4:5–6)."
+    },
+    {
+     "t": "read",
+     "text": "Read Joseph Smith—History 1:38–39 and ask what Joseph learned."
+    },
+    {
+     "t": "say",
+     "text": "Explain that the hearts of the children turn to their fathers as we do ordinances for them."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 110:13–16 and ask what Elijah restored: the sealing keys. Read about eternal marriage and ask what the sealing keys make possible, such as families bound for eternity."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how these keys have blessed your family."
+    },
+    {
+     "t": "board",
+     "text": "Write on the board The Spirit of Elijah."
+    },
+    {
+     "t": "say",
+     "text": "Share how Elder Russell M. Nelson and Elder David A. Bednar described it as the Holy Ghost bearing witness of the divine nature of the family and drawing hearts toward ancestors."
+    },
+    {
+     "t": "ask",
+     "text": "When have you felt your heart turn to your family, past or present?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: hearts turn to ancestors; sealing keys."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Elijah restored the sealing keys, so families can be together forever.”"
+    },
+    {
+     "t": "tip",
+     "text": "Write the Spirit of Elijah on the board."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Taking part in family history",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Show a completed pedigree chart or fan chart."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what information it holds and where learners might find the missing names."
+    },
+    {
+     "t": "say",
+     "text": "Invite anyone to share an experience using the family history website. Say that gathering family stories is also family history."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how stories help us love our family and understand who we are."
+    },
+    {
+     "t": "board",
+     "text": "Show the video of Elder Bednar speaking with youth."
+    },
+    {
+     "t": "read",
+     "text": "Read Elder Bednar’s promise to those who take part: it includes protection from the influence of the adversary."
+    },
+    {
+     "t": "ask",
+     "text": "Ask which blessings they would like, and let some share how they have felt them."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: stories, names, love for family."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I will ask my grandmother to tell me her story.”"
+    },
+    {
+     "t": "tip",
+     "text": "Show a fan chart."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Inviting others through family history",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Share what President Gordon B. Hinckley said about the growing interest in family history in the world."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how missionaries could use that interest to introduce the gospel."
+    },
+    {
+     "t": "read",
+     "text": "Read the section on family history in the missionary manual."
+    },
+    {
+     "t": "board",
+     "text": "Show the video of missionaries starting family history conversations."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how talking about family history can prepare people."
+    },
+    {
+     "t": "do",
+     "text": "Let pairs practise a short conversation, then give feedback on what went well."
+    },
+    {
+     "t": "board",
+     "text": "Show the second video on helping less-active members and ask how talking about eternal families can help them feel the Holy Ghost."
+    },
+    {
+     "t": "say",
+     "text": "Close with testimony."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: warm questions and a bridge to the gospel."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Family history opens doors. People love talking about their family.”"
+    },
+    {
+     "t": "tip",
+     "text": "Practise one question each."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

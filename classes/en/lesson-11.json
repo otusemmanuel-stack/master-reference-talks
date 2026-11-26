@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-11",
  "number": 11,
@@ -212,6 +212,222 @@
   {
    "show": "Doctrine and Covenants 19:15–19",
    "ref": "D&C 19:15–19"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "The Atonement of Jesus Christ is the center of the plan of salvation. In this lesson learners study how the Savior overcomes the effects of the Fall, feel His love, and practise teaching the whole plan with a simple diagram."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The Atonement",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Ask learners to read John 3:16 in silence and think how this one verse sums up the plan of salvation."
+    },
+    {
+     "t": "say",
+     "text": "Let a few share."
+    },
+    {
+     "t": "ask",
+     "text": "Ask each learner to say, in one sentence, why the Savior’s sacrifice is needed."
+    },
+    {
+     "t": "say",
+     "text": "Name the effects of the Fall that touch everyone: physical death, sin and spiritual death, and suffering and sorrow."
+    },
+    {
+     "t": "board",
+     "text": "Write the three on the board with these scriptures: 1 Corinthians 15:20–22 and Alma 11:42–44 for physical death; Alma 34:8–9 and Doctrine and Covenants 19:15–19 for sin; Isaiah 53:3–5 and Alma 7:11–13 for suffering."
+    },
+    {
+     "t": "do",
+     "text": "Divide the class into three groups, one for each."
+    },
+    {
+     "t": "say",
+     "text": "Each group studies its passages and explains to the class how the Savior overcomes that effect."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: God’s love, the gift of His Son, everlasting life."
+    },
+    {
+     "t": "example",
+     "text": "Say: “John 3:16 tells the whole plan in one verse.”"
+    },
+    {
+     "t": "tip",
+     "text": "Give silent reading time before talk."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Feeling the truth",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Show the video about God’s love for the world."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to look for ways Jesus Christ showed His love."
+    },
+    {
+     "t": "say",
+     "text": "Then ask what moved them, and how that love could shape the way they serve. Invite the Spirit by sharing your testimony."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why missionaries should often testify of Jesus Christ."
+    },
+    {
+     "t": "say",
+     "text": "One role of the Holy Ghost is to testify of the Savior (see John 15:26; 3 Nephi 11:32). President Boyd K. Packer taught the same idea in “The Candle of the Lord,” Ensign, January 1983: a testimony grows as we bear it."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: love, mercy and hope."
+    },
+    {
+     "t": "example",
+     "text": "Say: “The Savior loves us, and He proved it.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask: What did you feel? Wait for answers."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The plan of salvation in one picture",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Let learners study the plan of salvation diagram and draw their own version."
+    },
+    {
+     "t": "say",
+     "text": "They study one section at a time and write what an investigator needs to know in each part."
+    },
+    {
+     "t": "ask",
+     "text": "What impact will our choices here have after we die?"
+    },
+    {
+     "t": "ask",
+     "text": "How does the Judgment shape our choices now?"
+    },
+    {
+     "t": "ask",
+     "text": "How does the Atonement touch our life before earth, here and after death?"
+    },
+    {
+     "t": "ask",
+     "text": "Ask why we should explain these truths in a simple, clear way."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: Atonement in each phase."
+    },
+    {
+     "t": "example",
+     "text": "Draw the plan: before earth, earth, judgment, kingdoms of glory."
+    },
+    {
+     "t": "tip",
+     "text": "Let learners draw it themselves."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Teaching in pairs",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Explain that families are part of God’s plan and continue beyond death, which is one of the great doctrines of the Restoration."
+    },
+    {
+     "t": "do",
+     "text": "Pairs prepare to teach someone the plan of salvation using the chart they made or the diagram."
+    },
+    {
+     "t": "say",
+     "text": "Stress that they should speak in their own words. After each pair teaches, ask what went well and what could improve. Close with testimony."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: simple words, scripture, testimony."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Families can continue beyond death. That is good news.”"
+    },
+    {
+     "t": "tip",
+     "text": "Give pairs a time limit."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

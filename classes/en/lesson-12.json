@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-12",
  "number": 12,
@@ -207,6 +207,289 @@
   {
    "show": "Doctrine and Covenants 100:5–6",
    "ref": "D&C 100:5–6"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "The Lord prepares people to hear the gospel, and He asks members and missionaries to find them together. In this lesson learners build the faith to find, learn how members help, and use every tool God has given, including the internet."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The faith to find",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Tell the story of Wilford Woodruff in England soon after he became an Apostle. He prayed to know where to go. He felt led to the south of England and to the farm of John Benbow, where many people had already been preparing. Many were baptized."
+    },
+    {
+     "t": "ask",
+     "text": "What did Elder Woodruff do to find people?"
+    },
+    {
+     "t": "ask",
+     "text": "How did the Lord help him?"
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: when we act in faith, the Lord prepares people for us."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how that thought changes how a missionary feels about finding people."
+    },
+    {
+     "t": "read",
+     "text": "Read Alma 31:34–35 and ask what Alma prayed for before he taught the Zoramites."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why we should act on the feelings to reach out."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: prayer, obedience, the Lord prepares people."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Wilford Woodruff prayed to know where to go, and the Lord led him.”"
+    },
+    {
+     "t": "tip",
+     "text": "Tell the story with detail. Details make it real."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "A family of God",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read what the missionary manual says about the family of God."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how knowing that every person is a child of God changes how we feel about finding people."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what challenges missionaries face when finding people to teach."
+    },
+    {
+     "t": "say",
+     "text": "Remind learners that the Lord sends the Holy Ghost to guide them, and ask what He would have missionaries do when people do not respond."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 18:10, 14–16 and ask what these verses teach about the worth of souls."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: love, faith and trust in the Holy Ghost."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Everyone is a child of God. I want to find them.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask what stops us from reaching out."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Members and missionaries together",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Share how President Thomas S. Monson called on members and missionaries to work together."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 88:81."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why “now” is the time to work together."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what can happen when members and missionaries serve together."
+    },
+    {
+     "t": "board",
+     "text": "Show the video of a family helped by members."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what efforts led to their blessings, and what moved those members to reach out."
+    },
+    {
+     "t": "read",
+     "text": "Read the section on how no effort is wasted."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why no effort to share the gospel is wasted even if a person does not accept it, and how a missionary stays hopeful."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: members invite, missionaries teach, the Lord blesses."
+    },
+    {
+     "t": "example",
+     "text": "Say: “When members and missionaries work together, families are baptized.”"
+    },
+    {
+     "t": "tip",
+     "text": "Show the video, then ask what each person did."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Taking part in member missionary work",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Write these scriptures on the board: Doctrine and Covenants 18:10, 14–16; 33:6–11; 100:5–6."
+    },
+    {
+     "t": "do",
+     "text": "Each learner reads one and tells the class what blessings are promised to those who share the gospel."
+    },
+    {
+     "t": "board",
+     "text": "Write this idea on the board: as member missionaries, we find people when we pray, act and trust the Lord."
+    },
+    {
+     "t": "say",
+     "text": "Share Elder M. Russell Ballard’s counsel to pray for opportunities, personally and as a family, and to trust the Lord’s promise that He will give words in the very moment (see Doctrine and Covenants 100:5–6)."
+    },
+    {
+     "t": "read",
+     "text": "Let learners search the list of ideas for helping others learn the gospel and pick one or two they can do now."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why some members hesitate, and how to move past the fear."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: prayer, action, trust."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I will pray for a chance to share, and I will open my mouth.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners choose one idea from the list."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Using every tool",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Share Elder L. Tom Perry’s counsel that the way we find people is changing, because the Lord has opened the internet to missionary work."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why members and missionaries should use online tools."
+    },
+    {
+     "t": "read",
+     "text": "Read the Church’s guidelines for using social media."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what each one means for a missionary."
+    },
+    {
+     "t": "board",
+     "text": "Show a short video on sharing beliefs."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how technology can help members share the gospel, and invite learners to say how they could use it to share a testimony."
+    },
+    {
+     "t": "say",
+     "text": "Close with testimony."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: kind tone, simple message, clear next step."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I can share a message or a video online.”"
+    },
+    {
+     "t": "tip",
+     "text": "Review the social media rules together."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

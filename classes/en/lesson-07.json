@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-07",
  "title": "Teaching the Message of the Restoration (Part 1)",
@@ -233,6 +233,262 @@
     "Write this question on the board: What led to the Great Apostasy, and what came of it? Let learners search for answers. After the deaths of Jesus Christ and His Apostles, changes that no one had authority to make crept into doctrine and practice. In time, priesthood keys and authority were taken from the earth.",
     "Let learners study some of the verses about the falling away, such as 2 Thessalonians 2:3, Amos 8:11–12 and 2 Timothy 4:3–4. Write this summary: ancient prophets foretold a falling away from the truth. Then move to the training steps, where learners teach the Apostasy in pairs."
    ]
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "This lesson prepares learners to teach the first part of the message of the Restoration: God is our loving Father, families matter to Him, He leads His children through prophets, and the gospel was lost in the Great Apostasy. By the end, each learner can teach these truths simply and testify."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "God is our loving Father",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Begin with a case study."
+    },
+    {
+     "t": "ask",
+     "text": "A friend writes late at night, discouraged, and asks: “Is God real?"
+    },
+    {
+     "t": "ask",
+     "text": "Does He care about us?"
+    },
+    {
+     "t": "say",
+     "text": "What is He like?” Let a few learners say how they would answer. Then explain that today’s lesson prepares them to answer."
+    },
+    {
+     "t": "read",
+     "text": "Search scripture together for how God shows His love, for example Romans 8:16 and Moses 1:39."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to write a short statement: God is our loving Father and wants all of His children to return to Him."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why a person should understand this before learning other doctrines."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: God is a loving Father who hears prayer and wants us home."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Yes, God is real. He is our Father, and He loves you.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let two or three learners answer the friend’s question aloud."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The gospel blesses families",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "doc",
+     "title": "The Family: A Proclamation to the World, key lines",
+     "text": "The proclamation is one page that states what God has revealed about the family. Three lines learners can mark: “The family is ordained of God.” Marriage between a man and a woman is essential to His eternal plan. And happiness in family life is most likely when it is founded upon the teachings of the Lord Jesus Christ. It also says that parents have a sacred duty to rear their children in love and righteousness, to provide for their needs, and to teach them to love and serve one another. Have each learner read their own copy and mark what stands out."
+    },
+    {
+     "t": "read",
+     "text": "Let learners read “The Family: A Proclamation to the World” and mark the phrases that show the role of marriage and family in God’s plan."
+    },
+    {
+     "t": "ask",
+     "text": "Ask a learner to write them on the board."
+    },
+    {
+     "t": "read",
+     "text": "Read this from President Boyd K. Packer, “The Father and the Family,” general conference, April 1994: “The ultimate purpose of the adversary … is to disrupt, disturb, and destroy the home and the family” (see Revelation 12:12)."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why the family is such a target, and how the proclamation helps a missionary tell God’s plan from the world’s trends."
+    },
+    {
+     "t": "say",
+     "text": "Keep the focus on God’s plan, and do not spend long on worldly trends."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: marriage and families are ordained of God and central to His plan."
+    },
+    {
+     "t": "example",
+     "text": "Show the Proclamation. Say: “God’s plan places families at the center.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners mark phrases before they speak."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Prophets and dispensations",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Explain that calling prophets is one way God shows His love."
+    },
+    {
+     "t": "read",
+     "text": "Read what Elder M. Russell Ballard taught in “His Word Ye Shall Receive,” general conference, April 2001: “If you will listen to the living prophet and the apostles and heed our counsel, you will not go astray.” Read Doctrine and Covenants 1:37–38, Amos 3:7 and 1 Nephi 3:7."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what blessings come to those who follow the Lord’s prophet."
+    },
+    {
+     "t": "say",
+     "text": "Teach the pattern: God calls a prophet, the gospel is taught, people turn away, and God calls a prophet again. A time when God has a prophet with priesthood keys is called a dispensation."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why it helps an investigator to know that earlier dispensations ended in apostasy."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: prophets show God’s love; those who follow them are blessed."
+    },
+    {
+     "t": "example",
+     "text": "Say: “God has always led His children through living prophets.”"
+    },
+    {
+     "t": "tip",
+     "text": "Write the cycle on the board: prophet, gospel, turning away, prophet again."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The Savior’s earthly ministry",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Ask what Jesus Christ did to establish His Church."
+    },
+    {
+     "t": "say",
+     "text": "He chose and ordained Apostles and gave them authority. His ministry and rejection followed the pattern of earlier dispensations. After the deaths of the Savior and His Apostles, people fell into apostasy again until God called a prophet to restore the gospel."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: ordination, keys and authority."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Jesus Christ chose Apostles and gave them authority.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask what authority means to learners."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "The Great Apostasy",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Write this question on the board: What led to the Great Apostasy, and what came of it?"
+    },
+    {
+     "t": "read",
+     "text": "Let learners search for answers."
+    },
+    {
+     "t": "say",
+     "text": "After the deaths of Jesus Christ and His Apostles, changes that no one had authority to make crept into doctrine and practice. In time, priesthood keys and authority were taken from the earth."
+    },
+    {
+     "t": "read",
+     "text": "Let learners study some of the verses about the falling away, such as 2 Thessalonians 2:3, Amos 8:11–12 and 2 Timothy 4:3–4."
+    },
+    {
+     "t": "board",
+     "text": "Write this summary: ancient prophets foretold a falling away from the truth."
+    },
+    {
+     "t": "say",
+     "text": "Then move to the training steps, where learners teach the Apostasy in pairs."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: a falling away, loss of authority, need for restoration."
+    },
+    {
+     "t": "example",
+     "text": "Say: “After the Apostles died, authority was lost. The gospel needed to be restored.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners read the verses before you explain."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

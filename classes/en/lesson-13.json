@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-13",
  "number": 13,
@@ -205,6 +205,266 @@
   {
    "show": "Alma 36:17–20",
    "ref": "Alma 36:17–20"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "The gospel of Jesus Christ is how we come back to God. Its first principles are faith in Jesus Christ and repentance. In this lesson learners study how the Savior cleanses us and practise teaching these two principles."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Cleansed through Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Before class, write on the board: What does it mean to be clean?"
+    },
+    {
+     "t": "say",
+     "text": "Let learners answer as they come in."
+    },
+    {
+     "t": "ask",
+     "text": "What makes us unclean, and what do we need to draw closer to Jesus Christ?"
+    },
+    {
+     "t": "read",
+     "text": "Read the section on how we are cleansed through Christ and pull out these truths: God sent His Son so we could return."
+    },
+    {
+     "t": "say",
+     "text": "Only through the Savior’s grace and mercy can we be clean. No unclean thing can live in God’s presence. Christ stood in our place and suffered for our sins. He forgives us when we accept Him, repent and obey."
+    },
+    {
+     "t": "read",
+     "text": "Let each learner choose a verse that shows one of these truths and explain how they would use it with an investigator."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: grace, mercy, forgiveness on His terms."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Only through the Savior can we be clean.”"
+    },
+    {
+     "t": "tip",
+     "text": "Write the five truths and let learners choose a verse for one."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Faith in Jesus Christ",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "What is the difference between helping someone come unto Christ and helping someone join the Church?"
+    },
+    {
+     "t": "ask",
+     "text": "Why does the first matter more?"
+    },
+    {
+     "t": "read",
+     "text": "Read the first paragraph on faith and ask learners what it means to have faith in Jesus Christ."
+    },
+    {
+     "t": "board",
+     "text": "Write on the board: Faith in Jesus Christ leads to action."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what actions show an investigator is growing in faith, such as praying, reading, keeping commitments and changing habits."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to write in a journal how faith has moved them to act, and one more thing they can do."
+    },
+    {
+     "t": "do",
+     "text": "Pairs then prepare a two-to-three-minute lesson on faith in their own words, using one scripture."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: faith leads to action."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Faith leads me to act: pray, read, keep commitments.”"
+    },
+    {
+     "t": "tip",
+     "text": "Write the principle on the board."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Repentance: turning back to God",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Show the picture of Alma and the sons of Mosiah."
+    },
+    {
+     "t": "say",
+     "text": "Tell how Alma remembered his father’s words about Jesus Christ, called on Him and was changed (see Alma 36:6–24)."
+    },
+    {
+     "t": "read",
+     "text": "Read Alma 36:13, 17–21."
+    },
+    {
+     "t": "ask",
+     "text": "How did Alma show faith?"
+    },
+    {
+     "t": "ask",
+     "text": "What came of it?"
+    },
+    {
+     "t": "ask",
+     "text": "What was the result of his repentance?"
+    },
+    {
+     "t": "do",
+     "text": "Give one minute to write a one-sentence definition of repentance."
+    },
+    {
+     "t": "say",
+     "text": "Let several read theirs. Share the idea from Elder Neil L. Andersen that repentance is a turning toward God."
+    },
+    {
+     "t": "board",
+     "text": "Write on the board: Repentance is turning back toward God."
+    },
+    {
+     "t": "read",
+     "text": "Study Mosiah 3:19; 4:1–3 and 5:2 and look for evidence that King Benjamin’s people had faith and repented."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to study the section on repentance and make a chart with three columns: what we do, what changes in us, and what we feel."
+    },
+    {
+     "t": "say",
+     "text": "Examples: recognize sins, confess and turn away; fresh view of self and God, a growing wish to follow Him; peace, forgiveness, joy."
+    },
+    {
+     "t": "ask",
+     "text": "How do the first and second columns help you explain repentance?"
+    },
+    {
+     "t": "ask",
+     "text": "Why must we first have faith in Christ for the third column to be real?"
+    },
+    {
+     "t": "say",
+     "text": "Close by showing the video of a woman changed through repentance."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what proved that she had turned to God."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: remembered, called, forgiven, changed."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Alma remembered his father’s words, called on Christ and was changed.”"
+    },
+    {
+     "t": "tip",
+     "text": "Show the picture and tell the story."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Teaching it in a hard moment",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Set the scenario: two roommates. One feels weighed down by a mistake and thinks he cannot change."
+    },
+    {
+     "t": "do",
+     "text": "Pairs prepare to teach him that with the Savior’s help repentance is possible."
+    },
+    {
+     "t": "say",
+     "text": "Teachers use their own words, simple and clear, and kindly invite him to act. The partner plays the roommate and gives real reactions. Afterward ask what felt sincere and what could be clearer."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: hope, simplicity and an invitation."
+    },
+    {
+     "t": "example",
+     "text": "Say: “You can change with the Savior’s help.”"
+    },
+    {
+     "t": "tip",
+     "text": "Rotate the roles after four minutes."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

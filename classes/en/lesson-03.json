@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-03",
  "number": 3,
@@ -221,6 +221,265 @@
   {
    "show": "Doctrine and Covenants 138:1–2",
    "ref": "D&C 138:1–2"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "A missionary grows by learning from the Holy Ghost every day. In this lesson learners see why gospel study matters, how to study so the Spirit can teach them, and how living what they learn deepens their faith."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Why gospel study matters",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Show the picture of Joseph and Hyrum Smith."
+    },
+    {
+     "t": "say",
+     "text": "While Joseph was translating the Book of Mormon, Hyrum wanted to share the message and asked Joseph to seek the Lord’s will for him. The answer is Doctrine and Covenants 11. Hyrum stood where your learners stand today."
+    },
+    {
+     "t": "read",
+     "text": "Read Doctrine and Covenants 11:15–17 and ask why the Lord told Hyrum to wait a little longer."
+    },
+    {
+     "t": "say",
+     "text": "Then read Doctrine and Covenants 11:21–22 and Doctrine and Covenants 11:26."
+    },
+    {
+     "t": "ask",
+     "text": "What did the Lord tell Hyrum to do first?"
+    },
+    {
+     "t": "ask",
+     "text": "What does it mean to treasure up His word?"
+    },
+    {
+     "t": "say",
+     "text": "Help learners say it: gospel study prepares missionaries to teach with the Spirit and with power."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: study comes before service, and the Lord answers those who seek."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Hyrum wanted to share the gospel, so he asked the Lord. The Lord answered in Doctrine and Covenants 11.”"
+    },
+    {
+     "t": "tip",
+     "text": "Let learners say how Hyrum’s question fits their own wish to serve."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "A study journal and real intent",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "A study journal can be a bound book, a notebook, pages in a binder or a notes app."
+    },
+    {
+     "t": "ask",
+     "text": "Why write down the ideas and feelings that come while you study?"
+    },
+    {
+     "t": "do",
+     "text": "Invite learners who keep a journal to share how it has helped."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what it means to study with real intent."
+    },
+    {
+     "t": "say",
+     "text": "It means we plan to live what we learn."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how real intent and a hunger for righteousness would change the way someone studies and prays."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: records help us remember and act; real intent means we plan to live what we learn."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I write what I feel while I study, then I look back and see how the Lord taught me.”"
+    },
+    {
+     "t": "tip",
+     "text": "Show your own journal if you keep one. Real pages teach better than talk."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "How the Holy Ghost teaches",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read this from Elder D. Todd Christofferson, “When Thou Art Converted,” Ensign, May 2004: study is more than reading."
+    },
+    {
+     "t": "say",
+     "text": "He pictures a person reading a few verses, stopping to ponder, praying for understanding and writing down impressions, so that “you will be giving place in your heart for the word of God, and He will be speaking to you.”"
+    },
+    {
+     "t": "ask",
+     "text": "Ask what actions help the Spirit teach us."
+    },
+    {
+     "t": "do",
+     "text": "In pairs, study Doctrine and Covenants 8:2–3, Doctrine and Covenants 9:7–8, Doctrine and Covenants 11:12–14 and Doctrine and Covenants 138:1–2, 11."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to mark the words that show how the Holy Ghost speaks, and to share a time He taught them."
+    },
+    {
+     "t": "say",
+     "text": "Then let groups of three or four share study habits that make their study stronger, such as pondering, asking questions, writing and marking."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: reading, pondering, praying and recording."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I read a few verses, stop, think, pray and write one impression.”"
+    },
+    {
+     "t": "tip",
+     "text": "Walk the class through one passage step by step."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Live what you learn",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read John 7:17."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what the difference is between knowing about the scriptures and living them."
+    },
+    {
+     "t": "read",
+     "text": "Read James 1:22 and this from Elder David A. Bednar, “Watching with All Perseverance,” Ensign, May 2010: we invite the Spirit’s teaching and testifying power as we act in accordance with correct principles."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how living a principle has deepened your understanding and testimony of it."
+    },
+    {
+     "t": "say",
+     "text": "Help learners see that missionaries who live the gospel feel their desire and ability to share it grow."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: knowing comes through doing."
+    },
+    {
+     "t": "example",
+     "text": "Say: “If I want to know whether it is true, I try to live it.”"
+    },
+    {
+     "t": "tip",
+     "text": "Ask each learner to name one verse they will live this week."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Inviting an investigator to church",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Explain that attending church helps a person feel the Spirit, grow closer to God and prepare for baptism."
+    },
+    {
+     "t": "board",
+     "text": "Show how to invite someone: first share the blessings of coming, then describe what happens in sacrament meeting, then invite with warmth and clarity."
+    },
+    {
+     "t": "say",
+     "text": "Learners then practise the same three steps in pairs."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: a warm tone, clear details and an offer to go together."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Come this Sunday. You will hear the sacrament prayers and meet people who care. I will sit with you.”"
+    },
+    {
+     "t": "tip",
+     "text": "Role-play the invitation in pairs."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

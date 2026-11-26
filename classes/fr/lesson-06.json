@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-06",
  "number": 6,
@@ -225,6 +225,238 @@
   {
    "show": "Doctrine et Alliances 18:15–16",
    "ref": "D&C 18:15–16"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Une mission demande un travail difficile de tout son cœur, de toute sa force, de tout son esprit. Dans cette leçon, les participants voient comment commencer dès maintenant à devenir missionnaire, dans l’esprit, le corps et le cœur, et où trouver de l’aide quand c’est difficile."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Devenir missionnaire dès maintenant",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Comment pensez-vous que votre vie changera quand vous commencerez votre mission ?"
+    },
+    {
+     "t": "ask",
+     "text": "Que pouvez-vous commencer à faire dès maintenant pour vous y préparer ?"
+    },
+    {
+     "t": "read",
+     "text": "Lisez cette déclaration de l’élder David A. Bednar, « Becoming a Missionary », session de la prêtrise de la conférence générale, octobre 2005 : vous pouvez commencer « à penser comme pensent les missionnaires, à lire ce que lisent les missionnaires, à prier comme prient les missionnaires »."
+    },
+    {
+     "t": "say",
+     "text": "Son conseil vaut aussi pour les jeunes filles."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment une personne peut devenir missionnaire avant le centre de formation des missionnaires."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Alma 17:2–3, 9 et Alma 17:11 sur les fils de Mosiah."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce qu’ils ont fait pour se préparer à enseigner avec puissance et autorité, et comment les participants peuvent suivre leur exemple."
+    },
+    {
+     "t": "do",
+     "text": "Donnez ensuite du temps pour écrire des objectifs, comme l’étude quotidienne des Écritures, la prière du matin et du soir, se coucher et se lever à l’heure, et moins de temps sur les appareils."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : la préparation commence maintenant ; penser et agir en missionnaire."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Je peux commencer dès aujourd’hui à penser en missionnaire : prier, étudier, servir. »"
+    },
+    {
+     "t": "tip",
+     "text": "Demandez à chacun un changement à commencer cette semaine."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La préparation spirituelle",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 88:74."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que signifie être sanctifié : être pur et digne du Saint-Esprit."
+    },
+    {
+     "t": "say",
+     "text": "Aidez les participants à voir que le Seigneur demande à ses serviteurs d’être purs."
+    },
+    {
+     "t": "read",
+     "text": "Lisez le conseil de l’élder M. Russell Ballard sur le fait de garder notre cœur, nos mains et notre esprit purs, y compris de fuir la pornographie comme on fuit une maladie mortelle."
+    },
+    {
+     "t": "board",
+     "text": "Montrez comment l’élder Jeffrey R. Holland a supplié ceux qui sont dans l’équipe du Seigneur de rester dans les limites."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi ne pas se repentir limiterait un missionnaire."
+    },
+    {
+     "t": "say",
+     "text": "Dites clairement que toute personne qui a une inquiétude concernant sa dignité doit en parler maintenant avec son évêque, son président de branche ou son président de pieu."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : cœur, mains et esprit purs."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Être sanctifié, c’est être pur et digne du Saint-Esprit. »"
+    },
+    {
+     "t": "tip",
+     "text": "Demandez à chacun d’écrire une chose qu’il fera pour rester pur."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La préparation physique et émotionnelle",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Une mission demande un corps en bonne santé et un esprit stable. Les missionnaires vivent une vie planifiée : ils sont couchés à 22 h 30 et levés à 6 h 30."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez à chacun de réfléchir à son niveau de préparation et à ce qu’il peut faire dès maintenant pour l’exercice, l’alimentation et le sommeil."
+    },
+    {
+     "t": "say",
+     "text": "Chaque missionnaire ressent du stress, du mal du pays ou du doute. Le président Gordon B. Hinckley s’est senti découragé après son arrivée sur le terrain et s’est relevé en se mettant au travail."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Jérémie 1:4–9, Alma 17:5, Alma 26:27 et Moïse 6:31–32 pour voir que de grands serviteurs de Dieu se sont sentis faibles eux aussi."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi il est utile de savoir que tous les missionnaires rencontrent des difficultés."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : santé, horaire, repos, esprit stable."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Je me coucherai à l’heure et je mangerai bien, car une mission demande un corps solide. »"
+    },
+    {
+     "t": "tip",
+     "text": "Invitez chacun à écrire un plan : sommeil, nourriture, exercice."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Se tourner vers le Seigneur pour obtenir de l’aide",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez 2 Néphi 4:17–19, puis étudiez 2 Néphi 4:19–26."
+    },
+    {
+     "t": "say",
+     "text": "Néphi a ressenti du chagrin à cause de sa faiblesse, puis s’est souvenu de la bonté du Seigneur et lui a fait confiance."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment se souvenir du Seigneur les a aidés dans une période difficile."
+    },
+    {
+     "t": "read",
+     "text": "Lisez ce que l’élder Jeffrey R. Holland a enseigné sur le Sauveur à Gethsémané et pourquoi les missionnaires peuvent se tenir debout dans l’épreuve. Lisez ensuite Alma 26:11–13, Alma 29:10 et Doctrine et Alliances 18:15–16."
+    },
+    {
+     "t": "say",
+     "text": "Expliquez que certains besoins demandent aussi l’aide des dirigeants de la prêtrise et des proches."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : se souvenir du Seigneur, confiance et paix."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Néphi a ressenti de la peine, puis il s’est souvenu de la bonté du Seigneur. »"
+    },
+    {
+     "t": "tip",
+     "text": "Demandez à chacun de partager un moment où le Seigneur l’a aidé."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

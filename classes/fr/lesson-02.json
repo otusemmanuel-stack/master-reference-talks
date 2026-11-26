@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-02",
  "number": 2,
@@ -267,6 +267,250 @@
   {
    "show": "Doctrine et Alliances 18:11–14",
    "ref": "D&C 18:11–14"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "L’expiation de Jésus-Christ est au cœur du plan de Dieu. Dans cette leçon, les participants voient pourquoi chacun en a besoin, quelles bénédictions elle apporte et comment l’enseigner simplement : l’expliquer, partager un passage d’Écriture ou une expérience, et témoigner."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Pourquoi nous avons besoin de l’expiation",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Commencez par demander : Comment une personne en vient-elle à sentir qu’elle a besoin du Sauveur ?"
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ensuite ce que nous entendons par la chute d’Adam."
+    },
+    {
+     "t": "say",
+     "text": "Expliquez qu’Adam et Ève ont mangé du fruit et ont été chassés de la présence de Dieu. C’était la mort spirituelle. Ils sont aussi devenus mortels et soumis à la mort physique. En tant que leurs enfants, nous héritons de cette condition : nous sommes loin de la présence de Dieu, nous faisons face à la mort physique et nous sommes mis à l’épreuve par les difficultés et la tentation (voir Alma 42:5–9, 2 Néphi 2:11–14)."
+    },
+    {
+     "t": "read",
+     "text": "Laissez les participants étudier Romains 3:23, 2 Néphi 9:6–10 et Alma 42:9–14."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment chacun de nous est touché par la chute."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez leurs réponses au tableau : nous péchons tous, le péché nous sépare de Dieu, nous mourrons tous et nous devons vaincre l’homme naturel (voir Mosiah 3:19). Montrez ensuite la réponse."
+    },
+    {
+     "t": "say",
+     "text": "Par l’expiation, nous échappons à la mort et à l’enfer (voir 2 Néphi 9:10). Tous seront ressuscités, et tous ceux qui se repentent peuvent être rendus purs. Sans le Sauveur, nous serions perdus. Rendez un court témoignage de la sagesse et de la miséricorde du plan de Dieu."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : mort spirituelle, mort physique, besoin d’un Rédempteur."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « À cause de la chute, nous ne pouvons pas nous purifier nous-mêmes. Il nous faut un Sauveur qui le peut. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez les participants dire comment on ressent ce besoin. Leurs mots s’enseignent entre eux."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Pourquoi il est important d’enseigner l’expiation",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez cette déclaration de l’élder Richard G. Scott, « He Lives!"
+    },
+    {
+     "t": "ask",
+     "text": "All Glory to His Name! », conférence générale, avril 2010 : « L’expiation donne à tous la possibilité de surmonter les conséquences des erreurs commises dans la vie. » Demandez : Pourquoi est-il important de bien comprendre l’expiation, et comment un futur missionnaire peut-il la faire sienne ?"
+    },
+    {
+     "t": "say",
+     "text": "Beaucoup de jeunes pensent que l’expiation ne concerne que le pardon."
+    },
+    {
+     "t": "do",
+     "text": "Donnez aux participants le temps de chercher dans Mosiah 3:19, Mosiah 4:3, Mosiah 24:12–15, Alma 5:12–13 et Alma 7:11–13 d’autres bénédictions."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez au tableau ce qu’ils trouvent."
+    },
+    {
+     "t": "read",
+     "text": "Lisez ensemble 1 Néphi 8:10–12, Énos 1:5–9, Mosiah 27:34–36 et Mosiah 28:1–4."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quel modèle ils voient."
+    },
+    {
+     "t": "do",
+     "text": "Chacun de ces hommes a goûté à l’expiation, puis a voulu que d’autres y goûtent aussi."
+    },
+    {
+     "t": "ask",
+     "text": "Comment vos propres expériences de l’expiation vous poussent-elles à partager l’Évangile ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : espérance, pardon et chemin de retour vers Dieu."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « L’élder Scott a enseigné que l’expiation donne à tous la possibilité de surmonter leurs erreurs. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez la citation lentement. Laissez quelques secondes de silence."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Aider les autres à en recevoir les bénédictions",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez 2 Néphi 2:6–8."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ce que Léhi a enseigné que nous devons faire de notre connaissance du sacrifice du Sauveur."
+    },
+    {
+     "t": "say",
+     "text": "L’élder Jeffrey R. Holland a enseigné que les missionnaires disent souvent vouloir que les gens soient baptisés, mais oublient ce qui doit venir d’abord : la foi au Seigneur Jésus-Christ et le repentir (« Missionary Work and the Atonement », Ensign, mars 2001)."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 20:37 et demandez ce qu’une personne doit montrer avant le baptême. Lisez Doctrine et Alliances 18:11–14."
+    },
+    {
+     "t": "ask",
+     "text": "Quelle est la chose la plus importante qu’un missionnaire puisse faire pour amener les gens au Christ ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi le repentir est-il la seule façon de recevoir toutes les bénédictions de l’expiation (voir Mosiah 16:13, Alma 11:37, Hélaman 14:13) ?"
+    },
+    {
+     "t": "board",
+     "text": "Écrivez au tableau : les missionnaires enseignent le repentir pour que les gens puissent recevoir toutes les bénédictions de l’expiation et commencer une vie nouvelle dans le Christ."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : la foi d’abord, puis le repentir, le baptême et le Saint-Esprit."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « La foi en Christ vient d’abord. Puis le repentir. Puis le baptême. »"
+    },
+    {
+     "t": "tip",
+     "text": "Enseignez l’ordre au tableau, puis demandez à quelqu’un de le répéter."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Expliquer, partager et témoigner",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Enseignez un schéma simple que tout missionnaire peut utiliser. D’abord, expliquez une doctrine avec vos propres mots."
+    },
+    {
+     "t": "do",
+     "text": "Ensuite, partagez un passage d’Écriture ou une expérience personnelle qui aide à l’expliquer."
+    },
+    {
+     "t": "say",
+     "text": "Enfin, rendez témoignage de ce que vous ressentez et de l’importance de cette doctrine. Enseignez ensuite à utiliser les Écritures en trois étapes : présenter le passage, le lire et l’appliquer."
+    },
+    {
+     "t": "board",
+     "text": "Montrez vous-même les étapes avec Mosiah 3:16–19, afin que les participants ne se sentent pas dépassés."
+    },
+    {
+     "t": "do",
+     "text": "Donnez quelques minutes pour se préparer, puis laissez-les s’enseigner mutuellement."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : une explication simple, une Écriture ou une expérience, un témoignage."
+    },
+    {
+     "t": "example",
+     "text": "Enseignez le schéma : Expliquer, Partager, Témoigner. Essayez-le avec l’expiation : « Elle me purifie. J’ai lu Alma 7:11–13. Je sais que le Sauveur m’aime. »"
+    },
+    {
+     "t": "tip",
+     "text": "Chronométrez chacun : quatre-vingt-dix secondes, trois étapes."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

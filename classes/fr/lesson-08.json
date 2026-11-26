@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-08",
  "number": 8,
@@ -233,6 +233,258 @@
   {
    "show": "Joseph Smith, Histoire 1:17",
    "ref": "Joseph Smith—History 1:17"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Dieu a répondu à la prière d’un garçon dans un bosquet et a commencé le Rétablissement. Dans cette leçon, les participants étudient la Première Vision, voient pourquoi elle compte et s’exercent à l’enseigner et à inviter les autres à lire le Livre de Mormon."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Un témoignage qui touche le cœur",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Racontez l’histoire d’Elmer Pollard que le président Thomas S. Monson a partagée dans « Come, All Ye Sons of God », conférence générale, avril 2013. Le simple témoignage d’un missionnaire sur le prophète Joseph Smith a touché son cœur."
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi ce témoignage a-t-il eu un tel effet ?"
+    },
+    {
+     "t": "ask",
+     "text": "Que nous enseigne-t-il sur notre façon d’enseigner ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : la sincérité compte plus que le style."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Le simple témoignage d’un missionnaire sur Joseph Smith a touché le cœur d’Elmer Pollard. »"
+    },
+    {
+     "t": "tip",
+     "text": "Racontez l’histoire lentement. Laissez le silence enseigner."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La recherche de Joseph Smith",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "story",
+     "title": "L’histoire de Joseph, en bref",
+     "text": "Joseph Smith avait quatorze ans. Une vague d’agitation religieuse avait touché sa ville et chaque église disait avoir raison. Il lisait et écoutait, mais il ne savait pas laquelle était vraie. Puis il a lu Jacques 1:5 et a senti qu’il devait demander à Dieu. Un matin de printemps de 1820, il est allé dans les bois près de chez lui et s’est agenouillé pour prier. Aussitôt, une puissance s’est emparée de lui et il a senti qu’il allait être détruit. Il a invoqué Dieu, et une colonne de lumière est descendue sur lui. Dans la lumière se tenaient deux Personnages. L’un l’a appelé par son nom, a désigné l’autre et a dit : « Celui-ci est mon Fils bien-aimé. Écoute-le ! » Joseph a demandé à quelle église se joindre. On lui a répondu de ne se joindre à aucune. Plus tard, il a raconté ce qu’il avait vu et certains se sont moqués de lui. Il a continué à dire la vérité. Touchez les versets pour lire ses propres paroles."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Joseph Smith, Histoire 1:5–9 puis Joseph Smith, Histoire 1:10."
+    },
+    {
+     "t": "ask",
+     "text": "Quelles questions Joseph se posait-il ?"
+    },
+    {
+     "t": "ask",
+     "text": "Pourquoi était-il difficile de choisir une église ?"
+    },
+    {
+     "t": "ask",
+     "text": "En quoi ses questions ressemblent-elles à celles des gens aujourd’hui ?"
+    },
+    {
+     "t": "read",
+     "text": "Lisez Joseph Smith, Histoire 1:11–13 et Jacques 1:5."
+    },
+    {
+     "t": "say",
+     "text": "Aidez les participants à dire la vérité : nous pouvons trouver la vérité spirituelle en étudiant, en demandant à Dieu et en agissant selon ce que nous apprenons."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment ils peuvent utiliser l’exemple de Joseph pour aider quelqu’un d’autre."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : confusion entre les églises, recherche de la vérité, Jacques 1:5."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Joseph avait quatorze ans et de vraies questions. Il s’est tourné vers les Écritures et vers Dieu. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez dire en quoi ses questions ressemblent à celles d’aujourd’hui."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La Première Vision",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Laissez les participants lire Joseph Smith, Histoire 1:14–19 seuls."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi l’adversaire voudrait arrêter Joseph avant qu’il reçoive la vision."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez ensuite quelles doctrines la vision enseigne : le Père et le Fils sont deux Êtres distincts et glorifiés, Dieu entend et exauce la prière, et la véritable Église n’était pas sur la terre."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez comment la Première Vision a commencé à vaincre les effets de la grande apostasie et pourquoi il est important que les missionnaires racontent cette histoire."
+    },
+    {
+     "t": "say",
+     "text": "Le président Gordon B. Hinckley a enseigné que toute la force de l’Église repose sur la réalité de cette vision (« The Marvelous Foundation of Our Faith », conférence générale, octobre 2002)."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi certains ont du mal à l’accepter et comment un missionnaire peut répondre avec bonté et témoignage."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : deux Êtres distincts, Dieu entend la prière, l’Église devait être rétablie."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Joseph a vu le Père et le Fils. Ce sont deux Êtres. Dieu exauce la prière. »"
+    },
+    {
+     "t": "tip",
+     "text": "Faites une pause après chaque verset. Demandez ce qu’il ajoute."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le schéma du Rétablissement",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Reliez cette leçon à la précédente. Le Seigneur a promis de rétablir toutes choses dans la dispensation de la plénitude des temps (voir Éphésiens 1:10)."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez en quoi il est utile à une personne qui s’informe de voir que le Rétablissement suit un schéma que Dieu a déjà utilisé."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez aux participants comment ils ont reçu un témoignage de la Première Vision et comment ce témoignage a influencé leur foi dans le Rétablissement."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : dispensations, prophètes et rétablissement."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Dieu a déjà rétabli l’Évangile, et il l’a fait de nouveau. »"
+    },
+    {
+     "t": "tip",
+     "text": "Dessinez le schéma au tableau."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Inviter les autres à lire le Livre de Mormon",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Lisez Moroni 10:3–5."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles étapes une personne suit pour savoir que le Livre de Mormon est vrai : lire, méditer, demander à Dieu avec un cœur sincère et une réelle intention, et agir selon ce qu’elle apprend."
+    },
+    {
+     "t": "read",
+     "text": "Lisez Doctrine et Alliances 20:8–11 et demandez pourquoi le livre est une preuve solide que Joseph Smith était un prophète."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez aux participants de repérer ce qui fait qu’une invitation fonctionne : l’intérêt pour la personne, une invitation claire et un simple témoignage."
+    },
+    {
+     "t": "board",
+     "text": "Montrez ensuite comment présenter le livre et inviter quelqu’un à lire et à prier."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : lire, méditer, demander, agir."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Lisez ceci, demandez à Dieu, et il vous répondra. »"
+    },
+    {
+     "t": "tip",
+     "text": "Jouez l’invitation à deux."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

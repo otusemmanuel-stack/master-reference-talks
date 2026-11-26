@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "fr",
  "id": "lesson-07",
  "title": "Enseigner le message du Rétablissement (1re partie)",
@@ -233,6 +233,262 @@
     "Écrivez cette question au tableau : Qu’est-ce qui a mené à la grande apostasie, et qu’en est-il résulté ? Laissez les participants chercher des réponses. Après la mort de Jésus-Christ et de ses apôtres, des changements que personne n’avait l’autorité de faire se sont glissés dans la doctrine et les pratiques. Avec le temps, les clés et l’autorité de la prêtrise ont été retirées de la terre.",
     "Laissez les participants étudier quelques versets sur l’éloignement de la vérité, comme 2 Thessaloniciens 2:3, Amos 8:11–12 et 2 Timothée 4:3–4. Écrivez ce résumé : les prophètes anciens ont annoncé un éloignement de la vérité. Passez ensuite aux étapes de formation, où les participants enseignent l’apostasie à deux."
    ]
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Accueil et révision",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
+    },
+    {
+     "t": "ask",
+     "text": "Qu’est-il arrivé quand vous avez essayé l’invitation de la dernière leçon ? Qui veut partager ?"
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : de vraies expériences, des efforts faits, une chose apprise."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
+    },
+    {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Cette leçon prépare les participants à enseigner la première partie du message du Rétablissement : Dieu est notre Père aimant, les familles comptent pour lui, il conduit ses enfants par des prophètes, et l’Évangile a été perdu lors de la grande apostasie. À la fin, chacun peut enseigner ces vérités simplement et en témoigner."
+    },
+    {
+     "t": "example",
+     "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
+    },
+    {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Dieu est notre Père aimant",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Commencez par une étude de cas."
+    },
+    {
+     "t": "ask",
+     "text": "Un ami écrit tard le soir, découragé, et demande : « Dieu existe-t-il ?"
+    },
+    {
+     "t": "ask",
+     "text": "S’intéresse-t-il à nous ?"
+    },
+    {
+     "t": "say",
+     "text": "Comment est-il ? » Laissez quelques participants dire comment ils répondraient. Expliquez ensuite que la leçon d’aujourd’hui les prépare à répondre."
+    },
+    {
+     "t": "read",
+     "text": "Cherchez ensemble dans les Écritures comment Dieu montre son amour, par exemple Romains 8:16 et Moïse 1:39."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez à chacun d’écrire une courte phrase : Dieu est notre Père aimant et veut que tous ses enfants reviennent à lui."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi une personne devrait comprendre cela avant d’apprendre d’autres doctrines."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : Dieu est un Père aimant qui entend la prière et veut nous ramener à lui."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Oui, Dieu existe. Il est notre Père et il vous aime. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez deux ou trois participants répondre à la question de l’ami."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "L’Évangile bénit les familles",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "doc",
+     "title": "La famille : Déclaration au monde, les points clés",
+     "text": "La déclaration tient en une page et dit ce que Dieu a révélé sur la famille. Dites avec vos mots : la famille est ordonnée de Dieu. Le mariage entre un homme et une femme est essentiel à son plan éternel. Le bonheur dans la vie de famille a le plus de chances d’être atteint quand il repose sur les enseignements du Seigneur Jésus-Christ. Elle dit aussi que les parents ont le devoir sacré d’élever leurs enfants dans l’amour et la droiture, de subvenir à leurs besoins et de leur enseigner à s’aimer et à se servir les uns les autres. Chaque participant lit son exemplaire et marque ce qui le touche."
+    },
+    {
+     "t": "read",
+     "text": "Laissez les participants lire « La famille : Déclaration au monde » et marquer les expressions qui montrent le rôle du mariage et de la famille dans le plan de Dieu."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez à l’un d’eux de les écrire au tableau."
+    },
+    {
+     "t": "read",
+     "text": "Lisez cette déclaration du président Boyd K. Packer, « The Father and the Family », conférence générale, avril 1994 : « Le but ultime de l’adversaire … est de perturber, de troubler et de détruire le foyer et la famille » (voir Apocalypse 12:12)."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi la famille est une telle cible et comment la déclaration aide un missionnaire à distinguer le plan de Dieu des tendances du monde."
+    },
+    {
+     "t": "say",
+     "text": "Gardez l’accent sur le plan de Dieu et ne vous attardez pas sur les tendances du monde."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : le mariage et la famille sont ordonnés de Dieu et centraux dans son plan."
+    },
+    {
+     "t": "example",
+     "text": "Montrez la Déclaration. Dites : « Le plan de Dieu place la famille au centre. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez chacun marquer des expressions avant de parler."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Les prophètes et les dispensations",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Expliquez que l’appel de prophètes est une façon dont Dieu montre son amour."
+    },
+    {
+     "t": "read",
+     "text": "Lisez ce que l’élder M. Russell Ballard a enseigné dans « His Word Ye Shall Receive », conférence générale, avril 2001 : « Si vous écoutez le prophète vivant et les apôtres, et si vous suivez nos conseils, vous ne vous égarerez pas. » Lisez Doctrine et Alliances 1:37–38, Amos 3:7 et 1 Néphi 3:7."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez quelles bénédictions viennent à ceux qui suivent le prophète du Seigneur."
+    },
+    {
+     "t": "say",
+     "text": "Enseignez le schéma : Dieu appelle un prophète, l’Évangile est enseigné, les gens s’en détournent et Dieu appelle de nouveau un prophète. Une période où Dieu a un prophète avec les clés de la prêtrise s’appelle une dispensation."
+    },
+    {
+     "t": "ask",
+     "text": "Demandez pourquoi il est utile à une personne qui s’informe de savoir que les dispensations précédentes se sont terminées par l’apostasie."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : les prophètes montrent l’amour de Dieu ; ceux qui les suivent sont bénis."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Dieu a toujours conduit ses enfants par des prophètes vivants. »"
+    },
+    {
+     "t": "tip",
+     "text": "Écrivez le cycle au tableau : prophète, Évangile, éloignement, prophète de nouveau."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Le ministère terrestre du Sauveur",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Demandez ce que Jésus-Christ a fait pour établir son Église."
+    },
+    {
+     "t": "say",
+     "text": "Il a choisi et ordonné des apôtres et leur a donné l’autorité. Son ministère et son rejet ont suivi le schéma des dispensations précédentes. Après la mort du Sauveur et de ses apôtres, les gens sont retombés dans l’apostasie jusqu’à ce que Dieu appelle un prophète pour rétablir l’Évangile."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : ordination, clés et autorité."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Jésus-Christ a choisi des apôtres et leur a donné l’autorité. »"
+    },
+    {
+     "t": "tip",
+     "text": "Demandez ce que signifie l’autorité pour les participants."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "La grande apostasie",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "ask",
+     "text": "Écrivez cette question au tableau : Qu’est-ce qui a mené à la grande apostasie, et qu’en est-il résulté ?"
+    },
+    {
+     "t": "read",
+     "text": "Laissez les participants chercher des réponses."
+    },
+    {
+     "t": "say",
+     "text": "Après la mort de Jésus-Christ et de ses apôtres, des changements que personne n’avait l’autorité de faire se sont glissés dans la doctrine et les pratiques. Avec le temps, les clés et l’autorité de la prêtrise ont été retirées de la terre."
+    },
+    {
+     "t": "read",
+     "text": "Laissez les participants étudier quelques versets sur l’éloignement de la vérité, comme 2 Thessaloniciens 2:3, Amos 8:11–12 et 2 Timothée 4:3–4."
+    },
+    {
+     "t": "board",
+     "text": "Écrivez ce résumé : les prophètes anciens ont annoncé un éloignement de la vérité."
+    },
+    {
+     "t": "say",
+     "text": "Passez ensuite aux étapes de formation, où les participants enseignent l’apostasie à deux."
+    },
+    {
+     "t": "listen",
+     "text": "À écouter : un éloignement, la perte de l’autorité, le besoin d’un rétablissement."
+    },
+    {
+     "t": "example",
+     "text": "Dites : « Après la mort des apôtres, l’autorité a été perdue. L’Évangile devait être rétabli. »"
+    },
+    {
+     "t": "tip",
+     "text": "Laissez lire les versets avant d’expliquer."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }

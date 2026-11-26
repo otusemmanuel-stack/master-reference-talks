@@ -1,5 +1,5 @@
 {
- "schema": 2,
+ "schema": 3,
  "language": "en",
  "id": "lesson-10",
  "number": 10,
@@ -210,6 +210,273 @@
   {
    "show": "Doctrine and Covenants 93:33",
    "ref": "D&C 93:33"
+  }
+ ],
+ "parts": [
+  {
+   "kind": "welcome",
+   "title": "Welcome and review",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
+    },
+    {
+     "t": "ask",
+     "text": "What happened when you tried last lesson’s invitation? Who would like to share?"
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: real experiences, effort made, one thing learned."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
+    },
+    {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    }
+   ]
+  },
+  {
+   "kind": "intro",
+   "title": "Introduction",
+   "w": 4,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "God has a plan for His children. In this lesson learners study our life before earth, the purpose of mortality, and the Fall of Adam and Eve, then practise teaching these truths simply."
+    },
+    {
+     "t": "example",
+     "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
+    },
+    {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Before this life",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read the words of “I Am a Child of God” (Hymns, no. 301) together, then sing it."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what the words teach about life before earth and the purpose of life here."
+    },
+    {
+     "t": "read",
+     "text": "Read President Boyd K. Packer’s thoughts on who we are and what we lived before."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how knowing we lived as God’s spirit children changes the way we see ourselves and others."
+    },
+    {
+     "t": "say",
+     "text": "Teach the truth: when we know we are children of God, our lives gain meaning and purpose."
+    },
+    {
+     "t": "ask",
+     "text": "Ask learners to share how this knowledge has helped them."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: we are spirit children of God with a purpose."
+    },
+    {
+     "t": "example",
+     "text": "Say: “I am a child of God. I lived with Him before I came here.”"
+    },
+    {
+     "t": "tip",
+     "text": "Sing the hymn slowly together."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "God’s plan for His children",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read Moses 1:39 and memorize it together."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what God’s work and glory is."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: God’s plan is to help His children become like Him and have eternal life."
+    },
+    {
+     "t": "read",
+     "text": "Read what Sister Susan W. Tanner taught in “The Sanctity of the Body,” Ensign or Liahona, November 2005: we shouted for joy to take part in this plan, and a physical body is a key step toward becoming like our Father (see Job 38:7; Doctrine and Covenants 130:22; 93:33)."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what we understood before earth that made us eager to come, even knowing the trials."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: immortality and eternal life."
+    },
+    {
+     "t": "example",
+     "text": "Say: “God’s work and glory is to bring us home as His children.”"
+    },
+    {
+     "t": "tip",
+     "text": "Memorize Moses 1:39 line by line."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Agency and the Fall",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "board",
+     "text": "Draw two columns, one before the Fall and one after."
+    },
+    {
+     "t": "read",
+     "text": "Let learners study 2 Nephi 2:22–25 and fill them in."
+    },
+    {
+     "t": "say",
+     "text": "In the garden, Adam and Eve could not have children or know joy and sorrow. After the Fall, they could choose, grow and become parents."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why the Fall is a vital part of God’s plan, and why mortality is needed to receive the blessings He wants for us."
+    },
+    {
+     "t": "read",
+     "text": "Read Moses 1:39 again."
+    },
+    {
+     "t": "say",
+     "text": "Review how to teach the Fall without blame, as a step in God’s plan."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: agency, growth, joy and sorrow."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Before the Fall, Adam and Eve could not have children. After it, they could grow.”"
+    },
+    {
+     "t": "tip",
+     "text": "Fill the two columns together."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Our life on earth",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "read",
+     "text": "Read President Packer’s three-act play comparison in “The Play and the Plan,” Church Educational System fireside, May 1995, or watch the video on the plan of salvation."
+    },
+    {
+     "t": "say",
+     "text": "Act 1 is before earth, act 2 is mortality and act 3 is after death. We are on stage in the middle of act 2 without remembering act 1."
+    },
+    {
+     "t": "ask",
+     "text": "Ask why the play explains why people find it hard to know the purpose of life."
+    },
+    {
+     "t": "ask",
+     "text": "Ask where the script is found."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the answer: the scriptures."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how scripture helps God’s children understand their purpose."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: before earth, mortality, after death."
+    },
+    {
+     "t": "example",
+     "text": "Say: “We are on stage in act two. The scriptures are the script.”"
+    },
+    {
+     "t": "tip",
+     "text": "Draw three acts on the board."
+    }
+   ]
+  },
+  {
+   "kind": "section",
+   "title": "Overcoming sin and death",
+   "w": 8,
+   "blocks": [
+    {
+     "t": "say",
+     "text": "Explain that this life is a time to prepare to meet God (see Alma 12:32–34)."
+    },
+    {
+     "t": "board",
+     "text": "Write on the board: Consequences of sin."
+    },
+    {
+     "t": "ask",
+     "text": "Ask what they are, and how understanding them prepares someone to accept the Atonement."
+    },
+    {
+     "t": "board",
+     "text": "Draw out the truth: sin separates us from God, and the gospel of Jesus Christ lets us be forgiven and return."
+    },
+    {
+     "t": "ask",
+     "text": "Ask how you would explain the purpose of life in one or two sentences."
+    },
+    {
+     "t": "say",
+     "text": "Then pair learners to prepare a five-to-ten-minute lesson, using their own words and scripture. Afterward, ask what each pair did well and what could be better."
+    },
+    {
+     "t": "listen",
+     "text": "Listen for: separation from God, and the need for the Atonement."
+    },
+    {
+     "t": "example",
+     "text": "Say: “Sin separates us from God. The Savior brings us back.”"
+    },
+    {
+     "t": "tip",
+     "text": "Write consequences of sin on the board."
+    }
+   ]
+  },
+  {
+   "kind": "training",
+   "w": 0
+  },
+  {
+   "kind": "closing",
+   "w": 5
   }
  ]
 }
