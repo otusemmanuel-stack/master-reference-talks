@@ -219,6 +219,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -233,10 +237,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -246,16 +246,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Dieu a un plan pour ses enfants. Dans cette leçon, les participants étudient notre vie avant la terre, le but de la condition mortelle et la chute d’Adam et Ève, puis s’exercent à enseigner ces vérités simplement."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -264,6 +264,10 @@
    "title": "Avant cette vie",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Chantez le cantique lentement ensemble."
+    },
     {
      "t": "read",
      "text": "Lisez ensemble les paroles du cantique « Je suis un enfant de Dieu » (Hymnes, n° 301), puis chantez-le."
@@ -295,10 +299,6 @@
     {
      "t": "example",
      "text": "Dites : « Je suis un enfant de Dieu. J’ai vécu avec lui avant de venir ici. »"
-    },
-    {
-     "t": "tip",
-     "text": "Chantez le cantique lentement ensemble."
     }
    ]
   },
@@ -307,6 +307,10 @@
    "title": "Le plan de Dieu pour ses enfants",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Apprenez Moïse 1:39 ligne par ligne."
+    },
     {
      "t": "read",
      "text": "Lisez Moïse 1:39 et apprenez-le ensemble par cœur."
@@ -334,10 +338,6 @@
     {
      "t": "example",
      "text": "Dites : « L’œuvre et la gloire de Dieu, c’est de nous ramener à lui comme ses enfants. »"
-    },
-    {
-     "t": "tip",
-     "text": "Apprenez Moïse 1:39 ligne par ligne."
     }
    ]
   },
@@ -346,6 +346,10 @@
    "title": "Le libre arbitre et la chute",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Remplissez ensemble les deux colonnes."
+    },
     {
      "t": "say",
      "text": "Tracez deux colonnes, l’une avant la chute et l’autre après."
@@ -364,7 +368,7 @@
     },
     {
      "t": "say",
-     "text": "Relisez Moïse 1:39. Revoyez comment enseigner la chute sans blâme, comme une étape du plan de Dieu."
+     "text": "Relisez Moïse 1:39. **Revoyez comment enseigner la chute sans blâme, comme une étape du plan de Dieu.**"
     },
     {
      "t": "listen",
@@ -373,10 +377,6 @@
     {
      "t": "example",
      "text": "Dites : « Avant la chute, Adam et Ève ne pouvaient pas avoir d’enfants. Après, ils ont pu progresser. »"
-    },
-    {
-     "t": "tip",
-     "text": "Remplissez ensemble les deux colonnes."
     }
    ]
   },
@@ -386,12 +386,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Dessinez trois actes au tableau."
+    },
+    {
      "t": "read",
      "text": "Lisez la comparaison du président Packer avec une pièce en trois actes dans « The Play and the Plan », veillée du Département d’éducation de l’Église, mai 1995, ou regardez la vidéo sur le plan du salut."
     },
     {
      "t": "say",
-     "text": "L’acte 1 est avant la terre, l’acte 2 la vie mortelle et l’acte 3 l’après-vie. Nous sommes sur scène au milieu de l’acte 2 sans nous souvenir de l’acte 1."
+     "text": "L’acte 1 est avant la terre, l’acte 2 la vie mortelle et l’acte 3 l’après-vie. **Nous sommes sur scène au milieu de l’acte 2 sans nous souvenir de l’acte 1.**"
     },
     {
      "t": "ask",
@@ -416,10 +420,6 @@
     {
      "t": "example",
      "text": "Dites : « Nous sommes sur scène à l’acte deux. Les Écritures sont le scénario. »"
-    },
-    {
-     "t": "tip",
-     "text": "Dessinez trois actes au tableau."
     }
    ]
   },
@@ -429,12 +429,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Écrivez conséquences du péché au tableau."
+    },
+    {
      "t": "say",
      "text": "Expliquez que cette vie est le temps de se préparer à rencontrer Dieu (voir Alma 12:32–34)."
     },
     {
      "t": "board",
-     "text": "Écrivez au tableau : Conséquences du péché."
+     "text": "Écrivez au tableau : **Conséquences du péché.**"
     },
     {
      "t": "ask",
@@ -450,7 +454,7 @@
     },
     {
      "t": "do",
-     "text": "Formez ensuite des binômes qui préparent une leçon de cinq à dix minutes avec leurs propres mots et les Écritures. Ensuite, demandez ce que chaque binôme a bien fait et ce qui pourrait être amélioré."
+     "text": "Formez ensuite des binômes qui préparent une leçon de cinq à dix minutes avec leurs propres mots et les Écritures. Ensuite, demandez ce que chaque binôme a bien fait et ce qui pourrait être amélioré.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "listen",
@@ -459,10 +463,6 @@
     {
      "t": "example",
      "text": "Dites : « Le péché nous sépare de Dieu. Le Sauveur nous ramène. »"
-    },
-    {
-     "t": "tip",
-     "text": "Écrivez conséquences du péché au tableau."
     }
    ]
   },

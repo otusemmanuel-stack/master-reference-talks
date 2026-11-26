@@ -276,6 +276,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -290,10 +294,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -303,16 +303,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
-     "text": "The Atonement of Jesus Christ is at the center of God’s plan. In this lesson learners see why every person needs it, what blessings it brings, and how to teach it simply: explain it, share a scripture or an experience, and testify."
+     "text": "The Atonement of Jesus Christ is at the center of God’s plan. **In this lesson learners see why every person needs it, what blessings it brings, and how to teach it simply: explain it, share a scripture or an experience, and testify.**"
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -321,6 +321,10 @@
    "title": "Why we need the Atonement",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners say how a person comes to feel this need. Their own words teach each other."
+    },
     {
      "t": "ask",
      "text": "Begin by asking: How does a person come to feel that he or she needs the Savior?"
@@ -339,11 +343,11 @@
     },
     {
      "t": "board",
-     "text": "Write their answers on the board: we all sin, sin separates us from God, we will all die, and we must overcome the natural man (see Mosiah 3:19)."
+     "text": "Write their answers on the board: **we all sin, sin separates us from God, we will all die, and we must overcome the natural man (see Mosiah 3:19).**"
     },
     {
      "t": "say",
-     "text": "Then show the answer. Through the Atonement we escape death and hell (see 2 Nephi 9:10). Everyone will be resurrected, and everyone who repents can be made clean. Without the Savior we would be lost. Bear a short testimony of the wisdom and mercy of God’s plan."
+     "text": "Then show the answer. Through the Atonement we escape death and hell (see 2 Nephi 9:10). Everyone will be resurrected, and everyone who repents can be made clean. **Without the Savior we would be lost.** Bear a short testimony of the wisdom and mercy of God’s plan."
     },
     {
      "t": "listen",
@@ -352,10 +356,6 @@
     {
      "t": "example",
      "text": "Say: “Because of the Fall, we cannot clean ourselves. We need a Savior who can.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners say how a person comes to feel this need. Their own words teach each other."
     }
    ]
   },
@@ -365,12 +365,12 @@
    "w": 8,
    "blocks": [
     {
-     "t": "read",
-     "text": "Read this from Elder Richard G. Scott, “He Lives!"
+     "t": "tip",
+     "text": "Read the quote slowly. Let it rest for a few seconds."
     },
     {
-     "t": "say",
-     "text": "All Glory to His Name!”, general conference, April 2010: “The Atonement gives all the opportunity to overcome the consequences of mistakes made in life.”"
+     "t": "read",
+     "text": "Read this from Elder Richard G. Scott, “He Lives! All Glory to His Name!”, general conference, April 2010: “**The Atonement gives all the opportunity to overcome the consequences of mistakes made in life.**”"
     },
     {
      "t": "ask",
@@ -378,11 +378,11 @@
     },
     {
      "t": "say",
-     "text": "Many young people think the Atonement is only about forgiveness."
+     "text": "**Many young people think the Atonement is only about forgiveness.**"
     },
     {
      "t": "do",
-     "text": "Give learners time to search Mosiah 3:19, Mosiah 4:3, Mosiah 24:12–15, Alma 5:12–13 and Alma 7:11–13 for other blessings."
+     "text": "Give learners time to search Mosiah 3:19, Mosiah 4:3, Mosiah 24:12–15, Alma 5:12–13 and Alma 7:11–13 for other blessings.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "board",
@@ -411,10 +411,6 @@
     {
      "t": "example",
      "text": "Say: “Scott taught that the Atonement gives all people the chance to overcome their mistakes.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the quote slowly. Let it rest for a few seconds."
     }
    ]
   },
@@ -423,6 +419,10 @@
    "title": "Helping others receive its blessings",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Teach the order on the board, then ask a learner to repeat it."
+    },
     {
      "t": "read",
      "text": "Read 2 Nephi 2:6–8."
@@ -433,7 +433,7 @@
     },
     {
      "t": "say",
-     "text": "Elder Jeffrey R. Holland taught that missionaries often say they want people to be baptized, but forget what must come first: faith in the Lord Jesus Christ and repentance (“Missionary Work and the Atonement,” Ensign, March 2001)."
+     "text": "Elder Jeffrey R. **Holland taught that missionaries often say they want people to be baptized, but forget what must come first: faith in the Lord Jesus Christ and repentance (“Missionary Work and the Atonement,” Ensign, March 2001).**"
     },
     {
      "t": "read",
@@ -449,7 +449,7 @@
     },
     {
      "t": "board",
-     "text": "Write this on the board: missionaries teach repentance so that people can receive the full blessings of the Atonement and begin a new life in Christ."
+     "text": "Write this on the board: **missionaries teach repentance so that people can receive the full blessings of the Atonement and begin a new life in Christ.**"
     },
     {
      "t": "listen",
@@ -458,10 +458,6 @@
     {
      "t": "example",
      "text": "Say: “Faith in Christ comes first. Then comes repentance. Then baptism.”"
-    },
-    {
-     "t": "tip",
-     "text": "Teach the order on the board, then ask a learner to repeat it."
     }
    ]
   },
@@ -471,8 +467,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Time each learner: ninety seconds, three steps."
+    },
+    {
      "t": "say",
-     "text": "Teach a simple pattern every missionary can use. First, explain a doctrine in your own words. Second, share a scripture or a personal experience that helps explain it. Third, bear testimony of how you feel about it and why it matters. Then teach how to use scripture in three steps: introduce the passage, read it, and apply it."
+     "text": "**Teach a simple pattern every missionary can use.** First, explain a doctrine in your own words. Second, share a scripture or a personal experience that helps explain it. Third, bear testimony of how you feel about it and why it matters. Then teach how to use scripture in three steps: introduce the passage, read it, and apply it."
     },
     {
      "t": "board",
@@ -480,7 +480,7 @@
     },
     {
      "t": "do",
-     "text": "Give a few minutes to prepare, then let learners teach each other."
+     "text": "Give a few minutes to prepare, then let learners teach each other.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "listen",
@@ -489,10 +489,6 @@
     {
      "t": "example",
      "text": "Teach the pattern: Explain, Share, Testify. Try it on the Atonement: “It cleans me. I read Alma 7:11–13. I know the Savior loves me.”"
-    },
-    {
-     "t": "tip",
-     "text": "Time each learner: ninety seconds, three steps."
     }
    ]
   },

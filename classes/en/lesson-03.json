@@ -230,6 +230,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -244,10 +248,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -257,16 +257,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
-     "text": "A missionary grows by learning from the Holy Ghost every day. In this lesson learners see why gospel study matters, how to study so the Spirit can teach them, and how living what they learn deepens their faith."
+     "text": "**A missionary grows by learning from the Holy Ghost every day.** In this lesson learners see why gospel study matters, how to study so the Spirit can teach them, and how living what they learn deepens their faith."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -275,6 +275,10 @@
    "title": "Why gospel study matters",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners say how Hyrum’s question fits their own wish to serve."
+    },
     {
      "t": "board",
      "text": "Show the picture of Joseph and Hyrum Smith."
@@ -310,10 +314,6 @@
     {
      "t": "example",
      "text": "Say: “Hyrum wanted to share the gospel, so he asked the Lord. The Lord answered in Doctrine and Covenants 11.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners say how Hyrum’s question fits their own wish to serve."
     }
    ]
   },
@@ -322,6 +322,10 @@
    "title": "A study journal and real intent",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Show your own journal if you keep one. Real pages teach better than talk."
+    },
     {
      "t": "say",
      "text": "A study journal can be a bound book, a notebook, pages in a binder or a notes app."
@@ -332,7 +336,7 @@
     },
     {
      "t": "do",
-     "text": "Invite learners who keep a journal to share how it has helped."
+     "text": "Invite learners who keep a journal to share how it has helped.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "ask",
@@ -353,10 +357,6 @@
     {
      "t": "example",
      "text": "Say: “I write what I feel while I study, then I look back and see how the Lord taught me.”"
-    },
-    {
-     "t": "tip",
-     "text": "Show your own journal if you keep one. Real pages teach better than talk."
     }
    ]
   },
@@ -365,6 +365,10 @@
    "title": "How the Holy Ghost teaches",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Walk the class through one passage step by step."
+    },
     {
      "t": "read",
      "text": "Read this from Elder D. Todd Christofferson, “When Thou Art Converted,” Ensign, May 2004: study is more than reading."
@@ -379,7 +383,7 @@
     },
     {
      "t": "do",
-     "text": "In pairs, study Doctrine and Covenants 8:2–3, Doctrine and Covenants 9:7–8, Doctrine and Covenants 11:12–14 and Doctrine and Covenants 138:1–2, 11."
+     "text": "In pairs, study Doctrine and Covenants 8:2–3, Doctrine and Covenants 9:7–8, Doctrine and Covenants 11:12–14 and Doctrine and Covenants 138:1–2, 11.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "ask",
@@ -396,10 +400,6 @@
     {
      "t": "example",
      "text": "Say: “I read a few verses, stop, think, pray and write one impression.”"
-    },
-    {
-     "t": "tip",
-     "text": "Walk the class through one passage step by step."
     }
    ]
   },
@@ -408,6 +408,10 @@
    "title": "Live what you learn",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask each learner to name one verse they will live this week."
+    },
     {
      "t": "read",
      "text": "Read John 7:17."
@@ -435,10 +439,6 @@
     {
      "t": "example",
      "text": "Say: “If I want to know whether it is true, I try to live it.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask each learner to name one verse they will live this week."
     }
    ]
   },
@@ -448,12 +448,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Role-play the invitation in pairs."
+    },
+    {
      "t": "say",
      "text": "Explain that attending church helps a person feel the Spirit, grow closer to God and prepare for baptism."
     },
     {
      "t": "board",
-     "text": "Show how to invite someone: first share the blessings of coming, then describe what happens in sacrament meeting, then invite with warmth and clarity."
+     "text": "Show how to invite someone: **first share the blessings of coming, then describe what happens in sacrament meeting, then invite with warmth and clarity.**"
     },
     {
      "t": "say",
@@ -466,10 +470,6 @@
     {
      "t": "example",
      "text": "Say: “Come this Sunday. You will hear the sacrament prayers and meet people who care. I will sit with you.”"
-    },
-    {
-     "t": "tip",
-     "text": "Role-play the invitation in pairs."
     }
    ]
   },

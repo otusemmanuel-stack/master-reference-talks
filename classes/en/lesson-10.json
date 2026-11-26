@@ -219,6 +219,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -233,10 +237,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -246,16 +246,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "God has a plan for His children. In this lesson learners study our life before earth, the purpose of mortality, and the Fall of Adam and Eve, then practise teaching these truths simply."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -264,6 +264,10 @@
    "title": "Before this life",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Sing the hymn slowly together."
+    },
     {
      "t": "read",
      "text": "Read the words of “I Am a Child of God” (Hymns, no. 301) together, then sing it."
@@ -295,10 +299,6 @@
     {
      "t": "example",
      "text": "Say: “I am a child of God. I lived with Him before I came here.”"
-    },
-    {
-     "t": "tip",
-     "text": "Sing the hymn slowly together."
     }
    ]
   },
@@ -307,6 +307,10 @@
    "title": "God’s plan for His children",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Memorize Moses 1:39 line by line."
+    },
     {
      "t": "read",
      "text": "Read Moses 1:39 and memorize it together."
@@ -317,7 +321,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: God’s plan is to help His children become like Him and have eternal life."
+     "text": "Draw out the truth: **God’s plan is to help His children become like Him and have eternal life.**"
     },
     {
      "t": "read",
@@ -334,10 +338,6 @@
     {
      "t": "example",
      "text": "Say: “God’s work and glory is to bring us home as His children.”"
-    },
-    {
-     "t": "tip",
-     "text": "Memorize Moses 1:39 line by line."
     }
    ]
   },
@@ -346,6 +346,10 @@
    "title": "Agency and the Fall",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Fill the two columns together."
+    },
     {
      "t": "board",
      "text": "Draw two columns, one before the Fall and one after."
@@ -368,7 +372,7 @@
     },
     {
      "t": "say",
-     "text": "Review how to teach the Fall without blame, as a step in God’s plan."
+     "text": "**Review how to teach the Fall without blame, as a step in God’s plan.**"
     },
     {
      "t": "listen",
@@ -377,10 +381,6 @@
     {
      "t": "example",
      "text": "Say: “Before the Fall, Adam and Eve could not have children. After it, they could grow.”"
-    },
-    {
-     "t": "tip",
-     "text": "Fill the two columns together."
     }
    ]
   },
@@ -390,12 +390,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Draw three acts on the board."
+    },
+    {
      "t": "read",
      "text": "Read President Packer’s three-act play comparison in “The Play and the Plan,” Church Educational System fireside, May 1995, or watch the video on the plan of salvation."
     },
     {
      "t": "say",
-     "text": "Act 1 is before earth, act 2 is mortality and act 3 is after death. We are on stage in the middle of act 2 without remembering act 1."
+     "text": "Act 1 is before earth, act 2 is mortality and act 3 is after death. **We are on stage in the middle of act 2 without remembering act 1.**"
     },
     {
      "t": "ask",
@@ -407,7 +411,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the answer: the scriptures."
+     "text": "Draw out the answer: **the scriptures.**"
     },
     {
      "t": "ask",
@@ -420,10 +424,6 @@
     {
      "t": "example",
      "text": "Say: “We are on stage in act two. The scriptures are the script.”"
-    },
-    {
-     "t": "tip",
-     "text": "Draw three acts on the board."
     }
    ]
   },
@@ -433,12 +433,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Write consequences of sin on the board."
+    },
+    {
      "t": "say",
      "text": "Explain that this life is a time to prepare to meet God (see Alma 12:32–34)."
     },
     {
      "t": "board",
-     "text": "Write on the board: Consequences of sin."
+     "text": "Write on the board: **Consequences of sin.**"
     },
     {
      "t": "ask",
@@ -446,7 +450,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: sin separates us from God, and the gospel of Jesus Christ lets us be forgiven and return."
+     "text": "Draw out the truth: **sin separates us from God, and the gospel of Jesus Christ lets us be forgiven and return.**"
     },
     {
      "t": "ask",
@@ -463,10 +467,6 @@
     {
      "t": "example",
      "text": "Say: “Sin separates us from God. The Savior brings us back.”"
-    },
-    {
-     "t": "tip",
-     "text": "Write consequences of sin on the board."
     }
    ]
   },

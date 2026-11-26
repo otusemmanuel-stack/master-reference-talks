@@ -223,6 +223,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -237,10 +241,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -250,16 +250,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Les temples et l’histoire familiale relient les enfants de Dieu à travers les générations. Dans cette leçon, les participants voient pourquoi le temple compte pour un missionnaire, comment Dieu rachète les morts et comment l’histoire familiale peut ouvrir des portes à l’Évangile."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -268,6 +268,10 @@
    "title": "La dotation du temple",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Montrez l’image d’un temple proche de chez vous."
+    },
     {
      "t": "board",
      "text": "Montrez une image d’un temple proche."
@@ -307,10 +311,6 @@
     {
      "t": "example",
      "text": "Dites : « Le temple nous bénit d’une puissance venue de Dieu. »"
-    },
-    {
-     "t": "tip",
-     "text": "Montrez l’image d’un temple proche de chez vous."
     }
    ]
   },
@@ -319,6 +319,10 @@
    "title": "Le plan de Dieu pour racheter les morts",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Lisez les versets lentement."
+    },
     {
      "t": "read",
      "text": "Lisez 1 Pierre 3:18–20 ; 4:6 pour montrer que l’Évangile a été prêché aux morts. Lisez ensuite Doctrine et Alliances 138:29–35, tiré de la vision du monde des esprits du président Joseph F. Smith."
@@ -342,10 +346,6 @@
     {
      "t": "example",
      "text": "Dites : « L’Évangile est aussi pour les morts, et le temple le rend possible. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez les versets lentement."
     }
    ]
   },
@@ -354,6 +354,10 @@
    "title": "La mission d’Élie",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Écrivez L’esprit d’Élie au tableau."
+    },
     {
      "t": "say",
      "text": "Expliquez qu’Élie était un prophète de l’Ancien Testament. Malachie a annoncé son retour (voir Malachie 4:5–6)."
@@ -393,10 +397,6 @@
     {
      "t": "example",
      "text": "Dites : « Élie a rétabli les clés du scellement, pour que les familles soient ensemble pour toujours. »"
-    },
-    {
-     "t": "tip",
-     "text": "Écrivez L’esprit d’Élie au tableau."
     }
    ]
   },
@@ -405,6 +405,10 @@
    "title": "Participer à l’histoire familiale",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Montrez un arbre en éventail."
+    },
     {
      "t": "board",
      "text": "Montrez un tableau généalogique ou un arbre en éventail rempli."
@@ -440,10 +444,6 @@
     {
      "t": "example",
      "text": "Dites : « Je demanderai à ma grand-mère de me raconter son histoire. »"
-    },
-    {
-     "t": "tip",
-     "text": "Montrez un arbre en éventail."
     }
    ]
   },
@@ -452,6 +452,10 @@
    "title": "Inviter les autres par l’histoire familiale",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Exercez-vous chacun avec une question."
+    },
     {
      "t": "say",
      "text": "Partagez ce que le président Gordon B. Hinckley a dit de l’intérêt croissant pour l’histoire familiale dans le monde."
@@ -474,7 +478,7 @@
     },
     {
      "t": "do",
-     "text": "Les binômes s’exercent à une courte conversation, puis donnent des avis sur ce qui a bien fonctionné."
+     "text": "Les binômes s’exercent à une courte conversation, puis donnent des avis sur ce qui a bien fonctionné.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "board",
@@ -491,10 +495,6 @@
     {
      "t": "example",
      "text": "Dites : « L’histoire familiale ouvre des portes. Les gens aiment parler de leur famille. »"
-    },
-    {
-     "t": "tip",
-     "text": "Exercez-vous chacun avec une question."
     }
    ]
   },

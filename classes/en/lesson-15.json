@@ -223,6 +223,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -237,10 +241,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -250,16 +250,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "Temples and family history connect God’s children across generations. In this lesson learners see why the temple matters to a missionary, how God redeems the dead, and how family history can open doors to the gospel."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -268,6 +268,10 @@
    "title": "The temple endowment",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Show a picture of a temple near you."
+    },
     {
      "t": "board",
      "text": "Show a picture of a nearby temple."
@@ -290,7 +294,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: receiving temple blessings gives power to worthy missionaries."
+     "text": "Draw out the truth: **receiving temple blessings gives power to worthy missionaries.**"
     },
     {
      "t": "ask",
@@ -307,10 +311,6 @@
     {
      "t": "example",
      "text": "Say: “The temple blesses us with power from God.”"
-    },
-    {
-     "t": "tip",
-     "text": "Show a picture of a temple near you."
     }
    ]
   },
@@ -319,6 +319,10 @@
    "title": "God’s plan to redeem the dead",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Read the verses slowly."
+    },
     {
      "t": "read",
      "text": "Read 1 Peter 3:18–20; 4:6 to show that the gospel was preached to the dead."
@@ -346,10 +350,6 @@
     {
      "t": "example",
      "text": "Say: “The gospel is for the dead too, and the temple makes it possible.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the verses slowly."
     }
    ]
   },
@@ -358,6 +358,10 @@
    "title": "The mission of Elijah",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Write the Spirit of Elijah on the board."
+    },
     {
      "t": "say",
      "text": "Explain that Elijah was an Old Testament prophet. Malachi foretold his return (see Malachi 4:5–6)."
@@ -397,10 +401,6 @@
     {
      "t": "example",
      "text": "Say: “Elijah restored the sealing keys, so families can be together forever.”"
-    },
-    {
-     "t": "tip",
-     "text": "Write the Spirit of Elijah on the board."
     }
    ]
   },
@@ -409,6 +409,10 @@
    "title": "Taking part in family history",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Show a fan chart."
+    },
     {
      "t": "board",
      "text": "Show a completed pedigree chart or fan chart."
@@ -444,10 +448,6 @@
     {
      "t": "example",
      "text": "Say: “I will ask my grandmother to tell me her story.”"
-    },
-    {
-     "t": "tip",
-     "text": "Show a fan chart."
     }
    ]
   },
@@ -456,6 +456,10 @@
    "title": "Inviting others through family history",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Practise one question each."
+    },
     {
      "t": "say",
      "text": "Share what President Gordon B. Hinckley said about the growing interest in family history in the world."
@@ -478,7 +482,7 @@
     },
     {
      "t": "do",
-     "text": "Let pairs practise a short conversation, then give feedback on what went well."
+     "text": "Let pairs practise a short conversation, then give feedback on what went well.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "board",
@@ -495,10 +499,6 @@
     {
      "t": "example",
      "text": "Say: “Family history opens doors. People love talking about their family.”"
-    },
-    {
-     "t": "tip",
-     "text": "Practise one question each."
     }
    ]
   },

@@ -242,6 +242,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -256,10 +260,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -269,16 +269,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Dieu a répondu à la prière d’un garçon dans un bosquet et a commencé le Rétablissement. Dans cette leçon, les participants étudient la Première Vision, voient pourquoi elle compte et s’exercent à l’enseigner et à inviter les autres à lire le Livre de Mormon."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -287,6 +287,10 @@
    "title": "Un témoignage qui touche le cœur",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Racontez l’histoire lentement. Laissez le silence enseigner."
+    },
     {
      "t": "say",
      "text": "Racontez l’histoire d’Elmer Pollard que le président Thomas S. Monson a partagée dans « Come, All Ye Sons of God », conférence générale, avril 2013. Le simple témoignage d’un missionnaire sur le prophète Joseph Smith a touché son cœur."
@@ -306,10 +310,6 @@
     {
      "t": "example",
      "text": "Dites : « Le simple témoignage d’un missionnaire sur Joseph Smith a touché le cœur d’Elmer Pollard. »"
-    },
-    {
-     "t": "tip",
-     "text": "Racontez l’histoire lentement. Laissez le silence enseigner."
     }
    ]
   },
@@ -318,6 +318,10 @@
    "title": "La recherche de Joseph Smith",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez dire en quoi ses questions ressemblent à celles d’aujourd’hui."
+    },
     {
      "t": "scripture",
      "title": "Joseph Smith, Histoire 1:1–20",
@@ -358,10 +362,6 @@
     {
      "t": "example",
      "text": "Dites : « Joseph avait quatorze ans et de vraies questions. Il s’est tourné vers les Écritures et vers Dieu. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez dire en quoi ses questions ressemblent à celles d’aujourd’hui."
     }
    ]
   },
@@ -371,8 +371,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Faites une pause après chaque verset. Demandez ce qu’il ajoute."
+    },
+    {
      "t": "read",
-     "text": "Laissez les participants lire Joseph Smith, Histoire 1:14–19 seuls."
+     "text": "**Laissez les participants lire Joseph Smith, Histoire 1:14–19 seuls.**"
     },
     {
      "t": "ask",
@@ -401,10 +405,6 @@
     {
      "t": "example",
      "text": "Dites : « Joseph a vu le Père et le Fils. Ce sont deux Êtres. Dieu exauce la prière. »"
-    },
-    {
-     "t": "tip",
-     "text": "Faites une pause après chaque verset. Demandez ce qu’il ajoute."
     }
    ]
   },
@@ -413,6 +413,10 @@
    "title": "Le schéma du Rétablissement",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Dessinez le schéma au tableau."
+    },
     {
      "t": "say",
      "text": "Reliez cette leçon à la précédente. Le Seigneur a promis de rétablir toutes choses dans la dispensation de la plénitude des temps (voir Éphésiens 1:10)."
@@ -432,10 +436,6 @@
     {
      "t": "example",
      "text": "Dites : « Dieu a déjà rétabli l’Évangile, et il l’a fait de nouveau. »"
-    },
-    {
-     "t": "tip",
-     "text": "Dessinez le schéma au tableau."
     }
    ]
   },
@@ -444,6 +444,10 @@
    "title": "Inviter les autres à lire le Livre de Mormon",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Jouez l’invitation à deux."
+    },
     {
      "t": "read",
      "text": "Lisez Moroni 10:3–5."
@@ -471,10 +475,6 @@
     {
      "t": "example",
      "text": "Dites : « Lisez ceci, demandez à Dieu, et il vous répondra. »"
-    },
-    {
-     "t": "tip",
-     "text": "Jouez l’invitation à deux."
     }
    ]
   },

@@ -221,6 +221,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -235,10 +239,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -248,16 +248,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "L’expiation de Jésus-Christ est au centre du plan du salut. Dans cette leçon, les participants étudient comment le Sauveur surmonte les effets de la chute, sentent son amour et s’exercent à enseigner tout le plan avec un schéma simple."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -266,6 +266,10 @@
    "title": "L’expiation",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Donnez un temps de lecture silencieuse avant de parler."
+    },
     {
      "t": "ask",
      "text": "Demandez aux participants de lire Jean 3:16 en silence et de penser à la façon dont ce seul verset résume le plan du salut."
@@ -284,15 +288,15 @@
     },
     {
      "t": "board",
-     "text": "Écrivez les trois au tableau avec ces Écritures : 1 Corinthiens 15:20–22 et Alma 11:42–44 pour la mort physique ; Alma 34:8–9 et Doctrine et Alliances 19:15–19 pour le péché ; Ésaïe 53:3–5 et Alma 7:11–13 pour la souffrance."
+     "text": "Écrivez les trois au tableau avec ces Écritures : **1 Corinthiens 15:20–22 et Alma 11:42–44 pour la mort physique ; Alma 34:8–9 et Doctrine et Alliances 19:15–19 pour le péché ; Ésaïe 53:3–5 et Alma 7:11–13 pour la souffrance.**"
     },
     {
      "t": "do",
-     "text": "Divisez la classe en trois groupes, un pour chaque effet."
+     "text": "Divisez la classe en trois groupes, un pour chaque effet.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
-     "text": "Chaque groupe étudie ses passages et explique à la classe comment le Sauveur surmonte cet effet."
+     "text": "**Chaque groupe étudie ses passages et explique à la classe comment le Sauveur surmonte cet effet.**"
     },
     {
      "t": "listen",
@@ -301,10 +305,6 @@
     {
      "t": "example",
      "text": "Dites : « Jean 3:16 raconte tout le plan en un verset. »"
-    },
-    {
-     "t": "tip",
-     "text": "Donnez un temps de lecture silencieuse avant de parler."
     }
    ]
   },
@@ -313,6 +313,10 @@
    "title": "Sentir la vérité",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez : Qu’avez-vous ressenti ? Attendez les réponses."
+    },
     {
      "t": "board",
      "text": "Montrez la vidéo sur l’amour de Dieu pour le monde."
@@ -344,10 +348,6 @@
     {
      "t": "example",
      "text": "Dites : « Le Sauveur nous aime, et il l’a prouvé. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez : Qu’avez-vous ressenti ? Attendez les réponses."
     }
    ]
   },
@@ -357,12 +357,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Laissez chacun le dessiner."
+    },
+    {
      "t": "read",
      "text": "Laissez les participants étudier le schéma du plan du salut et dessiner leur propre version."
     },
     {
      "t": "say",
-     "text": "Ils étudient une section à la fois et notent ce qu’une personne qui s’informe doit savoir dans chaque partie."
+     "text": "**Ils étudient une section à la fois et notent ce qu’une personne qui s’informe doit savoir dans chaque partie.**"
     },
     {
      "t": "ask",
@@ -387,10 +391,6 @@
     {
      "t": "example",
      "text": "Dessinez le plan : avant la terre, la terre, le jugement, les royaumes de gloire."
-    },
-    {
-     "t": "tip",
-     "text": "Laissez chacun le dessiner."
     }
    ]
   },
@@ -400,16 +400,20 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Donnez une limite de temps aux binômes."
+    },
+    {
      "t": "say",
      "text": "Expliquez que les familles font partie du plan de Dieu et continuent au-delà de la mort, ce qui est l’une des grandes doctrines du Rétablissement."
     },
     {
      "t": "do",
-     "text": "Les binômes se préparent à enseigner le plan du salut à quelqu’un avec le tableau qu’ils ont fait ou le schéma."
+     "text": "Les binômes se préparent à enseigner le plan du salut à quelqu’un avec le tableau qu’ils ont fait ou le schéma.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
-     "text": "Insistez : parlez avec vos propres mots. Après chaque enseignement, demandez ce qui s’est bien passé et ce qui pourrait être amélioré. Terminez par votre témoignage."
+     "text": "Insistez : parlez avec vos propres mots. **Après chaque enseignement, demandez ce qui s’est bien passé et ce qui pourrait être amélioré.** Terminez par votre témoignage."
     },
     {
      "t": "listen",
@@ -418,10 +422,6 @@
     {
      "t": "example",
      "text": "Dites : « Les familles peuvent continuer après la mort. C’est une bonne nouvelle. »"
-    },
-    {
-     "t": "tip",
-     "text": "Donnez une limite de temps aux binômes."
     }
    ]
   },

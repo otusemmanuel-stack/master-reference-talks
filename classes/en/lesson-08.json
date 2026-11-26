@@ -242,6 +242,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -256,10 +260,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -269,16 +269,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "God answered a boy’s prayer in a grove of trees and began the Restoration. In this lesson learners study the First Vision, see why it matters, and practise teaching it and inviting others to read the Book of Mormon."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -287,6 +287,10 @@
    "title": "A testimony that reaches the heart",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Tell the story slowly. Let the quiet do the teaching."
+    },
     {
      "t": "say",
      "text": "Tell the story President Thomas S. Monson shared in “Come, All Ye Sons of God,” general conference, April 2013, about Elmer Pollard. A missionary’s simple testimony of the Prophet Joseph Smith reached his heart."
@@ -306,10 +310,6 @@
     {
      "t": "example",
      "text": "Say: “A missionary’s simple testimony of Joseph Smith reached Elmer Pollard’s heart.”"
-    },
-    {
-     "t": "tip",
-     "text": "Tell the story slowly. Let the quiet do the teaching."
     }
    ]
   },
@@ -318,6 +318,10 @@
    "title": "Joseph Smith’s search",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners say how his questions match questions today."
+    },
     {
      "t": "scripture",
      "title": "Joseph Smith—History 1:1–20",
@@ -358,10 +362,6 @@
     {
      "t": "example",
      "text": "Say: “Joseph was fourteen and had real questions. He turned to the scriptures and to God.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners say how his questions match questions today."
     }
    ]
   },
@@ -370,6 +370,10 @@
    "title": "The First Vision",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Pause after each verse. Ask what the verse adds."
+    },
     {
      "t": "read",
      "text": "Let learners read Joseph Smith—History 1:14–19 on their own."
@@ -401,10 +405,6 @@
     {
      "t": "example",
      "text": "Say: “Joseph saw the Father and the Son. They are two Beings. God answers prayer.”"
-    },
-    {
-     "t": "tip",
-     "text": "Pause after each verse. Ask what the verse adds."
     }
    ]
   },
@@ -413,6 +413,10 @@
    "title": "The pattern of the Restoration",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Draw the pattern on the board."
+    },
     {
      "t": "say",
      "text": "Connect this lesson to the last one. The Lord promised to restore all things in the dispensation of the fullness of times (see Ephesians 1:10)."
@@ -432,10 +436,6 @@
     {
      "t": "example",
      "text": "Say: “God has restored the gospel before, and He has done it again.”"
-    },
-    {
-     "t": "tip",
-     "text": "Draw the pattern on the board."
     }
    ]
   },
@@ -444,6 +444,10 @@
    "title": "Inviting others to read the Book of Mormon",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Role-play the invitation in pairs."
+    },
     {
      "t": "read",
      "text": "Read Moroni 10:3–5."
@@ -467,10 +471,6 @@
     {
      "t": "example",
      "text": "Say: “Read this, ask God, and He will tell you.”"
-    },
-    {
-     "t": "tip",
-     "text": "Role-play the invitation in pairs."
     }
    ]
   },

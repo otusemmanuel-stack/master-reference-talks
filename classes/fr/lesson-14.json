@@ -237,6 +237,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -251,10 +255,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -264,16 +264,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Après la foi et le repentir viennent le baptême et le don du Saint-Esprit, puis toute une vie à persévérer jusqu’à la fin. Dans cette leçon, les participants étudient ces doctrines et s’exercent à les enseigner."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -282,6 +282,10 @@
    "title": "Le baptême, notre première alliance",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez la moitié de la classe définir chaque mot."
+    },
     {
      "t": "board",
      "text": "Montrez une image de Jean baptisant Jésus et lisez Matthieu 3:13–17."
@@ -292,7 +296,7 @@
     },
     {
      "t": "board",
-     "text": "Écrivez deux mots au tableau : ordonnance et alliance."
+     "text": "Écrivez deux mots au tableau : **ordonnance et alliance.**"
     },
     {
      "t": "say",
@@ -333,10 +337,6 @@
     {
      "t": "example",
      "text": "Dites : « Le baptême est une ordonnance faite par autorité et une alliance avec Dieu. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez la moitié de la classe définir chaque mot."
     }
    ]
   },
@@ -345,6 +345,10 @@
    "title": "Être prêt pour le baptême",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Donnez du temps pour écrire."
+    },
     {
      "t": "read",
      "text": "Lisez Doctrine et Alliances 20:37."
@@ -359,7 +363,7 @@
     },
     {
      "t": "do",
-     "text": "Donnez du temps pour écrire comment une personne qui s’informe montre qu’elle est prête."
+     "text": "Donnez du temps pour écrire comment une personne qui s’informe montre qu’elle est prête.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "board",
@@ -367,7 +371,7 @@
     },
     {
      "t": "do",
-     "text": "Les binômes préparent une courte leçon sur le baptême avec une ou deux Écritures."
+     "text": "Les binômes préparent une courte leçon sur le baptême avec une ou deux Écritures.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
@@ -380,10 +384,6 @@
     {
      "t": "example",
      "text": "Dites : « Venez avec un cœur brisé et un esprit contrit, et recevez l’Esprit du Christ. »"
-    },
-    {
-     "t": "tip",
-     "text": "Donnez du temps pour écrire."
     }
    ]
   },
@@ -393,8 +393,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Écrivez les deux parties au tableau."
+    },
+    {
      "t": "say",
-     "text": "Partagez l’enseignement du prophète Joseph Smith : un baptême sans le don du Saint-Esprit n’est qu’un demi-baptême."
+     "text": "**Partagez l’enseignement du prophète Joseph Smith : un baptême sans le don du Saint-Esprit n’est qu’un demi-baptême.**"
     },
     {
      "t": "ask",
@@ -410,7 +414,7 @@
     },
     {
      "t": "board",
-     "text": "Écrivez : Naître de nouveau."
+     "text": "Écrivez : **Naître de nouveau.**"
     },
     {
      "t": "say",
@@ -430,7 +434,7 @@
     },
     {
      "t": "do",
-     "text": "Les binômes préparent ensuite une courte leçon sur le don du Saint-Esprit avec une ou deux Écritures et l’enseignent à un autre binôme."
+     "text": "Les binômes préparent ensuite une courte leçon sur le don du Saint-Esprit avec une ou deux Écritures et l’enseignent à un autre binôme.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "listen",
@@ -439,10 +443,6 @@
     {
      "t": "example",
      "text": "Dites : « Né d’eau et d’Esprit. »"
-    },
-    {
-     "t": "tip",
-     "text": "Écrivez les deux parties au tableau."
     }
    ]
   },
@@ -452,8 +452,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Dessinez la porte et le sentier."
+    },
+    {
      "t": "read",
-     "text": "Lisez 2 Néphi 31:17 et demandez comment Néphi a appelé la porte. Lisez 2 Néphi 31:18–20 et demandez ce qu’il y a au-delà de la porte et ce qui doit suivre le baptême."
+     "text": "Lisez 2 Néphi 31:17 et demandez comment Néphi a appelé la porte. **Lisez 2 Néphi 31:18–20 et demandez ce qu’il y a au-delà de la porte et ce qui doit suivre le baptême.**"
     },
     {
      "t": "ask",
@@ -474,10 +478,6 @@
     {
      "t": "example",
      "text": "Dites : « Le baptême est la porte. Persévérer est le sentier. »"
-    },
-    {
-     "t": "tip",
-     "text": "Dessinez la porte et le sentier."
     }
    ]
   },

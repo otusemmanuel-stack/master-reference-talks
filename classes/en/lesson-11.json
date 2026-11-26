@@ -221,6 +221,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -235,10 +239,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -248,16 +248,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "The Atonement of Jesus Christ is the center of the plan of salvation. In this lesson learners study how the Savior overcomes the effects of the Fall, feel His love, and practise teaching the whole plan with a simple diagram."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -266,6 +266,10 @@
    "title": "The Atonement",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Give silent reading time before talk."
+    },
     {
      "t": "ask",
      "text": "Ask learners to read John 3:16 in silence and think how this one verse sums up the plan of salvation."
@@ -284,11 +288,11 @@
     },
     {
      "t": "board",
-     "text": "Write the three on the board with these scriptures: 1 Corinthians 15:20–22 and Alma 11:42–44 for physical death; Alma 34:8–9 and Doctrine and Covenants 19:15–19 for sin; Isaiah 53:3–5 and Alma 7:11–13 for suffering."
+     "text": "Write the three on the board with these scriptures: **1 Corinthians 15:20–22 and Alma 11:42–44 for physical death; Alma 34:8–9 and Doctrine and Covenants 19:15–19 for sin; Isaiah 53:3–5 and Alma 7:11–13 for suffering.**"
     },
     {
      "t": "do",
-     "text": "Divide the class into three groups, one for each."
+     "text": "Divide the class into three groups, one for each.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "say",
@@ -301,10 +305,6 @@
     {
      "t": "example",
      "text": "Say: “John 3:16 tells the whole plan in one verse.”"
-    },
-    {
-     "t": "tip",
-     "text": "Give silent reading time before talk."
     }
    ]
   },
@@ -313,6 +313,10 @@
    "title": "Feeling the truth",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask: What did you feel? Wait for answers."
+    },
     {
      "t": "board",
      "text": "Show the video about God’s love for the world."
@@ -340,10 +344,6 @@
     {
      "t": "example",
      "text": "Say: “The Savior loves us, and He proved it.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask: What did you feel? Wait for answers."
     }
    ]
   },
@@ -352,6 +352,10 @@
    "title": "The plan of salvation in one picture",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners draw it themselves."
+    },
     {
      "t": "read",
      "text": "Let learners study the plan of salvation diagram and draw their own version."
@@ -383,10 +387,6 @@
     {
      "t": "example",
      "text": "Draw the plan: before earth, earth, judgment, kingdoms of glory."
-    },
-    {
-     "t": "tip",
-     "text": "Let learners draw it themselves."
     }
    ]
   },
@@ -396,12 +396,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Give pairs a time limit."
+    },
+    {
      "t": "say",
      "text": "Explain that families are part of God’s plan and continue beyond death, which is one of the great doctrines of the Restoration."
     },
     {
      "t": "do",
-     "text": "Pairs prepare to teach someone the plan of salvation using the chart they made or the diagram."
+     "text": "Pairs prepare to teach someone the plan of salvation using the chart they made or the diagram.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "say",
@@ -414,10 +418,6 @@
     {
      "t": "example",
      "text": "Say: “Families can continue beyond death. That is good news.”"
-    },
-    {
-     "t": "tip",
-     "text": "Give pairs a time limit."
     }
    ]
   },

@@ -226,16 +226,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -245,16 +245,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "L’œuvre missionnaire est plus qu’une liste de tâches. Dans cette leçon, chaque participant découvre son vrai but : inviter les gens à venir au Christ et les aider à recevoir l’Évangile rétabli par la foi en Jésus-Christ, le repentir, le baptême, le don du Saint-Esprit et la persévérance jusqu’à la fin."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -263,6 +263,10 @@
    "title": "Le but de l’œuvre missionnaire",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez à chacun de dire le but en une phrase. Une phrase courte se retient mieux."
+    },
     {
      "t": "ask",
      "text": "Demandez aux participants de citer ce que font les missionnaires chaque jour, et écrivez la liste au tableau."
@@ -285,7 +289,7 @@
     },
     {
      "t": "read",
-     "text": "Lisez cette déclaration de l’élder Dallin H. Oaks, « The Purpose of Missionary Work », émission satellite pour les missionnaires, avril 1995 : « Nous invitons tous les hommes à venir au Christ par le repentir, le baptême et la confirmation, afin d’ouvrir les portes du royaume céleste aux fils et aux filles de Dieu. » Demandez pourquoi le but est plus grand que d’ajouter des noms aux registres de l’Église, et lisez ensemble 3 Néphi 11:33–34."
+     "text": "Lisez cette déclaration de l’élder Dallin H. Oaks, « The Purpose of Missionary Work », émission satellite pour les missionnaires, avril 1995 : « **Nous invitons tous les hommes à venir au Christ par le repentir, le baptême et la confirmation, afin d’ouvrir les portes du royaume céleste aux fils et aux filles de Dieu.** » Demandez pourquoi le but est plus grand que d’ajouter des noms aux registres de l’Église, et lisez ensemble 3 Néphi 11:33–34."
     },
     {
      "t": "listen",
@@ -294,10 +298,6 @@
     {
      "t": "example",
      "text": "Dites : « Le but d’un missionnaire est d’inviter à venir au Christ. Je le fais pour que vous ressentiez la joie que je ressens. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez à chacun de dire le but en une phrase. Une phrase courte se retient mieux."
     }
    ]
   },
@@ -307,15 +307,19 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Laissez chaque groupe présenter, puis ajoutez ce qui manque."
+    },
+    {
      "t": "do",
-     "text": "Formez trois groupes."
+     "text": "Formez trois groupes.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
-     "text": "L’un étudie 2 Néphi 31:10–21, un autre 3 Néphi 11:31–41 et le troisième 3 Néphi 27:13–21. Chaque groupe note ce qui est demandé à un disciple du Christ, puis l’ajoute au tableau sous la référence. Faites ressortir deux parties. D’abord, ce que le Christ fait pour nous attirer au Père (voir Alma 33:22 et Doctrine et Alliances 76:40–42)."
+     "text": "L’un étudie 2 Néphi 31:10–21, un autre 3 Néphi 11:31–41 et le troisième 3 Néphi 27:13–21. **Chaque groupe note ce qui est demandé à un disciple du Christ, puis l’ajoute au tableau sous la référence.** Faites ressortir deux parties. D’abord, ce que le Christ fait pour nous attirer au Père (voir Alma 33:22 et Doctrine et Alliances 76:40–42)."
     },
     {
-     "t": "do",
+     "t": "say",
      "text": "Ensuite, ce que nous faisons pour recevoir ses bénédictions : avoir la foi, nous repentir, être baptisés, recevoir le don du Saint-Esprit et persévérer jusqu’à la fin (voir 3 Néphi 27:16–21)."
     },
     {
@@ -341,10 +345,6 @@
     {
      "t": "example",
      "text": "Dessinez quatre étapes au tableau : la foi, le repentir, le baptême, le don du Saint-Esprit. Dites : « Chaque étape mène à la suivante. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez chaque groupe présenter, puis ajoutez ce qui manque."
     }
    ]
   },
@@ -353,6 +353,10 @@
    "title": "Aider les autres à agir avec foi",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Associez chaque invitation à un moment et à un lieu. Une invitation claire est plus facile à accepter."
+    },
     {
      "t": "say",
      "text": "Ce que dit un missionnaire compte, mais ce que la personne en fait compte davantage."
@@ -367,7 +371,7 @@
     },
     {
      "t": "do",
-     "text": "Formez des binômes. Chacun dit à l’autre ce qui rend difficile d’inviter quelqu’un à prendre un engagement, et ce qui lui donnerait de l’assurance."
+     "text": "Formez des binômes. Chacun dit à l’autre ce qui rend difficile d’inviter quelqu’un à prendre un engagement, et ce qui lui donnerait de l’assurance.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "ask",
@@ -380,10 +384,6 @@
     {
      "t": "example",
      "text": "Dites à un ami : « Voudriez-vous lire ce chapitre ce soir et me dire demain ce que vous avez ressenti ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Associez chaque invitation à un moment et à un lieu. Une invitation claire est plus facile à accepter."
     }
    ]
   },
@@ -392,6 +392,10 @@
    "title": "Le plus grand devoir",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez à chacun d’écrire le nom d’une personne qu’il aidera ce mois-ci."
+    },
     {
      "t": "read",
      "text": "Lisez Doctrine et Alliances 18:10 et Doctrine et Alliances 18:15–16."
@@ -402,7 +406,7 @@
     },
     {
      "t": "say",
-     "text": "L’œuvre missionnaire est difficile. L’élder Jeffrey R. Holland a dit : « Je suis convaincu que l’œuvre missionnaire n’est pas facile parce que le salut n’est pas une expérience bon marché » (« Missionary Work and the Atonement », Ensign, mars 2001)."
+     "text": "L’œuvre missionnaire est difficile. L’élder Jeffrey R. Holland a dit : « **Je suis convaincu que l’œuvre missionnaire n’est pas facile parce que le salut n’est pas une expérience bon marché** » (« Missionary Work and the Atonement », Ensign, mars 2001)."
     },
     {
      "t": "ask",
@@ -415,10 +419,6 @@
     {
      "t": "example",
      "text": "Dites : « Aider une personne à venir au Christ vaut plus que tout ce que je pourrais faire seul. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez à chacun d’écrire le nom d’une personne qu’il aidera ce mois-ci."
     }
    ]
   },

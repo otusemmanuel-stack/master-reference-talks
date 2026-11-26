@@ -257,6 +257,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -271,10 +275,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -284,16 +284,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
-     "text": "Only the Holy Ghost can bring true conversion. A missionary can open the way. In this lesson learners study how the Spirit helps those who teach and those who learn, and how to invite Him by how they begin, teach, listen and act."
+     "text": "**Only the Holy Ghost can bring true conversion.** A missionary can open the way. In this lesson learners study how the Spirit helps those who teach and those who learn, and how to invite Him by how they begin, teach, listen and act."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -302,6 +302,10 @@
    "title": "Teaching by the Spirit",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners say what sincerity looks like in a lesson."
+    },
     {
      "t": "say",
      "text": "Tell of President Brigham Young’s conversion, when the simple testimony of a humble man reached his heart."
@@ -312,7 +316,7 @@
     },
     {
      "t": "say",
-     "text": "Help learners see that we must be sincere, speak from the heart and be humble (see Doctrine and Covenants 136:33)."
+     "text": "**Help learners see that we must be sincere, speak from the heart and be humble (see Doctrine and Covenants 136:33).**"
     },
     {
      "t": "read",
@@ -328,7 +332,7 @@
     },
     {
      "t": "say",
-     "text": "The Spirit is not always shown by tears."
+     "text": "**The Spirit is not always shown by tears.**"
     },
     {
      "t": "read",
@@ -341,10 +345,6 @@
     {
      "t": "example",
      "text": "Say: “A humble man told Brigham Young a simple testimony, and the Spirit did the rest.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners say what sincerity looks like in a lesson."
     }
    ]
   },
@@ -354,8 +354,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Give each pair one reference. Share the findings aloud."
+    },
+    {
      "t": "board",
-     "text": "Write these references on the board and let pairs study them: Luke 12:12 (He teaches what to say), John 14:26 (He brings things to remembrance), 1 Nephi 2:16 (He softens hearts), 2 Nephi 33:1 (He carries truth to the heart), Alma 18:16 (He helps us discern thoughts), Moroni 10:5 (He witnesses of truth) and Doctrine and Covenants 6:14–15, 23 (He enlightens the mind and gives peace)."
+     "text": "Write these references on the board and let pairs study them: **Luke 12:12 (He teaches what to say), John 14:26 (He brings things to remembrance), 1 Nephi 2:16 (He softens hearts), 2 Nephi 33:1 (He carries truth to the heart), Alma 18:16 (He helps us discern thoughts), Moroni 10:5 (He witnesses of truth) and Doctrine and Covenants 6:14–15, 23 (He enlightens the mind and gives peace).**"
     },
     {
      "t": "say",
@@ -372,10 +376,6 @@
     {
      "t": "example",
      "text": "Say: “The Spirit teaches what to say, softens hearts and brings truth to mind.”"
-    },
-    {
-     "t": "tip",
-     "text": "Give each pair one reference. Share the findings aloud."
     }
    ]
   },
@@ -384,6 +384,10 @@
    "title": "Inviting the Spirit as you teach",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let each group show their skill in thirty seconds."
+    },
     {
      "t": "say",
      "text": "Four skills help: begin a lesson in a way that invites the Spirit, adjust your teaching to the needs of the person, teach for understanding, and listen. Let four groups each take one skill and say how it invites the Spirit."
@@ -407,10 +411,6 @@
     {
      "t": "example",
      "text": "Say: “Let’s begin with a prayer and a simple question.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let each group show their skill in thirty seconds."
     }
    ]
   },
@@ -419,6 +419,10 @@
    "title": "Helping others recognize the Spirit",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Model how to ask after a verse is read."
+    },
     {
      "t": "say",
      "text": "Conversion needs the investigator to feel the Spirit work within him or her."
@@ -446,10 +450,6 @@
     {
      "t": "example",
      "text": "Say: “Did you feel something different as we read? That feeling is the Spirit.”"
-    },
-    {
-     "t": "tip",
-     "text": "Model how to ask after a verse is read."
     }
    ]
   },
@@ -459,8 +459,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Ask learners for one prompting they have followed."
+    },
+    {
      "t": "read",
-     "text": "Read this from Elder Richard G. Scott, “How to Obtain Revelation and Inspiration for Your Personal Life,” Ensign, May 2012: “We receive help from our Father in Heaven in response to our faith, obedience, and the proper use of agency.”"
+     "text": "Read this from Elder Richard G. Scott, “How to Obtain Revelation and Inspiration for Your Personal Life,” Ensign, May 2012: “**We receive help from our Father in Heaven in response to our faith, obedience, and the proper use of agency.**”"
     },
     {
      "t": "say",
@@ -485,10 +489,6 @@
     {
      "t": "example",
      "text": "Say: “When I felt a prompting, I acted right away, and I was blessed.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners for one prompting they have followed."
     }
    ]
   },

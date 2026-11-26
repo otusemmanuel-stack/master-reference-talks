@@ -214,6 +214,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -228,10 +232,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -241,16 +241,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "L’Évangile de Jésus-Christ est le chemin pour revenir à Dieu. Ses premiers principes sont la foi en Jésus-Christ et le repentir. Dans cette leçon, les participants étudient comment le Sauveur nous purifie et s’exercent à enseigner ces deux principes."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -259,6 +259,10 @@
    "title": "Purifiés par le Christ",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Écrivez les cinq vérités et laissez chacun choisir un verset pour l’une d’elles."
+    },
     {
      "t": "ask",
      "text": "Avant le cours, écrivez au tableau : Que veut dire être pur ?"
@@ -281,7 +285,7 @@
     },
     {
      "t": "do",
-     "text": "Chacun choisit un verset qui montre l’une de ces vérités et explique comment il l’utiliserait avec une personne qui s’informe."
+     "text": "Chacun choisit un verset qui montre l’une de ces vérités et explique comment il l’utiliserait avec une personne qui s’informe.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "listen",
@@ -290,10 +294,6 @@
     {
      "t": "example",
      "text": "Dites : « Ce n’est que par le Sauveur que nous pouvons être purs. »"
-    },
-    {
-     "t": "tip",
-     "text": "Écrivez les cinq vérités et laissez chacun choisir un verset pour l’une d’elles."
     }
    ]
   },
@@ -302,6 +302,10 @@
    "title": "La foi en Jésus-Christ",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Écrivez le principe au tableau."
+    },
     {
      "t": "ask",
      "text": "Quelle est la différence entre aider quelqu’un à venir au Christ et l’aider à devenir membre de l’Église ?"
@@ -316,7 +320,7 @@
     },
     {
      "t": "board",
-     "text": "Écrivez au tableau : La foi en Jésus-Christ conduit à l’action."
+     "text": "Écrivez au tableau : **La foi en Jésus-Christ conduit à l’action.**"
     },
     {
      "t": "ask",
@@ -328,7 +332,7 @@
     },
     {
      "t": "do",
-     "text": "Les binômes préparent ensuite une leçon de deux à trois minutes sur la foi avec leurs propres mots et une Écriture."
+     "text": "Les binômes préparent ensuite une leçon de deux à trois minutes sur la foi avec leurs propres mots et une Écriture.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "listen",
@@ -337,10 +341,6 @@
     {
      "t": "example",
      "text": "Dites : « La foi me pousse à agir : prier, lire, tenir mes engagements. »"
-    },
-    {
-     "t": "tip",
-     "text": "Écrivez le principe au tableau."
     }
    ]
   },
@@ -349,6 +349,10 @@
    "title": "Le repentir : revenir à Dieu",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Montrez l’image et racontez l’histoire."
+    },
     {
      "t": "board",
      "text": "Montrez l’image d’Alma et des fils de Mosiah."
@@ -375,7 +379,7 @@
     },
     {
      "t": "do",
-     "text": "Donnez une minute pour écrire une définition du repentir en une phrase."
+     "text": "Donnez une minute pour écrire une définition du repentir en une phrase.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
@@ -383,7 +387,7 @@
     },
     {
      "t": "board",
-     "text": "Écrivez au tableau : Le repentir, c’est revenir vers Dieu."
+     "text": "Écrivez au tableau : **Le repentir, c’est revenir vers Dieu.**"
     },
     {
      "t": "read",
@@ -420,10 +424,6 @@
     {
      "t": "example",
      "text": "Dites : « Alma s’est souvenu des paroles de son père, a invoqué le Christ et a été changé. »"
-    },
-    {
-     "t": "tip",
-     "text": "Montrez l’image et racontez l’histoire."
     }
    ]
   },
@@ -433,19 +433,23 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Changez les rôles après quatre minutes."
+    },
+    {
      "t": "say",
      "text": "Présentez la situation : deux colocataires. L’un est accablé par une erreur et pense ne pas pouvoir changer."
     },
     {
      "t": "do",
-     "text": "Les binômes se préparent à lui enseigner qu’avec l’aide du Sauveur le repentir est possible."
+     "text": "Les binômes se préparent à lui enseigner qu’avec l’aide du Sauveur le repentir est possible.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
      "text": "Les enseignants utilisent leurs propres mots, simples et clairs, et l’invitent avec bonté à agir. Le partenaire joue le colocataire et réagit de façon réelle."
     },
     {
-     "t": "do",
+     "t": "say",
      "text": "Ensuite, demandez ce qui semblait sincère et ce qui pourrait être plus clair."
     },
     {
@@ -455,10 +459,6 @@
     {
      "t": "example",
      "text": "Dites : « Vous pouvez changer avec l’aide du Sauveur. »"
-    },
-    {
-     "t": "tip",
-     "text": "Changez les rôles après quatre minutes."
     }
    ]
   },

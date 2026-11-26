@@ -223,6 +223,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -237,10 +241,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -250,16 +250,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "The Book of Mormon is another witness of Jesus Christ and the proof of the Restoration through Joseph Smith. In this lesson learners see its role, its help in answering the questions of the soul, and how to invite others to read it and pray."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -268,6 +268,10 @@
    "title": "A book that testifies of Christ",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners hold the book. It becomes real in the hands."
+    },
     {
      "t": "say",
      "text": "Hold up the Book of Mormon."
@@ -299,10 +303,6 @@
     {
      "t": "example",
      "text": "Hold up the book and say: “This is another testament of Jesus Christ.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners hold the book. It becomes real in the hands."
     }
    ]
   },
@@ -311,6 +311,10 @@
    "title": "Two witnesses",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Make the picture simple. Learners remember what they see."
+    },
     {
      "t": "read",
      "text": "Read 2 Nephi 3:12 and then Ezekiel 37:15–17."
@@ -342,10 +346,6 @@
     {
      "t": "example",
      "text": "Hold the Bible in one hand and the Book of Mormon in the other. Say: “Two witnesses are stronger than one.”"
-    },
-    {
-     "t": "tip",
-     "text": "Make the picture simple. Learners remember what they see."
     }
    ]
   },
@@ -354,6 +354,10 @@
    "title": "Gathering God’s children",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Read each verse aloud before discussing."
+    },
     {
      "t": "read",
      "text": "Let learners each read one of these: 1 Nephi 10:14, 3 Nephi 16:4–5 or 3 Nephi 20:13."
@@ -381,10 +385,6 @@
     {
      "t": "example",
      "text": "Say: “The book gathers God’s children to Christ. I am part of that gathering.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read each verse aloud before discussing."
     }
    ]
   },
@@ -393,6 +393,10 @@
    "title": "Conversion and the questions of the soul",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask learners when they felt the Spirit while reading."
+    },
     {
      "t": "read",
      "text": "Read how Parley P. Pratt felt when he first read the Book of Mormon: he read with eagerness and felt the Spirit so strongly that he could hardly stop."
@@ -424,10 +428,6 @@
     {
      "t": "example",
      "text": "Say: “Parley P. Pratt read the book with such joy he could not stop.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners when they felt the Spirit while reading."
     }
    ]
   },
@@ -436,6 +436,10 @@
    "title": "A foundation of testimony",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Close with your own testimony of the book."
+    },
     {
      "t": "ask",
      "text": "Why is the Book of Mormon called the keystone of our testimony?"
@@ -459,10 +463,6 @@
     {
      "t": "example",
      "text": "Say: “I do not argue about the book. I read it, I pray and I testify.”"
-    },
-    {
-     "t": "tip",
-     "text": "Close with your own testimony of the book."
     }
    ]
   },

@@ -230,6 +230,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -244,10 +248,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -257,16 +257,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
-     "text": "Un missionnaire grandit en apprenant chaque jour du Saint-Esprit. Dans cette leçon, les participants voient pourquoi l’étude de l’Évangile compte, comment étudier pour que l’Esprit les instruise et comment vivre ce qu’ils apprennent approfondit leur foi."
+     "text": "**Un missionnaire grandit en apprenant chaque jour du Saint-Esprit.** Dans cette leçon, les participants voient pourquoi l’étude de l’Évangile compte, comment étudier pour que l’Esprit les instruise et comment vivre ce qu’ils apprennent approfondit leur foi."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -275,6 +275,10 @@
    "title": "Pourquoi l’étude de l’Évangile compte",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez les participants dire en quoi la question de Hyrum ressemble à leur désir de servir."
+    },
     {
      "t": "board",
      "text": "Montrez l’image de Joseph et Hyrum Smith."
@@ -306,10 +310,6 @@
     {
      "t": "example",
      "text": "Dites : « Hyrum voulait partager l’Évangile, alors il a demandé au Seigneur. Le Seigneur a répondu dans Doctrine et Alliances 11. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez les participants dire en quoi la question de Hyrum ressemble à leur désir de servir."
     }
    ]
   },
@@ -318,6 +318,10 @@
    "title": "Un journal d’étude et une réelle intention",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Montrez votre propre journal si vous en tenez un. De vraies pages enseignent mieux que des mots."
+    },
     {
      "t": "say",
      "text": "Un journal d’étude peut être un carnet, un cahier, des feuilles dans un classeur ou une application de notes."
@@ -349,10 +353,6 @@
     {
      "t": "example",
      "text": "Dites : « J’écris ce que je ressens pendant l’étude, puis je relis et je vois comment le Seigneur m’a instruit. »"
-    },
-    {
-     "t": "tip",
-     "text": "Montrez votre propre journal si vous en tenez un. De vraies pages enseignent mieux que des mots."
     }
    ]
   },
@@ -361,6 +361,10 @@
    "title": "Comment le Saint-Esprit instruit",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Guidez la classe pas à pas dans un passage."
+    },
     {
      "t": "read",
      "text": "Lisez cette déclaration de l’élder D. Todd Christofferson, « When Thou Art Converted », Ensign, mai 2004 : étudier, c’est plus que lire."
@@ -375,7 +379,7 @@
     },
     {
      "t": "do",
-     "text": "À deux, étudiez Doctrine et Alliances 8:2–3, Doctrine et Alliances 9:7–8, Doctrine et Alliances 11:12–14 et Doctrine et Alliances 138:1–2, 11."
+     "text": "À deux, étudiez Doctrine et Alliances 8:2–3, Doctrine et Alliances 9:7–8, Doctrine et Alliances 11:12–14 et Doctrine et Alliances 138:1–2, 11.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "ask",
@@ -392,10 +396,6 @@
     {
      "t": "example",
      "text": "Dites : « Je lis quelques versets, je m’arrête, je réfléchis, je prie et j’écris une impression. »"
-    },
-    {
-     "t": "tip",
-     "text": "Guidez la classe pas à pas dans un passage."
     }
    ]
   },
@@ -404,6 +404,10 @@
    "title": "Vivre ce que l’on apprend",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez à chacun de nommer un verset qu’il vivra cette semaine."
+    },
     {
      "t": "read",
      "text": "Lisez Jean 7:17."
@@ -431,10 +435,6 @@
     {
      "t": "example",
      "text": "Dites : « Si je veux savoir si c’est vrai, j’essaie de le vivre. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez à chacun de nommer un verset qu’il vivra cette semaine."
     }
    ]
   },
@@ -444,12 +444,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Jouez l’invitation à deux."
+    },
+    {
      "t": "say",
      "text": "Expliquez que l’assistance à l’église aide une personne à sentir l’Esprit, à se rapprocher de Dieu et à se préparer au baptême."
     },
     {
      "t": "board",
-     "text": "Montrez comment inviter : partagez d’abord les bénédictions de venir, décrivez ensuite ce qui se passe à la réunion de Sainte-Cène, puis invitez avec chaleur et clarté."
+     "text": "Montrez comment inviter : **partagez d’abord les bénédictions de venir, décrivez ensuite ce qui se passe à la réunion de Sainte-Cène, puis invitez avec chaleur et clarté.**"
     },
     {
      "t": "say",
@@ -462,10 +466,6 @@
     {
      "t": "example",
      "text": "Dites : « Venez dimanche. Vous entendrez les prières sacramentelles et rencontrerez des personnes bienveillantes. Je m’assiérai avec vous. »"
-    },
-    {
-     "t": "tip",
-     "text": "Jouez l’invitation à deux."
     }
    ]
   },

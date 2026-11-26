@@ -223,6 +223,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -237,10 +241,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -250,16 +250,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Le Livre de Mormon est un autre témoin de Jésus-Christ et la preuve du Rétablissement par Joseph Smith. Dans cette leçon, les participants voient son rôle, son aide pour répondre aux questions de l’âme et comment inviter les autres à le lire et à prier."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -268,6 +268,10 @@
    "title": "Un livre qui témoigne du Christ",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez les participants tenir le livre. Il devient réel dans les mains."
+    },
     {
      "t": "board",
      "text": "Montrez le Livre de Mormon."
@@ -299,10 +303,6 @@
     {
      "t": "example",
      "text": "Montrez le livre et dites : « Voici un autre testament de Jésus-Christ. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez les participants tenir le livre. Il devient réel dans les mains."
     }
    ]
   },
@@ -311,6 +311,10 @@
    "title": "Deux témoins",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Gardez l’image simple. On retient ce qu’on voit."
+    },
     {
      "t": "read",
      "text": "Lisez 2 Néphi 3:12 puis Ézéchiel 37:15–17."
@@ -342,10 +346,6 @@
     {
      "t": "example",
      "text": "Tenez la Bible dans une main et le Livre de Mormon dans l’autre. Dites : « Deux témoins valent mieux qu’un. »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez l’image simple. On retient ce qu’on voit."
     }
    ]
   },
@@ -355,8 +355,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez chaque verset à voix haute avant d’en parler."
+    },
+    {
      "t": "read",
-     "text": "Laissez chaque participant lire l’un de ces passages : 1 Néphi 10:14, 3 Néphi 16:4–5 ou 3 Néphi 20:13."
+     "text": "**Laissez chaque participant lire l’un de ces passages : 1 Néphi 10:14, 3 Néphi 16:4–5 ou 3 Néphi 20:13.**"
     },
     {
      "t": "say",
@@ -377,10 +381,6 @@
     {
      "t": "example",
      "text": "Dites : « Le livre rassemble les enfants de Dieu vers le Christ. Je fais partie de ce rassemblement. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez chaque verset à voix haute avant d’en parler."
     }
    ]
   },
@@ -389,6 +389,10 @@
    "title": "La conversion et les questions de l’âme",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez à quel moment ils ont senti l’Esprit en lisant."
+    },
     {
      "t": "say",
      "text": "Racontez ce que Parley P. Pratt a ressenti en lisant le Livre de Mormon pour la première fois : il a lu avec empressement et a ressenti l’Esprit si fortement qu’il pouvait à peine s’arrêter."
@@ -420,10 +424,6 @@
     {
      "t": "example",
      "text": "Dites : « Parley P. Pratt a lu le livre avec tant de joie qu’il ne pouvait plus s’arrêter. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez à quel moment ils ont senti l’Esprit en lisant."
     }
    ]
   },
@@ -432,6 +432,10 @@
    "title": "Un fondement de témoignage",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Terminez par votre témoignage sur le livre."
+    },
     {
      "t": "ask",
      "text": "Pourquoi le Livre de Mormon est-il appelé la clef de voûte de notre témoignage ?"
@@ -455,10 +459,6 @@
     {
      "t": "example",
      "text": "Dites : « Je ne débats pas du livre. Je le lis, je prie et je témoigne. »"
-    },
-    {
-     "t": "tip",
-     "text": "Terminez par votre témoignage sur le livre."
     }
    ]
   },

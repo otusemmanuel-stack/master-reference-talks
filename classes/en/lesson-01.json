@@ -226,16 +226,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -245,16 +245,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "Missionary work is more than a list of tasks. In this lesson each learner sees its true purpose: to invite people to come to Christ, and to help them receive the restored gospel through faith in Jesus Christ, repentance, baptism, the gift of the Holy Ghost and enduring to the end."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -263,6 +263,10 @@
    "title": "The purpose of missionary work",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask learners to say the purpose in one sentence. A short sentence is easier to remember."
+    },
     {
      "t": "ask",
      "text": "Ask learners to list what missionaries do each day, and write the list on the board."
@@ -285,7 +289,7 @@
     },
     {
      "t": "read",
-     "text": "Read this from Elder Dallin H. Oaks, “The Purpose of Missionary Work,” missionary satellite broadcast, April 1995: “We invite all to come unto Christ by repentance and baptism and confirmation in order to open the doors of the celestial kingdom to the sons and daughters of God.”"
+     "text": "Read this from Elder Dallin H. Oaks, “The Purpose of Missionary Work,” missionary satellite broadcast, April 1995: “**We invite all to come unto Christ by repentance and baptism and confirmation in order to open the doors of the celestial kingdom to the sons and daughters of God.**”"
     },
     {
      "t": "ask",
@@ -298,10 +302,6 @@
     {
      "t": "example",
      "text": "Say: “A missionary’s purpose is to invite people to come unto Christ. I do this so you can feel the joy I feel.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners to say the purpose in one sentence. A short sentence is easier to remember."
     }
    ]
   },
@@ -311,8 +311,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Let groups report one at a time, then add what they missed."
+    },
+    {
      "t": "do",
-     "text": "Make three groups."
+     "text": "Make three groups.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "say",
@@ -345,10 +349,6 @@
     {
      "t": "example",
      "text": "Draw four steps on the board: faith, repentance, baptism, the gift of the Holy Ghost. Say: “Each step leads to the next.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let groups report one at a time, then add what they missed."
     }
    ]
   },
@@ -357,6 +357,10 @@
    "title": "Helping others act in faith",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Pair each invitation with a time and a place. A clear invitation is easier to accept."
+    },
     {
      "t": "say",
      "text": "What a missionary says matters, but what a person does with it matters more."
@@ -384,10 +388,6 @@
     {
      "t": "example",
      "text": "Say to a friend: “Would you read this chapter tonight and tell me tomorrow what you felt?”"
-    },
-    {
-     "t": "tip",
-     "text": "Pair each invitation with a time and a place. A clear invitation is easier to accept."
     }
    ]
   },
@@ -396,6 +396,10 @@
    "title": "The greatest duty",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask learners to write the name of one person they will help this month."
+    },
     {
      "t": "read",
      "text": "Read Doctrine and Covenants 18:10 and Doctrine and Covenants 18:15–16."
@@ -419,10 +423,6 @@
     {
      "t": "example",
      "text": "Say: “Helping one person come to Christ is worth more than anything I could do alone.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners to write the name of one person they will help this month."
     }
    ]
   },

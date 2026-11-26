@@ -242,6 +242,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -256,10 +260,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -269,16 +269,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Cette leçon prépare les participants à enseigner la première partie du message du Rétablissement : Dieu est notre Père aimant, les familles comptent pour lui, il conduit ses enfants par des prophètes, et l’Évangile a été perdu lors de la grande apostasie. À la fin, chacun peut enseigner ces vérités simplement et en témoigner."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -288,20 +288,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Laissez deux ou trois participants répondre à la question de l’ami."
+    },
+    {
      "t": "say",
      "text": "Commencez par une étude de cas."
     },
     {
      "t": "ask",
-     "text": "Un ami écrit tard le soir, découragé, et demande : « Dieu existe-t-il ?"
-    },
-    {
-     "t": "ask",
-     "text": "S’intéresse-t-il à nous ?"
-    },
-    {
-     "t": "say",
-     "text": "Comment est-il ? » Laissez quelques participants dire comment ils répondraient. Expliquez ensuite que la leçon d’aujourd’hui les prépare à répondre."
+     "text": "Un ami écrit tard le soir, découragé, et demande : « Dieu existe-t-il ? S’intéresse-t-il à nous ? Comment est-il ? » Laissez quelques participants dire comment ils répondraient. Expliquez ensuite que la leçon d’aujourd’hui les prépare à répondre."
     },
     {
      "t": "read",
@@ -322,10 +318,6 @@
     {
      "t": "example",
      "text": "Dites : « Oui, Dieu existe. Il est notre Père et il vous aime. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez deux ou trois participants répondre à la question de l’ami."
     }
    ]
   },
@@ -334,6 +326,10 @@
    "title": "L’Évangile bénit les familles",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez chacun marquer des expressions avant de parler."
+    },
     {
      "t": "read",
      "text": "Laissez les participants lire « La famille : Déclaration au monde » et marquer les expressions qui montrent le rôle du mariage et de la famille dans le plan de Dieu."
@@ -344,7 +340,7 @@
     },
     {
      "t": "read",
-     "text": "Lisez cette déclaration du président Boyd K. Packer, « The Father and the Family », conférence générale, avril 1994 : « Le but ultime de l’adversaire … est de perturber, de troubler et de détruire le foyer et la famille » (voir Apocalypse 12:12)."
+     "text": "Lisez cette déclaration du président Boyd K. Packer, « The Father and the Family », conférence générale, avril 1994 : « **Le but ultime de l’adversaire … est de perturber, de troubler et de détruire le foyer et la famille** » (voir Apocalypse 12:12)."
     },
     {
      "t": "ask",
@@ -361,10 +357,6 @@
     {
      "t": "example",
      "text": "Montrez la Déclaration. Dites : « Le plan de Dieu place la famille au centre. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez chacun marquer des expressions avant de parler."
     }
    ]
   },
@@ -373,6 +365,10 @@
    "title": "Les prophètes et les dispensations",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Écrivez le cycle au tableau : prophète, Évangile, éloignement, prophète de nouveau."
+    },
     {
      "t": "say",
      "text": "Expliquez que l’appel de prophètes est une façon dont Dieu montre son amour."
@@ -400,10 +396,6 @@
     {
      "t": "example",
      "text": "Dites : « Dieu a toujours conduit ses enfants par des prophètes vivants. »"
-    },
-    {
-     "t": "tip",
-     "text": "Écrivez le cycle au tableau : prophète, Évangile, éloignement, prophète de nouveau."
     }
    ]
   },
@@ -412,6 +404,10 @@
    "title": "Le ministère terrestre du Sauveur",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez ce que signifie l’autorité pour les participants."
+    },
     {
      "t": "ask",
      "text": "Demandez ce que Jésus-Christ a fait pour établir son Église."
@@ -427,10 +423,6 @@
     {
      "t": "example",
      "text": "Dites : « Jésus-Christ a choisi des apôtres et leur a donné l’autorité. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez ce que signifie l’autorité pour les participants."
     }
    ]
   },
@@ -439,6 +431,10 @@
    "title": "La grande apostasie",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez lire les versets avant d’expliquer."
+    },
     {
      "t": "ask",
      "text": "Écrivez cette question au tableau : Qu’est-ce qui a mené à la grande apostasie, et qu’en est-il résulté ?"
@@ -457,7 +453,7 @@
     },
     {
      "t": "board",
-     "text": "Écrivez ce résumé : les prophètes anciens ont annoncé un éloignement de la vérité."
+     "text": "Écrivez ce résumé : **les prophètes anciens ont annoncé un éloignement de la vérité.**"
     },
     {
      "t": "say",
@@ -470,10 +466,6 @@
     {
      "t": "example",
      "text": "Dites : « Après la mort des apôtres, l’autorité a été perdue. L’Évangile devait être rétabli. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez lire les versets avant d’expliquer."
     }
    ]
   },

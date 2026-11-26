@@ -216,6 +216,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -230,10 +234,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -243,16 +243,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Le Seigneur prépare des personnes à entendre l’Évangile, et il demande aux membres et aux missionnaires de les trouver ensemble. Dans cette leçon, les participants bâtissent la foi pour trouver, apprennent comment les membres aident et utilisent tous les outils que Dieu a donnés, y compris internet."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -261,6 +261,10 @@
    "title": "La foi pour trouver",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Racontez l’histoire avec des détails. Les détails la rendent réelle."
+    },
     {
      "t": "say",
      "text": "Racontez l’histoire de Wilford Woodruff en Angleterre peu après son ordination comme apôtre. Il a prié pour savoir où aller. Il s’est senti conduit dans le sud de l’Angleterre, à la ferme de John Benbow, où de nombreuses personnes se préparaient déjà. Beaucoup ont été baptisées."
@@ -296,10 +300,6 @@
     {
      "t": "example",
      "text": "Dites : « Wilford Woodruff a prié pour savoir où aller, et le Seigneur l’a conduit. »"
-    },
-    {
-     "t": "tip",
-     "text": "Racontez l’histoire avec des détails. Les détails la rendent réelle."
     }
    ]
   },
@@ -308,6 +308,10 @@
    "title": "Une famille de Dieu",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Demandez ce qui nous empêche de tendre la main."
+    },
     {
      "t": "read",
      "text": "Lisez ce que le manuel missionnaire dit de la famille de Dieu."
@@ -335,10 +339,6 @@
     {
      "t": "example",
      "text": "Dites : « Chacun est un enfant de Dieu. Je veux les trouver. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez ce qui nous empêche de tendre la main."
     }
    ]
   },
@@ -347,6 +347,10 @@
    "title": "Membres et missionnaires ensemble",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Montrez la vidéo, puis demandez ce que chacun a fait."
+    },
     {
      "t": "say",
      "text": "Partagez comment le président Thomas S. Monson a demandé aux membres et aux missionnaires de travailler ensemble."
@@ -386,10 +390,6 @@
     {
      "t": "example",
      "text": "Dites : « Quand membres et missionnaires travaillent ensemble, des familles sont baptisées. »"
-    },
-    {
-     "t": "tip",
-     "text": "Montrez la vidéo, puis demandez ce que chacun a fait."
     }
    ]
   },
@@ -399,16 +399,20 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Laissez chacun choisir une idée dans la liste."
+    },
+    {
      "t": "board",
-     "text": "Écrivez ces Écritures au tableau : Doctrine et Alliances 18:10, 14–16 ; 33:6–11 ; 100:5–6."
+     "text": "Écrivez ces Écritures au tableau : **Doctrine et Alliances 18:10, 14–16 ; 33:6–11 ; 100:5–6.**"
     },
     {
      "t": "do",
-     "text": "Chacun en lit une et dit à la classe quelles bénédictions sont promises à ceux qui partagent l’Évangile."
+     "text": "Chacun en lit une et dit à la classe quelles bénédictions sont promises à ceux qui partagent l’Évangile.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "board",
-     "text": "Écrivez cette idée au tableau : en tant que membres-missionnaires, nous trouvons des personnes quand nous prions, agissons et faisons confiance au Seigneur."
+     "text": "Écrivez cette idée au tableau : **en tant que membres-missionnaires, nous trouvons des personnes quand nous prions, agissons et faisons confiance au Seigneur.**"
     },
     {
      "t": "say",
@@ -425,10 +429,6 @@
     {
      "t": "example",
      "text": "Dites : « Je prierai pour avoir une occasion de partager et j’ouvrirai la bouche. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez chacun choisir une idée dans la liste."
     }
    ]
   },
@@ -437,6 +437,10 @@
    "title": "Utiliser tous les outils",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Revoyez ensemble les règles sur les réseaux sociaux."
+    },
     {
      "t": "say",
      "text": "Partagez le conseil de l’élder L. Tom Perry : la façon de trouver des personnes change, car le Seigneur a ouvert internet à l’œuvre missionnaire."
@@ -472,10 +476,6 @@
     {
      "t": "example",
      "text": "Dites : « Je peux partager un message ou une vidéo en ligne. »"
-    },
-    {
-     "t": "tip",
-     "text": "Revoyez ensemble les règles sur les réseaux sociaux."
     }
    ]
   },

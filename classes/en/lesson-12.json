@@ -216,6 +216,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -230,10 +234,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -243,16 +243,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
-     "text": "The Lord prepares people to hear the gospel, and He asks members and missionaries to find them together. In this lesson learners build the faith to find, learn how members help, and use every tool God has given, including the internet."
+     "text": "The Lord prepares people to hear the gospel, and He asks members and missionaries to find them together. **In this lesson learners build the faith to find, learn how members help, and use every tool God has given, including the internet.**"
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -261,6 +261,10 @@
    "title": "The faith to find",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Tell the story with detail. Details make it real."
+    },
     {
      "t": "say",
      "text": "Tell the story of Wilford Woodruff in England soon after he became an Apostle. He prayed to know where to go. He felt led to the south of England and to the farm of John Benbow, where many people had already been preparing. Many were baptized."
@@ -275,7 +279,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: when we act in faith, the Lord prepares people for us."
+     "text": "Draw out the truth: **when we act in faith, the Lord prepares people for us.**"
     },
     {
      "t": "ask",
@@ -296,10 +300,6 @@
     {
      "t": "example",
      "text": "Say: “Wilford Woodruff prayed to know where to go, and the Lord led him.”"
-    },
-    {
-     "t": "tip",
-     "text": "Tell the story with detail. Details make it real."
     }
    ]
   },
@@ -308,6 +308,10 @@
    "title": "A family of God",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask what stops us from reaching out."
+    },
     {
      "t": "read",
      "text": "Read what the missionary manual says about the family of God."
@@ -335,10 +339,6 @@
     {
      "t": "example",
      "text": "Say: “Everyone is a child of God. I want to find them.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask what stops us from reaching out."
     }
    ]
   },
@@ -347,6 +347,10 @@
    "title": "Members and missionaries together",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Show the video, then ask what each person did."
+    },
     {
      "t": "say",
      "text": "Share how President Thomas S. Monson called on members and missionaries to work together."
@@ -386,10 +390,6 @@
     {
      "t": "example",
      "text": "Say: “When members and missionaries work together, families are baptized.”"
-    },
-    {
-     "t": "tip",
-     "text": "Show the video, then ask what each person did."
     }
    ]
   },
@@ -399,16 +399,20 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Let learners choose one idea from the list."
+    },
+    {
      "t": "board",
-     "text": "Write these scriptures on the board: Doctrine and Covenants 18:10, 14–16; 33:6–11; 100:5–6."
+     "text": "Write these scriptures on the board: **Doctrine and Covenants 18:10, 14–16; 33:6–11; 100:5–6.**"
     },
     {
      "t": "do",
-     "text": "Each learner reads one and tells the class what blessings are promised to those who share the gospel."
+     "text": "Each learner reads one and tells the class what blessings are promised to those who share the gospel.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "board",
-     "text": "Write this idea on the board: as member missionaries, we find people when we pray, act and trust the Lord."
+     "text": "Write this idea on the board: **as member missionaries, we find people when we pray, act and trust the Lord.**"
     },
     {
      "t": "say",
@@ -429,10 +433,6 @@
     {
      "t": "example",
      "text": "Say: “I will pray for a chance to share, and I will open my mouth.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners choose one idea from the list."
     }
    ]
   },
@@ -441,6 +441,10 @@
    "title": "Using every tool",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Review the social media rules together."
+    },
     {
      "t": "say",
      "text": "Share Elder L. Tom Perry’s counsel that the way we find people is changing, because the Lord has opened the internet to missionary work."
@@ -476,10 +480,6 @@
     {
      "t": "example",
      "text": "Say: “I can share a message or a video online.”"
-    },
-    {
-     "t": "tip",
-     "text": "Review the social media rules together."
     }
    ]
   },

@@ -234,6 +234,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -248,10 +252,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -261,16 +261,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "A mission asks for hard work with all one’s heart, might, mind and strength. In this lesson learners see how to start becoming a missionary now, in spirit, body and heart, and where to find help when it is hard."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -279,6 +279,10 @@
    "title": "Becoming a missionary now",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask learners to name one change they can start this week."
+    },
     {
      "t": "ask",
      "text": "How do you expect your life to change when you begin your mission?"
@@ -318,10 +322,6 @@
     {
      "t": "example",
      "text": "Say: “I can start thinking like a missionary today: pray, study, serve.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners to name one change they can start this week."
     }
    ]
   },
@@ -330,6 +330,10 @@
    "title": "Spiritual preparation",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask learners to write one thing they will do to stay clean."
+    },
     {
      "t": "read",
      "text": "Read Doctrine and Covenants 88:74."
@@ -365,10 +369,6 @@
     {
      "t": "example",
      "text": "Say: “To be sanctified is to be clean and worthy of the Holy Ghost.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners to write one thing they will do to stay clean."
     }
    ]
   },
@@ -377,6 +377,10 @@
    "title": "Physical and emotional preparation",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Invite learners to write a plan: sleep, food, exercise."
+    },
     {
      "t": "say",
      "text": "A mission asks for a healthy body and a steady mind. Missionaries live a scheduled life: they are in bed by 10:30 in the evening and up by 6:30 in the morning."
@@ -387,7 +391,7 @@
     },
     {
      "t": "say",
-     "text": "Every missionary feels some stress, homesickness or doubt. President Gordon B. Hinckley felt discouraged after he arrived in the field and was lifted by going to work."
+     "text": "**Every missionary feels some stress, homesickness or doubt.** President Gordon B. Hinckley felt discouraged after he arrived in the field and was lifted by going to work."
     },
     {
      "t": "read",
@@ -404,10 +408,6 @@
     {
      "t": "example",
      "text": "Say: “I will go to bed on time and eat well, because a mission needs a strong body.”"
-    },
-    {
-     "t": "tip",
-     "text": "Invite learners to write a plan: sleep, food, exercise."
     }
    ]
   },
@@ -416,6 +416,10 @@
    "title": "Looking to the Lord for help",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask learners to share one time the Lord helped them."
+    },
     {
      "t": "read",
      "text": "Read 2 Nephi 4:17–19, then study 2 Nephi 4:19–26."
@@ -443,10 +447,6 @@
     {
      "t": "example",
      "text": "Say: “Nephi felt sorrow, and then he remembered the Lord’s goodness.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask learners to share one time the Lord helped them."
     }
    ]
   },

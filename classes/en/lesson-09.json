@@ -246,6 +246,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -260,10 +264,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -273,16 +273,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "A missionary wears the Savior’s name. In this lesson learners study why Christlike attributes matter, how they grow, and how they help a missionary teach and serve a companion in peace."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -291,6 +291,10 @@
    "title": "Why Christlike attributes matter",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Pass a name tag around the class."
+    },
     {
      "t": "read",
      "text": "Look at a missionary name tag together."
@@ -313,7 +317,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: we follow Jesus Christ as we become like Him."
+     "text": "Draw out the truth: **we follow Jesus Christ as we become like Him.**"
     },
     {
      "t": "ask",
@@ -326,10 +330,6 @@
     {
      "t": "example",
      "text": "Say: “My name tag has two names. The Savior’s name is the one that matters most.”"
-    },
-    {
-     "t": "tip",
-     "text": "Pass a name tag around the class."
     }
    ]
   },
@@ -338,6 +338,10 @@
    "title": "How Christlike attributes grow",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Give quiet time to pick one attribute."
+    },
     {
      "t": "read",
      "text": "Let each learner choose one verse about following the Savior and share what it says."
@@ -364,11 +368,11 @@
     },
     {
      "t": "do",
-     "text": "Give learners quiet time to pick one attribute and study it."
+     "text": "Give learners quiet time to pick one attribute and study it.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "say",
-     "text": "They write: what is new to me, what must change in my heart or actions, and how this will help me as a missionary."
+     "text": "**They write: what is new to me, what must change in my heart or actions, and how this will help me as a missionary.**"
     },
     {
      "t": "ask",
@@ -381,10 +385,6 @@
     {
      "t": "example",
      "text": "Say: “Christlike attributes are gifts from God. I ask for them and then act.”"
-    },
-    {
-     "t": "tip",
-     "text": "Give quiet time to pick one attribute."
     }
    ]
   },
@@ -393,6 +393,10 @@
    "title": "Attributes in missionary work",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Assign each learner a verse range."
+    },
     {
      "t": "ask",
      "text": "How can we preach the gospel without words?"
@@ -411,7 +415,7 @@
     },
     {
      "t": "do",
-     "text": "Each learner reads one section and finds the attributes Ammon showed."
+     "text": "Each learner reads one section and finds the attributes Ammon showed.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "ask",
@@ -428,10 +432,6 @@
     {
      "t": "example",
      "text": "Say: “Ammon served with love and kept his word. The people listened.”"
-    },
-    {
-     "t": "tip",
-     "text": "Assign each learner a verse range."
     }
    ]
   },
@@ -440,6 +440,10 @@
    "title": "Serving with a companion",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Role-play a hard moment in pairs."
+    },
     {
      "t": "ask",
      "text": "What can make it hard to serve with a companion?"
@@ -467,10 +471,6 @@
     {
      "t": "example",
      "text": "Say: “I will treat my companion the way the Savior would.”"
-    },
-    {
-     "t": "tip",
-     "text": "Role-play a hard moment in pairs."
     }
    ]
   },

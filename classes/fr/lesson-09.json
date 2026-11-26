@@ -246,6 +246,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -260,10 +264,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -273,16 +273,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
      "text": "Un missionnaire porte le nom du Sauveur. Dans cette leçon, les participants étudient pourquoi les attributs christiques comptent, comment ils grandissent, et comment ils aident un missionnaire à enseigner et à servir avec son compagnon dans la paix."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -291,6 +291,10 @@
    "title": "Pourquoi les attributs christiques comptent",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Faites circuler un badge dans la classe."
+    },
     {
      "t": "read",
      "text": "Regardez ensemble un badge de missionnaire."
@@ -326,10 +330,6 @@
     {
      "t": "example",
      "text": "Dites : « Mon badge porte deux noms. Le nom du Sauveur est celui qui compte le plus. »"
-    },
-    {
-     "t": "tip",
-     "text": "Faites circuler un badge dans la classe."
     }
    ]
   },
@@ -339,8 +339,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Donnez un moment de calme pour choisir un attribut."
+    },
+    {
      "t": "say",
-     "text": "Laissez chaque participant choisir un verset sur la façon de suivre le Sauveur et dire ce qu’il enseigne."
+     "text": "**Laissez chaque participant choisir un verset sur la façon de suivre le Sauveur et dire ce qu’il enseigne.**"
     },
     {
      "t": "ask",
@@ -364,11 +368,11 @@
     },
     {
      "t": "do",
-     "text": "Donnez aux participants un moment de calme pour choisir un attribut et l’étudier."
+     "text": "Donnez aux participants un moment de calme pour choisir un attribut et l’étudier.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "say",
-     "text": "Ils écrivent : ce qui est nouveau pour moi, ce qui doit changer dans mon cœur ou mes actions, et comment cela m’aidera comme missionnaire."
+     "text": "**Ils écrivent : ce qui est nouveau pour moi, ce qui doit changer dans mon cœur ou mes actions, et comment cela m’aidera comme missionnaire.**"
     },
     {
      "t": "ask",
@@ -381,10 +385,6 @@
     {
      "t": "example",
      "text": "Dites : « Les attributs christiques sont des dons de Dieu. Je les demande puis j’agis. »"
-    },
-    {
-     "t": "tip",
-     "text": "Donnez un moment de calme pour choisir un attribut."
     }
    ]
   },
@@ -393,6 +393,10 @@
    "title": "Les attributs dans l’œuvre missionnaire",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Attribuez une partie du texte à chacun."
+    },
     {
      "t": "ask",
      "text": "Comment prêcher l’Évangile sans paroles ?"
@@ -411,7 +415,7 @@
     },
     {
      "t": "do",
-     "text": "Chacun lit une partie et trouve les attributs qu’Ammon a montrés."
+     "text": "Chacun lit une partie et trouve les attributs qu’Ammon a montrés.\nComment faire : montrez d’abord un exemple, puis laissez les participants essayer deux par deux. Gardez-y quelques minutes et remerciez chacun."
     },
     {
      "t": "ask",
@@ -428,10 +432,6 @@
     {
      "t": "example",
      "text": "Dites : « Ammon a servi avec amour et a tenu parole. Les gens l’ont écouté. »"
-    },
-    {
-     "t": "tip",
-     "text": "Attribuez une partie du texte à chacun."
     }
    ]
   },
@@ -440,6 +440,10 @@
    "title": "Servir avec un compagnon",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Jouez un moment difficile à deux."
+    },
     {
      "t": "ask",
      "text": "Qu’est-ce qui peut rendre le service avec un compagnon difficile ?"
@@ -467,10 +471,6 @@
     {
      "t": "example",
      "text": "Dites : « Je traiterai mon compagnon comme le Sauveur le ferait. »"
-    },
-    {
-     "t": "tip",
-     "text": "Jouez un moment difficile à deux."
     }
    ]
   },

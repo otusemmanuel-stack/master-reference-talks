@@ -214,6 +214,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -228,10 +232,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -241,16 +241,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "The gospel of Jesus Christ is how we come back to God. Its first principles are faith in Jesus Christ and repentance. In this lesson learners study how the Savior cleanses us and practise teaching these two principles."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -259,6 +259,10 @@
    "title": "Cleansed through Christ",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Write the five truths and let learners choose a verse for one."
+    },
     {
      "t": "ask",
      "text": "Before class, write on the board: What does it mean to be clean?"
@@ -277,7 +281,7 @@
     },
     {
      "t": "say",
-     "text": "Only through the Savior’s grace and mercy can we be clean. No unclean thing can live in God’s presence. Christ stood in our place and suffered for our sins. He forgives us when we accept Him, repent and obey."
+     "text": "**Only through the Savior’s grace and mercy can we be clean.** No unclean thing can live in God’s presence. Christ stood in our place and suffered for our sins. He forgives us when we accept Him, repent and obey."
     },
     {
      "t": "read",
@@ -290,10 +294,6 @@
     {
      "t": "example",
      "text": "Say: “Only through the Savior can we be clean.”"
-    },
-    {
-     "t": "tip",
-     "text": "Write the five truths and let learners choose a verse for one."
     }
    ]
   },
@@ -302,6 +302,10 @@
    "title": "Faith in Jesus Christ",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Write the principle on the board."
+    },
     {
      "t": "ask",
      "text": "What is the difference between helping someone come unto Christ and helping someone join the Church?"
@@ -316,7 +320,7 @@
     },
     {
      "t": "board",
-     "text": "Write on the board: Faith in Jesus Christ leads to action."
+     "text": "Write on the board: **Faith in Jesus Christ leads to action.**"
     },
     {
      "t": "ask",
@@ -328,7 +332,7 @@
     },
     {
      "t": "do",
-     "text": "Pairs then prepare a two-to-three-minute lesson on faith in their own words, using one scripture."
+     "text": "Pairs then prepare a two-to-three-minute lesson on faith in their own words, using one scripture.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "listen",
@@ -337,10 +341,6 @@
     {
      "t": "example",
      "text": "Say: “Faith leads me to act: pray, read, keep commitments.”"
-    },
-    {
-     "t": "tip",
-     "text": "Write the principle on the board."
     }
    ]
   },
@@ -349,6 +349,10 @@
    "title": "Repentance: turning back to God",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Show the picture and tell the story."
+    },
     {
      "t": "board",
      "text": "Show the picture of Alma and the sons of Mosiah."
@@ -375,7 +379,7 @@
     },
     {
      "t": "do",
-     "text": "Give one minute to write a one-sentence definition of repentance."
+     "text": "Give one minute to write a one-sentence definition of repentance.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "say",
@@ -383,7 +387,7 @@
     },
     {
      "t": "board",
-     "text": "Write on the board: Repentance is turning back toward God."
+     "text": "Write on the board: **Repentance is turning back toward God.**"
     },
     {
      "t": "read",
@@ -420,10 +424,6 @@
     {
      "t": "example",
      "text": "Say: “Alma remembered his father’s words, called on Christ and was changed.”"
-    },
-    {
-     "t": "tip",
-     "text": "Show the picture and tell the story."
     }
    ]
   },
@@ -433,12 +433,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Rotate the roles after four minutes."
+    },
+    {
      "t": "say",
-     "text": "Set the scenario: two roommates. One feels weighed down by a mistake and thinks he cannot change."
+     "text": "Set the scenario: two roommates. **One feels weighed down by a mistake and thinks he cannot change.**"
     },
     {
      "t": "do",
-     "text": "Pairs prepare to teach him that with the Savior’s help repentance is possible."
+     "text": "Pairs prepare to teach him that with the Savior’s help repentance is possible.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "say",
@@ -451,10 +455,6 @@
     {
      "t": "example",
      "text": "Say: “You can change with the Savior’s help.”"
-    },
-    {
-     "t": "tip",
-     "text": "Rotate the roles after four minutes."
     }
    ]
   },

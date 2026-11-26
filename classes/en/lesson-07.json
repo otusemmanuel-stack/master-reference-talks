@@ -242,6 +242,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -256,10 +260,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -269,16 +269,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "This lesson prepares learners to teach the first part of the message of the Restoration: God is our loving Father, families matter to Him, He leads His children through prophets, and the gospel was lost in the Great Apostasy. By the end, each learner can teach these truths simply and testify."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -288,20 +288,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Let two or three learners answer the friend’s question aloud."
+    },
+    {
      "t": "say",
      "text": "Begin with a case study."
     },
     {
      "t": "ask",
-     "text": "A friend writes late at night, discouraged, and asks: “Is God real?"
-    },
-    {
-     "t": "ask",
-     "text": "Does He care about us?"
-    },
-    {
-     "t": "say",
-     "text": "What is He like?” Let a few learners say how they would answer. Then explain that today’s lesson prepares them to answer."
+     "text": "A friend writes late at night, discouraged, and asks: “Is God real? Does He care about us? What is He like?” Let a few learners say how they would answer. Then explain that today’s lesson prepares them to answer."
     },
     {
      "t": "read",
@@ -322,10 +318,6 @@
     {
      "t": "example",
      "text": "Say: “Yes, God is real. He is our Father, and He loves you.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let two or three learners answer the friend’s question aloud."
     }
    ]
   },
@@ -334,6 +326,10 @@
    "title": "The gospel blesses families",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners mark phrases before they speak."
+    },
     {
      "t": "read",
      "text": "Let learners read “The Family: A Proclamation to the World” and mark the phrases that show the role of marriage and family in God’s plan."
@@ -344,7 +340,7 @@
     },
     {
      "t": "read",
-     "text": "Read this from President Boyd K. Packer, “The Father and the Family,” general conference, April 1994: “The ultimate purpose of the adversary … is to disrupt, disturb, and destroy the home and the family” (see Revelation 12:12)."
+     "text": "Read this from President Boyd K. Packer, “The Father and the Family,” general conference, April 1994: “**The ultimate purpose of the adversary … is to disrupt, disturb, and destroy the home and the family**” (see Revelation 12:12)."
     },
     {
      "t": "ask",
@@ -361,10 +357,6 @@
     {
      "t": "example",
      "text": "Show the Proclamation. Say: “God’s plan places families at the center.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners mark phrases before they speak."
     }
    ]
   },
@@ -374,12 +366,16 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Write the cycle on the board: prophet, gospel, turning away, prophet again."
+    },
+    {
      "t": "say",
      "text": "Explain that calling prophets is one way God shows His love."
     },
     {
      "t": "read",
-     "text": "Read what Elder M. Russell Ballard taught in “His Word Ye Shall Receive,” general conference, April 2001: “If you will listen to the living prophet and the apostles and heed our counsel, you will not go astray.” Read Doctrine and Covenants 1:37–38, Amos 3:7 and 1 Nephi 3:7."
+     "text": "Read what Elder M. Russell Ballard taught in “His Word Ye Shall Receive,” general conference, April 2001: “**If you will listen to the living prophet and the apostles and heed our counsel, you will not go astray.**” Read Doctrine and Covenants 1:37–38, Amos 3:7 and 1 Nephi 3:7."
     },
     {
      "t": "ask",
@@ -400,10 +396,6 @@
     {
      "t": "example",
      "text": "Say: “God has always led His children through living prophets.”"
-    },
-    {
-     "t": "tip",
-     "text": "Write the cycle on the board: prophet, gospel, turning away, prophet again."
     }
    ]
   },
@@ -412,6 +404,10 @@
    "title": "The Savior’s earthly ministry",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Ask what authority means to learners."
+    },
     {
      "t": "ask",
      "text": "Ask what Jesus Christ did to establish His Church."
@@ -427,10 +423,6 @@
     {
      "t": "example",
      "text": "Say: “Jesus Christ chose Apostles and gave them authority.”"
-    },
-    {
-     "t": "tip",
-     "text": "Ask what authority means to learners."
     }
    ]
   },
@@ -439,6 +431,10 @@
    "title": "The Great Apostasy",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let learners read the verses before you explain."
+    },
     {
      "t": "ask",
      "text": "Write this question on the board: What led to the Great Apostasy, and what came of it?"
@@ -457,7 +453,7 @@
     },
     {
      "t": "board",
-     "text": "Write this summary: ancient prophets foretold a falling away from the truth."
+     "text": "Write this summary: **ancient prophets foretold a falling away from the truth.**"
     },
     {
      "t": "say",
@@ -470,10 +466,6 @@
     {
      "t": "example",
      "text": "Say: “After the Apostles died, authority was lost. The gospel needed to be restored.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let learners read the verses before you explain."
     }
    ]
   },

@@ -257,6 +257,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
+    },
+    {
      "t": "say",
      "text": "Accueillez chaleureusement la classe. Commencez par une prière et une courte pensée tirée des Écritures pour inviter le Saint-Esprit."
     },
@@ -271,10 +275,6 @@
     {
      "t": "example",
      "text": "Essayez de dire : « Avant de commencer, qui veut nous dire ce qui s’est passé quand il a essayé l’invitation de la semaine dernière ? »"
-    },
-    {
-     "t": "tip",
-     "text": "Gardez la révision courte. Laissez deux ou trois participants partager et remerciez chacun."
     }
    ]
   },
@@ -284,16 +284,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
+    },
+    {
      "t": "say",
-     "text": "Seul le Saint-Esprit peut apporter la vraie conversion. Un missionnaire peut ouvrir la voie. Dans cette leçon, les participants étudient comment l’Esprit aide ceux qui enseignent et ceux qui apprennent, et comment l’inviter par la façon de commencer, d’enseigner, d’écouter et d’agir."
+     "text": "**Seul le Saint-Esprit peut apporter la vraie conversion.** Un missionnaire peut ouvrir la voie. Dans cette leçon, les participants étudient comment l’Esprit aide ceux qui enseignent et ceux qui apprennent, et comment l’inviter par la façon de commencer, d’enseigner, d’écouter et d’agir."
     },
     {
      "t": "example",
      "text": "Essayez de dire : « Aujourd’hui nous allons apprendre, nous exercer, puis enseigner ce que nous avons appris. Chacun de vous enseignera. »"
-    },
-    {
-     "t": "tip",
-     "text": "Lisez l’introduction lentement à voix haute. Demandez ensuite à quelqu’un de la redire avec ses propres mots."
     }
    ]
   },
@@ -302,6 +302,10 @@
    "title": "Enseigner par l’Esprit",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez les participants dire à quoi ressemble la sincérité dans une leçon."
+    },
     {
      "t": "say",
      "text": "Racontez la conversion du président Brigham Young, lorsque le simple témoignage d’un homme humble a touché son cœur."
@@ -328,11 +332,11 @@
     },
     {
      "t": "say",
-     "text": "L’Esprit ne se manifeste pas toujours par des larmes."
+     "text": "**L’Esprit ne se manifeste pas toujours par des larmes.**"
     },
     {
      "t": "read",
-     "text": "Lisez la mise en garde du président Howard W. Hunter : une forte émotion ne doit pas être confondue avec l’Esprit lui-même, qui apporte « une grande manifestation de la vérité, une révélation au cœur »."
+     "text": "Lisez la mise en garde du président Howard W. **Hunter : une forte émotion ne doit pas être confondue avec l’Esprit lui-même, qui apporte « une grande manifestation de la vérité, une révélation au cœur ».**"
     },
     {
      "t": "listen",
@@ -341,10 +345,6 @@
     {
      "t": "example",
      "text": "Dites : « Un homme humble a rendu un simple témoignage à Brigham Young, et l’Esprit a fait le reste. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez les participants dire à quoi ressemble la sincérité dans une leçon."
     }
    ]
   },
@@ -353,6 +353,10 @@
    "title": "Comment l’Esprit aide ceux qui enseignent et ceux qui apprennent",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Donnez une référence à chaque binôme. Partagez les trouvailles à voix haute."
+    },
     {
      "t": "board",
      "text": "Écrivez ces références au tableau et laissez des binômes les étudier : Luc 12:12 (il enseigne quoi dire), Jean 14:26 (il rappelle les choses), 1 Néphi 2:16 (il adoucit les cœurs), 2 Néphi 33:1 (il porte la vérité au cœur), Alma 18:16 (il aide à discerner les pensées), Moroni 10:5 (il témoigne de la vérité) et Doctrine et Alliances 6:14–15, 23 (il éclaire l’esprit et donne la paix)."
@@ -372,10 +376,6 @@
     {
      "t": "example",
      "text": "Dites : « L’Esprit enseigne ce qu’il faut dire, adoucit les cœurs et rappelle la vérité. »"
-    },
-    {
-     "t": "tip",
-     "text": "Donnez une référence à chaque binôme. Partagez les trouvailles à voix haute."
     }
    ]
   },
@@ -384,6 +384,10 @@
    "title": "Inviter l’Esprit quand on enseigne",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Laissez chaque groupe montrer sa compétence en trente secondes."
+    },
     {
      "t": "say",
      "text": "Quatre compétences aident : commencer une leçon de manière à inviter l’Esprit, adapter son enseignement aux besoins de la personne, enseigner pour faire comprendre, et écouter. Laissez quatre groupes prendre chacun une compétence et dire comment elle invite l’Esprit."
@@ -407,10 +411,6 @@
     {
      "t": "example",
      "text": "Dites : « Commençons par une prière et une question simple. »"
-    },
-    {
-     "t": "tip",
-     "text": "Laissez chaque groupe montrer sa compétence en trente secondes."
     }
    ]
   },
@@ -419,6 +419,10 @@
    "title": "Aider les autres à reconnaître l’Esprit",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Montrez comment poser la question après la lecture d’un verset."
+    },
     {
      "t": "say",
      "text": "La conversion demande que la personne ressente l’Esprit à l’œuvre en elle."
@@ -446,10 +450,6 @@
     {
      "t": "example",
      "text": "Dites : « Avez-vous ressenti quelque chose de différent pendant la lecture ? Ce sentiment, c’est l’Esprit. »"
-    },
-    {
-     "t": "tip",
-     "text": "Montrez comment poser la question après la lecture d’un verset."
     }
    ]
   },
@@ -459,8 +459,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Demandez à chacun une inspiration qu’il a suivie."
+    },
+    {
      "t": "read",
-     "text": "Lisez cette déclaration de l’élder Richard G. Scott, « How to Obtain Revelation and Inspiration for Your Personal Life », Ensign, mai 2012 : « Nous recevons l’aide de notre Père céleste en réponse à notre foi, à notre obéissance et au bon usage de notre libre arbitre. »"
+     "text": "Lisez cette déclaration de l’élder Richard G. Scott, « How to Obtain Revelation and Inspiration for Your Personal Life », Ensign, mai 2012 : « **Nous recevons l’aide de notre Père céleste en réponse à notre foi, à notre obéissance et au bon usage de notre libre arbitre.** »"
     },
     {
      "t": "say",
@@ -485,10 +489,6 @@
     {
      "t": "example",
      "text": "Dites : « Quand j’ai ressenti une inspiration, j’ai agi tout de suite, et j’ai été béni. »"
-    },
-    {
-     "t": "tip",
-     "text": "Demandez à chacun une inspiration qu’il a suivie."
     }
    ]
   },

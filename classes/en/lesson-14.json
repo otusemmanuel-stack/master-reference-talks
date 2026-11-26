@@ -237,6 +237,10 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Keep the review short. Let two or three learners share, and thank each one."
+    },
+    {
      "t": "say",
      "text": "Welcome the class warmly. Begin with a prayer and a short thought from scripture to invite the Holy Ghost."
     },
@@ -251,10 +255,6 @@
     {
      "t": "example",
      "text": "Try saying: “Before we start, who would like to tell us what happened when they tried last week’s invitation?”"
-    },
-    {
-     "t": "tip",
-     "text": "Keep the review short. Let two or three learners share, and thank each one."
     }
    ]
   },
@@ -264,16 +264,16 @@
    "w": 4,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
+    },
+    {
      "t": "say",
      "text": "After faith and repentance come baptism and the gift of the Holy Ghost, then a lifetime of enduring to the end. In this lesson learners study these doctrines and practise teaching them."
     },
     {
      "t": "example",
      "text": "Try saying: “Today we will learn, practise and then teach what we learned. Every one of you will teach.”"
-    },
-    {
-     "t": "tip",
-     "text": "Read the introduction aloud slowly. Then ask one learner to say it again in their own words."
     }
    ]
   },
@@ -282,6 +282,10 @@
    "title": "Baptism, our first covenant",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Let half the class define each word."
+    },
     {
      "t": "board",
      "text": "Show a picture of John baptizing Jesus and read Matthew 3:13–17."
@@ -292,7 +296,7 @@
     },
     {
      "t": "board",
-     "text": "Write two words on the board: ordinance and covenant."
+     "text": "Write two words on the board: **ordinance and covenant.**"
     },
     {
      "t": "say",
@@ -304,7 +308,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: baptism is an ordinance that we receive by authority and a covenant we make with God."
+     "text": "Draw out the truth: **baptism is an ordinance that we receive by authority and a covenant we make with God.**"
     },
     {
      "t": "ask",
@@ -333,10 +337,6 @@
     {
      "t": "example",
      "text": "Say: “Baptism is an ordinance by authority and a covenant with God.”"
-    },
-    {
-     "t": "tip",
-     "text": "Let half the class define each word."
     }
    ]
   },
@@ -345,6 +345,10 @@
    "title": "Being ready for baptism",
    "w": 8,
    "blocks": [
+    {
+     "t": "tip",
+     "text": "Give writing time."
+    },
     {
      "t": "read",
      "text": "Read Doctrine and Covenants 20:37."
@@ -359,7 +363,7 @@
     },
     {
      "t": "do",
-     "text": "Give time to write how an investigator shows readiness."
+     "text": "Give time to write how an investigator shows readiness.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "board",
@@ -367,7 +371,7 @@
     },
     {
      "t": "do",
-     "text": "Pairs prepare a short lesson on baptism using one or two scriptures. Two pairs team up, one teaching the other, and the learners say what they learned and how to prepare better for their missions."
+     "text": "Pairs prepare a short lesson on baptism using one or two scriptures. Two pairs team up, one teaching the other, and the learners say what they learned and how to prepare better for their missions.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "listen",
@@ -376,10 +380,6 @@
     {
      "t": "example",
      "text": "Say: “Come with a broken heart and contrite spirit, and receive the Spirit of Christ.”"
-    },
-    {
-     "t": "tip",
-     "text": "Give writing time."
     }
    ]
   },
@@ -389,8 +389,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Write the two parts on the board."
+    },
+    {
      "t": "say",
-     "text": "Share the Prophet Joseph Smith’s teaching that baptism without the gift of the Holy Ghost is only half a baptism."
+     "text": "**Share the Prophet Joseph Smith’s teaching that baptism without the gift of the Holy Ghost is only half a baptism.**"
     },
     {
      "t": "ask",
@@ -406,7 +410,7 @@
     },
     {
      "t": "board",
-     "text": "Write: Born again."
+     "text": "Write: **Born again.**"
     },
     {
      "t": "say",
@@ -422,7 +426,7 @@
     },
     {
      "t": "do",
-     "text": "Give learners a moment to think before they answer. Then pairs prepare a short lesson on the gift of the Holy Ghost, including one or two scriptures, and teach another pair."
+     "text": "Give learners a moment to think before they answer. Then pairs prepare a short lesson on the gift of the Holy Ghost, including one or two scriptures, and teach another pair.\nHow to run it: show one example first, then let pairs try it. Keep it to a few minutes and thank each learner."
     },
     {
      "t": "listen",
@@ -431,10 +435,6 @@
     {
      "t": "example",
      "text": "Say: “Born of water and of the Spirit.”"
-    },
-    {
-     "t": "tip",
-     "text": "Write the two parts on the board."
     }
    ]
   },
@@ -444,8 +444,12 @@
    "w": 8,
    "blocks": [
     {
+     "t": "tip",
+     "text": "Draw the gate and path."
+    },
+    {
      "t": "read",
-     "text": "Read 2 Nephi 31:17 and ask what Nephi called the gate. Read 2 Nephi 31:18–20 and ask what lies beyond the gate and what must follow baptism."
+     "text": "Read 2 Nephi 31:17 and ask what Nephi called the gate. **Read 2 Nephi 31:18–20 and ask what lies beyond the gate and what must follow baptism.**"
     },
     {
      "t": "ask",
@@ -453,7 +457,7 @@
     },
     {
      "t": "board",
-     "text": "Draw out the truth: as we strive to endure, we qualify for eternal life."
+     "text": "Draw out the truth: **as we strive to endure, we qualify for eternal life.**"
     },
     {
      "t": "ask",
@@ -466,10 +470,6 @@
     {
      "t": "example",
      "text": "Say: “Baptism is the gate. Enduring is the path.”"
-    },
-    {
-     "t": "tip",
-     "text": "Draw the gate and path."
     }
    ]
   },
