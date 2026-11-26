@@ -319,9 +319,9 @@
    "w": 8,
    "blocks": [
     {
-     "t": "story",
-     "title": "L’histoire de Joseph, en bref",
-     "text": "Joseph Smith avait quatorze ans. Une vague d’agitation religieuse avait touché sa ville et chaque église disait avoir raison. Il lisait et écoutait, mais il ne savait pas laquelle était vraie. Puis il a lu Jacques 1:5 et a senti qu’il devait demander à Dieu. Un matin de printemps de 1820, il est allé dans les bois près de chez lui et s’est agenouillé pour prier. Aussitôt, une puissance s’est emparée de lui et il a senti qu’il allait être détruit. Il a invoqué Dieu, et une colonne de lumière est descendue sur lui. Dans la lumière se tenaient deux Personnages. L’un l’a appelé par son nom, a désigné l’autre et a dit : « Celui-ci est mon Fils bien-aimé. Écoute-le ! » Joseph a demandé à quelle église se joindre. On lui a répondu de ne se joindre à aucune. Plus tard, il a raconté ce qu’il avait vu et certains se sont moqués de lui. Il a continué à dire la vérité. Touchez les versets pour lire ses propres paroles."
+     "t": "scripture",
+     "title": "Joseph Smith, Histoire 1:1–20",
+     "ref": "Joseph Smith—History 1:1–20"
     },
     {
      "t": "read",
